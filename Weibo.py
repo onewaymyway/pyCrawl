@@ -90,8 +90,11 @@ def getInfo(words):
 
 for i in range(0,1000):
     print("info:",i)
-    getInfo('大姨妈')
-    time.sleep(30)
+    try:
+        getInfo('无聊')
+    except:
+        print('error')
+    time.sleep(10)
 
 
 
