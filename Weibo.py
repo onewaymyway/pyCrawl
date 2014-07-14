@@ -46,8 +46,10 @@ headers = {
 
 displayed={};
 
-def getInfo(words):
+def getInfo(words,page):
     values['containerid']='100103type=2&q='+words;
+    values['page']=page;
+    print('page:',page)
     data = urllib.parse.urlencode(values)
     turl=url+"?"+data;
     req = urllib.request.Request(turl, None, headers)
@@ -89,9 +91,11 @@ def getInfo(words):
 
 
 for i in range(0,1000):
-    print("info:",i)
+    tpage=(i%10)+1;
+    print("info:",i,' page:',tpage)
+    #getInfo('难过',tpage)
     try:
-        getInfo('无聊')
+        getInfo('生日',tpage)
     except:
         print('error')
     time.sleep(10)
