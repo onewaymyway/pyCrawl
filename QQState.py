@@ -4,13 +4,14 @@ import urllib.parse
 import urllib.request
 import json
 import time
+import socket
 #from bs4 import BeautifulSoup
 
 #url = 'http://api.open.baidu.com/pae/channel/data/asyncqury?cb=jQuery110209612188022583723_1405057078072&appid=4001&com=shentong&nu=768936885065&_=1405057078095'
 url = 'http://api.open.baidu.com/pae/channel/data/asyncqury'
 url="http://cgi.find.qq.com/qqfind/buddy/search_v3";
 
-
+socket.setdefaulttimeout(9.0)
 
 tNum=50003251804803;
 
