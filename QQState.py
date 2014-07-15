@@ -4,7 +4,7 @@ import urllib.parse
 import urllib.request
 import json
 import time
-from bs4 import BeautifulSoup
+#from bs4 import BeautifulSoup
 
 #url = 'http://api.open.baidu.com/pae/channel/data/asyncqury?cb=jQuery110209612188022583723_1405057078072&appid=4001&com=shentong&nu=768936885065&_=1405057078095'
 url = 'http://api.open.baidu.com/pae/channel/data/asyncqury'
@@ -83,12 +83,20 @@ def getInfo(words):
         print('离线')
     else:
         print('状态：',tStata)
+        f=open("qq.txt","a");
+        f.write('\n'+'qq:{0}'.format(words));
+        f.write('\n'+time.strftime( ISOTIMEFORMAT, time.localtime()));
+        f.write('\n'+'状态：{0}'.format(tStata));
+        f.close();
 
     
-    
+   
 #getInfo('')
 while(1):
-    getInfo('630097838');
+    try:
+        getInfo('1073810002');
+    except:
+        print('error')
     time.sleep(10)
 
 
