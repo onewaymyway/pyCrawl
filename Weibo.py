@@ -70,13 +70,14 @@ def getInfo(words,page):
     #print(tests)
 
     for tTxt in tests:
-       print('id：'+tTxt['data-id'])
+       print('id：'+tTxt['data-id'],' ','uid:'+tTxt['data-uid'])
        
        did=tTxt['data-id']
        if did in displayed:
           continue
 
-       print('uid:'+tTxt['data-uid'])
+       #print(tTxt)
+       #print('uid:'+tTxt['data-uid'])
        tname=tTxt.find('span','FCLev6 nikename-wb')
        print(tname.string);
        contents=tTxt.find('section','content-wb')
@@ -87,15 +88,16 @@ def getInfo(words,page):
            print(kk.string)
 
        displayed[did]=did
+       print('')
 
 
 
-for i in range(0,1000):
+for i in range(0,10000):
     tpage=(i%10)+1;
     print("info:",i,' page:',tpage)
-    #getInfo('难过',tpage)
+    #getInfo('游戏',tpage)
     try:
-        getInfo('生日',tpage)
+        getInfo('无聊',tpage)
     except:
         print('error')
     time.sleep(10)
