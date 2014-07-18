@@ -95,7 +95,7 @@ def getInfo(words):
 
 while(1):
     try:
-        getInfo('630097838');
+        getInfo('484641127');
         #break
     except:
         print('error')

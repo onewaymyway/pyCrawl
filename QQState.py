@@ -35,7 +35,7 @@ values = {
           'hprovince' : '0',
           'hcity' : '0',
           'online' : '1',
-          'ldw' : '360759066'
+          'ldw' : '1676166299'
         #  'ext' : 'sourceType:'
        #   'nu' : tNum
          }
@@ -51,8 +51,8 @@ headers = {
     'Origin': 'http://find.qq.com',
     'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
     'Connection' : 'keep-alive',
-    'Cookie' : 'uin=o484641127; skey=ZzqCm70ICM;',
-    #'Cookie' : 'RK=J5FrJKalWu; pt2gguin=o0484641127; ptcz=e9fe4398eb29335c4dd918e3326fc04dd2e294f2a7331a7abd6f39bd5faeee92; pgv_pvid=2092053654; o_cookie=484641127; uin=o484641127; skey=ZzqCm70ICM; itkn=1928745486',
+    'Cookie' : 'uin=o484641127; skey=ZjSTFrW4Fb;',
+    #'Cookie' : ,
     'Referer' : 'Http://find.qq.com/index.html?version=1&width=910&height=610&search_target=0',
     'User-Agent' : 'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153',
     'X-Requested-With' : 'XMLHttpRequest'
@@ -93,9 +93,11 @@ def getInfo(words):
     
    
 #getInfo('')
+
 while(1):
     try:
-        getInfo('1073810002');
+        getInfo('484641127');
+        break
     except:
         print('error')
     time.sleep(10)
