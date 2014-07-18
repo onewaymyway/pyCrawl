@@ -8,7 +8,7 @@ filename = 'config.txt'#保存微博账号的用户名和密码，第一行为�
 words="无聊";
 def searchWB():
     print('seachRst:')
-    turl='http://s.weibo.com/weibo/'+urllib.parse.quote(words)+'/?topnav=1&wvr=5&b=1';
+    turl='http://s.weibo.com/weibo/'+urllib.parse.quote(words)+'?topnav=1&wvr=5&b=1';
     result=urllib.request.urlopen(turl).read().decode('utf8')
     #print(result)
     f=open('wb.txt','w')
