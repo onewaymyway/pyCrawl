@@ -47,6 +47,7 @@ headers = {
 displayed={};
 
 def getInfo(words,page):
+    global tpage
     values['containerid']='100103type=2&q='+words;
     values['page']=page;
     print('page:',page)
@@ -74,6 +75,7 @@ def getInfo(words,page):
        
        did=tTxt['data-id']
        if did in displayed:
+          #tpage=0
           continue
 
        #print(tTxt)
@@ -91,15 +93,16 @@ def getInfo(words,page):
        print('')
 
 
-
-for i in range(0,10000):
-    tpage=(i%10)+1;
-    print("info:",i,' page:',tpage)
+tpage=1
+while(1):
+    tpage=((tpage-1)%10)+1;
+    print("info:",tpage,' page:',tpage)
     #getInfo('游戏',tpage)
     try:
-        getInfo('无聊',tpage)
+        getInfo('大姨妈',tpage)
     except:
         print('error')
+    tpage+=1
     time.sleep(10)
 
 
