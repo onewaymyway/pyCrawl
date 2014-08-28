@@ -13,7 +13,7 @@ import random
 url = 'http://api.open.baidu.com/pae/channel/data/asyncqury'
 url="http://www.ss911.cn/pages/reg/regUser.aspx";
 
-socket.setdefaulttimeout(9.0)
+socket.setdefaulttimeout(19.0)
 
 tNum=50003251804803;
 
@@ -51,15 +51,20 @@ headers = {
     'X-Requested-With' : 'XMLHttpRequest'
             }
 cj = http.cookiejar.CookieJar()
-proxy_handler = urllib.request.ProxyHandler({'http':'183.224.1.115:80'})
+proxy_handler = urllib.request.ProxyHandler({'http':'212.192.120.67:3128'})
 proxy_auth_handler = urllib.request.ProxyBasicAuthHandler()
 opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj), proxy_handler)
 displayed={};
 ISOTIMEFORMAT='%Y-%m-%d %X'
-def regCount(uname,sex,udName):
+def regCount():
+    uname=getARandomEName()
     getYzm()
     print('keyword:',uname)
     values["txtname"]=uname;
+    print('uname:',uname,'-')
+    values["txtemail"]=uname+"@126.com";
+    values["txtpass1"]=uname+"123";
+    values["txtpass2"]=values["txtpass1"]
     yzm = input('Enter yzm: ')
     values["txtyzm"]=yzm
     data = urllib.parse.urlencode(values)
@@ -79,12 +84,23 @@ def regCount(uname,sex,udName):
                   tUserValue=urllib.parse.unquote(cks.value)
         print('注册成功')
         print(uname," ",tUserValue)
-        setName(udName,tUserValue,sex)
+        dname=setName(tUserValue)
+        f=open("rgd.txt","a")
+        rst=[uname,values["txtpass1"],values["txtemail"],dname,tUserValue]
+        str=','.join(rst)
+        f.write(str+"\n")
+        f.close()
     elif rstTxt.find('IP超过了注册上限，不能注册！')>=0:
         print('IP超过了注册上限')
+    elif rstTxt.find('该用户名已经被注册了')>=0:
+        print('该用户名已经被注册了')
+    elif rstTxt.find('验证码输入不正确！')>=0:
+        print('验证码输入不正确！')
+    
     else:
         print(rstTxt)
         print('注册失败')
+    regCount()
 
 
 
@@ -101,10 +117,12 @@ def getYzm():
     f.close()
 
 
-def setName(tUname,uvalue,sex):
+def setName(uvalue):
+    tname=getARandomName()
+    print('trySetName:',tname,'-')
     nameValue={
-        "username":tUname,
-        "sex":sex,
+        "username":tname,
+        "sex":getArandomSex(),
         "uv":uvalue,
         "rd":""
         }
@@ -117,16 +135,69 @@ def setName(tUname,uvalue,sex):
     print(dd)
     if dd.find('OK')>=0:
         print('改名成功')
+        return tname
     else:
         yzm = input('Enter cName: ')
-        setName(getNewName(tUname),uvalue,sex)
+        return setName(uvalue)
     
 def getNewName(oname):
     return oname+"s"
+
+def initNamedic():
+    f=open("names.txt","r",encoding="utf-8");
+    namets=f.readline();
+    global namedic
+    namedic=namets.split(',')
+    print('len:',len(namedic))
+    f.close()
+
+def getARandomName():
+    tlen=len(namedic)
+    tc=int(tlen*random.random())%tlen
+    return namedic[tc]
+
+def getArandomSex():
+    if random.random()>0.4:
+        return "0"
+    else:
+        return "1"
+
+def preDealE():
+    f=open("enames.txt","r",encoding="utf-8")
+    wf=open("enamess.txt","w",encoding="utf-8")
+    ck=[]
+    for line in f.readlines():
+        if line.find('.')<0:
+            ck.append(''.join(line.split()))
+    wf.write(",".join(ck));
+    f.close();
+    wf.close();
+def initEnames():
+    f=open("enamess.txt","r",encoding="utf-8");
+    namets=f.readline();
+    global enamedic
+    enamedic=namets.split(',')
+    print('len:',len(enamedic))
+    f.close()
+
+def getARandomEName():
+    tlen=len(enamedic)
+    tc=int(tlen*random.random())%tlen
+    ti=str(int(999*random.random()))
+    rst=enamedic[tc]+ti
+    if len(rst)>12:
+        rst=rst[0:11]
+    return rst
+
+namedic=[];
+enamedic=[];
 tsname="potaa"
+initNamedic();
+print(getARandomName())
+initEnames();
+print(getARandomEName())
 
-
-regCount('hhm014','0','嘿嘿')
+regCount()
 
 ##while(1):
 ##    try:
