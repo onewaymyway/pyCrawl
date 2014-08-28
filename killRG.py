@@ -6,6 +6,7 @@ import json
 import time
 import socket
 import http.cookiejar
+import random
 #from bs4 import BeautifulSoup
 
 #url = 'http://api.open.baidu.com/pae/channel/data/asyncqury?cb=jQuery110209612188022583723_1405057078072&appid=4001&com=shentong&nu=768936885065&_=1405057078095'
@@ -50,27 +51,44 @@ headers = {
     'X-Requested-With' : 'XMLHttpRequest'
             }
 cj = http.cookiejar.CookieJar()
-proxy_handler = urllib.request.ProxyHandler({'http':'183.224.1.114:80'})  
-proxy_auth_handler = urllib.request.ProxyBasicAuthHandler()   
-opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj), proxy_handler)  
+proxy_handler = urllib.request.ProxyHandler({'http':'183.224.1.115:80'})
+proxy_auth_handler = urllib.request.ProxyBasicAuthHandler()
+opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj), proxy_handler)
 displayed={};
 ISOTIMEFORMAT='%Y-%m-%d %X'
-def getInfo(words):
-    print('keyword:',words)
-    yzm = input('Enter text: ')
+def regCount(uname,sex,udName):
+    getYzm()
+    print('keyword:',uname)
+    values["txtname"]=uname;
+    yzm = input('Enter yzm: ')
     values["txtyzm"]=yzm
     data = urllib.parse.urlencode(values)
-    data = data.encode('utf-8') 
+    data = data.encode('utf-8')
     turl=url;
     req = urllib.request.Request(turl,data,headers)
     #response = urllib.request.urlopen(req)
     response = opener.open(req)
     the_page = response.read()
-
-    print(the_page.decode('utf-8'))
+    rstTxt=the_page.decode('utf-8')
+    
     print(cj)
-    for cks in cj:
-        print(cks.name+" "+cks.value)
+    if rstTxt.find('常见问题解答')>=0:
+        for cks in cj:
+                print(cks.name+" "+urllib.parse.unquote(cks.value))
+                if(cks.name=="uservalues"):
+                  tUserValue=urllib.parse.unquote(cks.value)
+        print('注册成功')
+        print(uname," ",tUserValue)
+        setName(udName,tUserValue,sex)
+    elif rstTxt.find('IP超过了注册上限，不能注册！')>=0:
+        print('IP超过了注册上限')
+    else:
+        print(rstTxt)
+        print('注册失败')
+
+
+
+def getYzm():
     value={"dt":"Wed Aug 27 2014 16:33:02 GMT 0800 (中国标准时间)"}
     purl="http://www.ss911.cn/pages/yzm.aspx?"+urllib.parse.urlencode(value)
     req=urllib.request.Request(purl,None,headers)
@@ -81,15 +99,34 @@ def getInfo(words):
     f=open("yzma.png","wb")
     f.write(pic);
     f.close()
-    
 
- 
- 
-        
 
+def setName(tUname,uvalue,sex):
+    nameValue={
+        "username":tUname,
+        "sex":sex,
+        "uv":uvalue,
+        "rd":""
+        }
+    nameValue['rd']=9999*random.random()
+    nameValue['rd']='8468.362554495223'
+    tnameUrl="http://t1.ss911.cn/User/Register.ss?"+urllib.parse.urlencode(nameValue)
+    req=urllib.request.Request(tnameUrl,None)
+    pd=opener.open(req)
+    dd=pd.read().decode('utf-8')
+    print(dd)
+    if dd.find('OK')>=0:
+        print('改名成功')
+    else:
+        yzm = input('Enter cName: ')
+        setName(getNewName(tUname),uvalue,sex)
     
-   
-getInfo('484641127')
+def getNewName(oname):
+    return oname+"s"
+tsname="potaa"
+
+
+regCount('hhm014','0','嘿嘿')
 
 ##while(1):
 ##    try:
