@@ -51,7 +51,7 @@ headers = {
     'X-Requested-With' : 'XMLHttpRequest'
             }
 cj = http.cookiejar.CookieJar()
-proxy_handler = urllib.request.ProxyHandler({'http':'212.192.120.67:3128'})
+proxy_handler = urllib.request.ProxyHandler({'http':'220.181.32.106:80'})
 proxy_auth_handler = urllib.request.ProxyBasicAuthHandler()
 opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj), proxy_handler)
 displayed={};
@@ -63,7 +63,7 @@ def regCount():
     values["txtname"]=uname;
     print('uname:',uname,'-')
     values["txtemail"]=uname+"@126.com";
-    values["txtpass1"]=uname+"123";
+    values["txtpass1"]=uname;
     values["txtpass2"]=values["txtpass1"]
     yzm = input('Enter yzm: ')
     values["txtyzm"]=yzm
