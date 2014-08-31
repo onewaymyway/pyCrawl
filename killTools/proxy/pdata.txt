@@ -1,0 +1,456 @@
+﻿
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"  xml:lang="zh-CN" lang="zh-CN">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<meta name ="keywords" content="QQ,HTTP,SOCKS4,SOCKS5,代理,免费,代理,匿名,高度匿名,透明,纯真,纯真网络,cz88">
+<meta name ="Description" content="QQ,HTTP,SOCKS4,SOCKS5,代理,免费,代理,匿名,高度匿名,透明,纯真,纯真网络,cz88">
+<title>QQ代理,HTTP,SOCKS4,SOCKS5代理 - 纯真 - 穿越时空隧道，重拾昔日纯真！</title>
+<style type="text/css">
+body { text-align: center; font-family:"宋体", arial;margin:0; padding:0; background: #ffffff; font-size:12px; color:#0c2958;}
+div,form,img,ul,ol,li,dl,dt,dd,cite{margin: 0 auto; padding: 0; border: 0;}
+table,td,tr,th{font-size:12px;}
+input,select,textarea { margin: 0 auto; padding: 0; border:1px solid #b0bec7; line-height:16px; font-size:12px; background-color:#e4e9eD; }
+cite{ float:right; width:80px; font-style:normal; color: #999; overflow: hidden; text-overflow:ellipsis; white-space:nowrap; }
+.inputtext{ height: 18px; background-color:#fff; }
+
+a:link { color: #0c2958;text-decoration: none; }
+a:visited { color: #0c2958;text-decoration: none; }
+a:hover { color: #bc2931;text-decoration: underline;cursor:hand; }
+a:active { color: #0c2958;text-decoration: none; }
+
+.left{ float: left;}
+.right{ float: right;}
+.clear{ clear: both; font-size:1px; width:1px; visibility: hidden; }
+.hidden {display: none;}
+.divbox{ width:760px; }
+
+.blankline{ height:8px; font-size:1px; clear:both;overflow:hidden; }
+.spaceline{ width:1px; padding:3px; font-size:1px; float:left; }
+.menunav{ width:760px; height:60px; background:#eef6f9; border:1px solid #b0bec7; }
+.menunav .content{ float:right; width:480px;padding:12px 0 0;}
+.menunav .content .end{background:none;}
+.menunav .content ul{}
+.menunav .content li{cursor:hand; float:left; list-style-type:none; width:80px; padding:3px 0; display:block; background:url(/images/index/nav_bg.gif) right 3px no-repeat;}
+  
+
+#Main { border:1px solid #ccc; height:auto; width:760px!important; width:760px; !important; margin-top:-1px;}
+#MainBg { float:left; background-color:#fff;display:block; }
+#Main h1 { font-size: 16px; }
+#Main .LeftNav{ float:left; width: 250px; word-break:break-all; display:block; }
+#Main .NavBox{ margin-top:10px; clear:both; border:2px solid #eee; }
+#Main .NavBoxTitle{ height:18px; text-align:left; color:#0c2958; background:url(/images/index/navbg2.gif); font-family:仿宋; font-weight:bold; padding:4px 4px 0px 4px; border-bottom:1px solid #b0bec7;}
+#Main .NavBoxContent{ text-align:left; }
+#Main .NavBoxContent li{ height: 18px; padding-top: 4px; padding-left: 8px; border-bottom:1px dotted #ccc; overflow:hidden;  }
+
+#Content{ padding-left:10px; float:right; width: 490px; background-color:#fff; padding-top: 10px ;padding-right: 10px; text-align:left; display:block;word-break:break-all; }
+#Content .Head{ clear:both; text-align:center; font-size:large; font-weight:bold; }
+#Content .MainNav{ clear:both; text-align:center; }
+#Content .Main{ clear:both; text-align:left; }
+#Content .Foot{ clear:both; text-align:right; padding-top:20px; }
+
+tr { height:18px; text-align:center; }
+td { background-color:#fff; }
+.addr_style { text-align:left; padding-left: 4px; }
+</style>
+<meta name="robots" content="all" />
+<meta name="googlebot" content="all" />
+<link rel="Shortcut Icon" href="http://www.cz88.net/favicon.ico" />
+<link rel="Bookmark" href="http://www.cz88.net/favicon.ico" />
+
+<script type='text/javascript' src='http://drmcmm.baidu.com/js/m.js'></script>
+<script type='text/javascript'>
+BAIDU_CLB_addSlot('10444');
+BAIDU_CLB_addSlot('10438');
+BAIDU_CLB_addSlot('10424');
+BAIDU_CLB_enableAllSlots();
+</script>
+</head>
+<body>
+<div class="blankline"></div>
+<div class="menunav">
+ <div style="float:left; width:220px; padding-left:8px;">
+  <a href="http://www.cz88.net"><img src="/images/index/logo.gif" alt="纯真网络" width="210px" height="60px" /></a>  
+ </div>
+ <div class="content">
+  <ul>
+   <li><a href="http://bbs.cz88.net" title="纯真时空论坛" style="color:#660099;">纯真论坛</a></li>
+   <li><a href="http://www.cz88.net/stock/" title="最新，最全的证券信息、黑马介绍" style="color:red;">纯真证券</a></li>
+   <li><a href="http://www.cz88.net/proxy/" title="免费HTTP,Socks4,5代理">免费代理</a></li>
+   <li><a href="http://www.cz88.net/down/" title="软件下载" style="color:red;">纯真下载</a></li>
+   <li><a href="http://www.cz88.net/ip" title="IP地址显示，IP地址查询，IP地址更正" style="color:red;">IP小秘书</a></li>
+   <li class="end"><a href="javascript:window.external.AddFavorite('http://www.cz88.net','纯真 - 穿越时空隧道，重拾昔日纯真！')" target=_top>收藏本站</a></li>
+   <li><a href="http://www.cz88.net/bt/" title="纯真BT，电影、影视、连续剧、综艺、动漫、游戏" style="color:blue;">纯真ＢＴ</a></li>
+   <li><a href="http://www.cz88.net/fox/" title="QQ IP数据库等下载">金狐软件</a></li>
+   <li><a href="http://www.cz88.net/im/" title="网络聊天软件(IM)相关信息">纯真ＩＭ</a></li>
+   <li><a href="http://www.cz88.net/qq/" title="免费QQ信息,使用技巧,QQ空间代码,QQ软件下载">腾讯ＱＱ</a></li>
+   <li><a href="http://www.cz88.net/it/" title="IT资讯">ＩＴ资讯</a></li>
+   <li class="end"><a style="BEHAVIOR: url(#default#homepage)" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.cz88.net');return(false);" href="http://www.cz88.net/">设为首页</a></li>
+  </ul>
+ </div>
+</div>
+<div style="clear:both; height:3px; width:750px; background-color:#b0bec7; font-size:1px"></div>
+ 
+<div class="blankline"></div>
+<div id="Main">
+<div id="MainBg">
+ <div class="LeftNav">
+ 	  <div style="width:100%;text-align:center;"><script type="text/javascript">/*自定义标签云，创建于2013-7-31*/ var cpro_id = "u1332506";</script><script src="http://cpro.baidustatic.com/cpro/ui/c.js" type="text/javascript"></script></div>
+  <div class="NavBox">
+   <div class="NavBoxTitle">代理教程</div>
+   <div class="NavBoxContent">
+    <ul>
+	 <li><a href="/proxy/help/qq.shtml">QQ设置代理教程</a></li>
+	 <li><a href="/proxy/help/msn.shtml">Msn设置代理教程</a></li>
+	 <li><a href="/proxy/help/ie.shtml">IE设置代理教程</a></li>
+	 <li><a href="/proxy/help/maxthon.shtml">Maxthon设置代理教程</a></li>
+	</ul>
+   </div>
+  </div>
+  <div style="width:100%;text-align:center;"><script type="text/javascript"> /*250*250，创建于2010-5-24*/ var cpro_id = 'u21567';</script>
+<script type="text/javascript" src="http://cpro.baidu.com/cpro/ui/c.js"></script></div>
+  <div class="NavBox">
+   <div class="NavBoxTitle">HTTP代理列表</div>
+   <div class="NavBoxContent">
+    <ul>
+	 <li><a href="/proxy/index.aspx">HTTP代理列表 1</a></li>
+	 <li><a href="/proxy/http_2.aspx">HTTP代理列表 2</a></li>
+	 <li><a href="/proxy/http_3.aspx">HTTP代理列表 3</a></li>
+	 <li><a href="/proxy/http_4.aspx">HTTP代理列表 4</a></li>
+	 <li><a href="/proxy/http_5.aspx">HTTP代理列表 5</a></li>
+	 <li><a href="/proxy/http_6.aspx">HTTP代理列表 6</a></li>
+	 <li><a href="/proxy/http_7.aspx">HTTP代理列表 7</a></li>
+	 <li><a href="/proxy/http_8.aspx">HTTP代理列表 8</a></li>
+	 <li><a href="/proxy/http_9.aspx">HTTP代理列表 9</a></li>
+	 <li><a href="/proxy/http_10.aspx">HTTP代理列表 10</a></li>
+    </ul>
+   </div>
+  </div>
+  <div class="NavBox">
+   <div class="NavBoxTitle">SOCKS代理列表</div>
+   <div class="NavBoxContent">
+    <ul>
+	 <li><a href="/proxy/socks4.aspx">SOCKS4代理列表 1</a></li>
+	 <li><a href="/proxy/socks4_2.aspx">SOCKS4代理列表 2</a></li>
+	 <li><a href="/proxy/socks4_3.aspx">SOCKS4代理列表 3</a></li>
+	 <li><a href="/proxy/socks5.aspx">SOCKS5代理列表 1</a></li>
+	 <li><a href="/proxy/socks5_2.aspx">SOCKS5代理列表 2</a></li>
+    </ul>
+   </div>
+  </div>
+  <br />
+
+ </div>
+ <div id="Content">
+  <div class="Head"><h1>HTTP 代理 （一）</h1></div>
+  <div class="MainNav">
+  	发布日期：2014 - 8 - 30&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://bbs.cz88.net/forumdisplay.php?fid=25" title="获取更多更好的代理">更多、更好、更新的代理。。。</a>
+  </div>
+  <div class="Main">
+  <table cellpadding="0" cellspacing="1" style="width:100%; background-color:#ccc;">
+   <tr>
+    <td style="width:25%;background-color:#eee;">IP</td>
+    <td style="width:10%;background-color:#eee;">端口</td>
+    <td style="width:15%;background-color:#eee;">类型</td>
+    <td style="width:10%;background-color:#eee;">查询</td>
+    <td style="width:40%;background-color:#eee;">地址</td>
+   </tr>
+   <tr><td>180.183.74.23</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">泰国  CZ88.NET</div></td></tr>
+   <tr><td>58.246.179.82</td><td>808</td><td>透明</td><td>whois</td><td><div class="addr_style">上海市 联通</div></td></tr>
+   <tr><td>190.60.39.188</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">哥伦比亚  CZ88.NET</div></td></tr>
+   <tr><td>213.165.90.63</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">德国  CZ88.NET</div></td></tr>
+   <tr><td>182.52.69.219</td><td>8081</td><td>透明</td><td>whois</td><td><div class="addr_style">泰国  CZ88.NET</div></td></tr>
+   <tr><td>200.41.168.3</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">阿根廷  CZ88.NET</div></td></tr>
+   <tr><td>213.180.83.75</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">瑞典  CZ88.NET</div></td></tr>
+   <tr><td>110.77.212.54</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">泰国  CZ88.NET</div></td></tr>
+   <tr><td>60.161.14.77</td><td>8001</td><td>透明</td><td>whois</td><td><div class="addr_style">云南省红河州 电信</div></td></tr>
+   <tr><td>41.164.142.154</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">南非  CZ88.NET</div></td></tr>
+   <tr><td>125.235.241.132</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">越南 Vietel(越南电信)xDSL宽带</div></td></tr>
+   <tr><td>86.51.186.34</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">沙特阿拉伯  CZ88.NET</div></td></tr>
+   <tr><td>186.215.126.221</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">巴西  CZ88.NET</div></td></tr>
+   <tr><td>177.69.67.248</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">巴西  CZ88.NET</div></td></tr>
+   <tr><td>192.240.155.165</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">美国  CZ88.NET</div></td></tr>
+   <tr><td>213.81.160.126</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">斯洛伐克 SK电信</div></td></tr>
+   <tr><td>122.155.40.12</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">泰国  CZ88.NET</div></td></tr>
+   <tr><td>41.160.143.227</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">南非  CZ88.NET</div></td></tr>
+   <tr><td>198.136.50.131</td><td>7808</td><td>透明</td><td>whois</td><td><div class="addr_style">美国  CZ88.NET</div></td></tr>
+   <tr><td>202.57.69.84</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">菲律宾  CZ88.NET</div></td></tr>
+   <tr><td>221.130.17.37</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">江苏省南京市 移动</div></td></tr>
+   <tr><td>71.144.122.234</td><td>8008</td><td>透明</td><td>whois</td><td><div class="addr_style">美国  CZ88.NET</div></td></tr>
+   <tr><td>85.105.245.192</td><td>808</td><td>透明</td><td>whois</td><td><div class="addr_style">土耳其 电信</div></td></tr>
+   <tr><td>198.251.67.194</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">美国  CZ88.NET</div></td></tr>
+   <tr><td>85.105.35.142</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">土耳其 电信</div></td></tr>
+   <tr><td colspan="5"><script type="text/javascript">/*468*60，创建于2012-7-25*/ var cpro_id = 'u997045';</script><script src="http://cpro.baidu.com/cpro/ui/c.js" type="text/javascript"></script></td></tr>
+   <tr><td>204.51.174.149</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">美国 加利福尼亚州旧金山市GoGrid公司</div></td></tr>
+   <tr><td>223.84.224.50</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">江西省吉安市 移动</div></td></tr>
+   <tr><td>202.152.228.75</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">印度尼西亚  CZ88.NET</div></td></tr>
+   <tr><td>163.125.99.29</td><td>9999</td><td>透明</td><td>whois</td><td><div class="addr_style">广东省深圳市 联通</div></td></tr>
+   <tr><td>103.29.144.41</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">蒙古  CZ88.NET</div></td></tr>
+   <tr><td>162.105.17.112</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">北京市 北京大学北阁/遥感所</div></td></tr>
+   <tr><td>200.168.172.226</td><td>6588</td><td>透明</td><td>whois</td><td><div class="addr_style">巴西 圣保罗</div></td></tr>
+   <tr><td>183.219.103.103</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">江西省鹰潭市 移动</div></td></tr>
+   <tr><td>223.82.93.227</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">江西省赣州市 移动</div></td></tr>
+   <tr><td>223.82.140.141</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">江西省抚州市 移动</div></td></tr>
+   <tr><td>192.80.24.201</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">智利 智利大学</div></td></tr>
+   <tr><td>213.248.54.230</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">俄罗斯  CZ88.NET</div></td></tr>
+   <tr><td>200.46.3.131</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">巴拿马  CZ88.NET</div></td></tr>
+   <tr><td>223.86.116.191</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">四川省达州市 移动</div></td></tr>
+   <tr><td>91.72.147.138</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">阿联酋  CZ88.NET</div></td></tr>
+   <tr><td>14.18.16.71</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">广东省广州市 电信</div></td></tr>
+   <tr><td>221.130.17.132</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">江苏省南京市 移动</div></td></tr>
+   <tr><td>183.220.194.85</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">四川省广元市 移动</div></td></tr>
+   <tr><td>123.52.130.52</td><td>9999</td><td>透明</td><td>whois</td><td><div class="addr_style">河南省洛阳市 电信</div></td></tr>
+   <tr><td>191.5.101.10</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">拉美地区  CZ88.NET</div></td></tr>
+   <tr><td>103.9.190.146</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">柬埔寨  CZ88.NET</div></td></tr>
+   <tr><td>112.65.19.122</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">上海市 联通漕河泾IDC机房</div></td></tr>
+   <tr><td>115.227.195.137</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">浙江省嘉兴市 电信</div></td></tr>
+   <tr><td>183.60.103.2</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">广东省深圳市 电信IDC机房</div></td></tr>
+   <tr><td>200.96.53.3</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">巴西  CZ88.NET</div></td></tr>
+   <tr><td colspan="5"></td></tr>
+   <tr><td>109.224.11.21</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">伊拉克  CZ88.NET</div></td></tr>
+   <tr><td>223.82.165.75</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">江西省鹰潭市 移动</div></td></tr>
+   <tr><td>69.20.25.111</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">美国 德克萨斯州圣安东尼奥市Rackspace Hosting公</div></td></tr>
+   <tr><td>218.190.91.137</td><td>9415</td><td>透明</td><td>whois</td><td><div class="addr_style">香港 和记环球电讯有限公司</div></td></tr>
+   <tr><td>107.0.69.189</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">美国 新泽西州伯灵顿县月桂山乡Comcast有线通信股份有限公司</div></td></tr>
+   <tr><td>213.134.24.16</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">匈牙利  CZ88.NET</div></td></tr>
+   <tr><td>183.221.50.130</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">四川省攀枝花市 移动</div></td></tr>
+   <tr><td>117.177.54.172</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">四川省雅安市 移动</div></td></tr>
+   <tr><td>119.235.21.13</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">印度尼西亚  CZ88.NET</div></td></tr>
+   <tr><td>218.91.206.146</td><td>8001</td><td>透明</td><td>whois</td><td><div class="addr_style">江苏省南通市如皋市 电信</div></td></tr>
+   <tr><td>202.143.159.251</td><td>3129</td><td>透明</td><td>whois</td><td><div class="addr_style">泰国  CZ88.NET</div></td></tr>
+   <tr><td>181.114.225.185</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">阿根廷  CZ88.NET</div></td></tr>
+   <tr><td>211.70.221.185</td><td>18186</td><td>透明</td><td>whois</td><td><div class="addr_style">江苏省徐州市 中国矿业大学</div></td></tr>
+   <tr><td>61.153.209.18</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">浙江省舟山市 电信</div></td></tr>
+   <tr><td>122.136.46.151</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">吉林省延边州 上海网宿科技股份有限公司联通CDN节点</div></td></tr>
+   <tr><td>223.83.63.57</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">江西省抚州市 移动</div></td></tr>
+   <tr><td>107.155.187.154</td><td>7808</td><td>透明</td><td>whois</td><td><div class="addr_style">北美地区  CZ88.NET</div></td></tr>
+   <tr><td>117.172.98.107</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">四川省乐山市 移动</div></td></tr>
+   <tr><td>183.89.91.160</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">泰国  CZ88.NET</div></td></tr>
+   <tr><td>220.185.103.0</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">浙江省嘉兴市 电信</div></td></tr>
+   <tr><td>191.103.3.127</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">拉美地区  CZ88.NET</div></td></tr>
+   <tr><td>117.139.119.246</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">四川省宜宾市 移动</div></td></tr>
+   <tr><td>122.232.231.12</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">浙江省嘉兴市 电信ADSL</div></td></tr>
+   <tr><td>183.221.220.103</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">四川省雅安市 移动</div></td></tr>
+   <tr><td>117.176.29.76</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">四川省资阳市 移动</div></td></tr>
+   <tr><td>119.4.115.51</td><td>8090</td><td>透明</td><td>whois</td><td><div class="addr_style">四川省成都市 联通</div></td></tr>
+   <tr><td>122.252.227.178</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">印度  CZ88.NET</div></td></tr>
+   <tr><td>217.92.214.203</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">德国  CZ88.NET</div></td></tr>
+   <tr><td>221.130.17.152</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">江苏省南京市 移动</div></td></tr>
+   <tr><td>122.224.249.204</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">浙江省杭州市 电信</div></td></tr>
+   <tr><td>218.29.154.54</td><td>8000</td><td>透明</td><td>whois</td><td><div class="addr_style">河南省三门峡市 联通</div></td></tr>
+   <tr><td>115.31.187.179</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">泰国  CZ88.NET</div></td></tr>
+   <tr><td>221.2.33.109</td><td>8585</td><td>透明</td><td>whois</td><td><div class="addr_style">山东省济宁市 联通</div></td></tr>
+   <tr><td>183.141.67.81</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">浙江省嘉兴市 电信</div></td></tr>
+   <tr><td>77.175.154.158</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">荷兰  CZ88.NET</div></td></tr>
+   <tr><td>196.28.228.253</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">莫桑比克  CZ88.NET</div></td></tr>
+   <tr><td>110.8.253.100</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">韩国  CZ88.NET</div></td></tr>
+   <tr><td>117.165.54.74</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">中国 移动</div></td></tr>
+   <tr><td>61.234.123.64</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">广东省珠海市 铁通</div></td></tr>
+   <tr><td>173.245.65.30</td><td>8888</td><td>透明</td><td>whois</td><td><div class="addr_style">美国 加利福尼亚州圣何塞EGIHosting</div></td></tr>
+   <tr><td>220.248.245.158</td><td>8088</td><td>透明</td><td>whois</td><td><div class="addr_style">安徽省合肥市 联通</div></td></tr>
+   <tr><td>223.83.215.230</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">江西省宜春市 移动</div></td></tr>
+   <tr><td>183.221.48.11</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">四川省攀枝花市 移动</div></td></tr>
+   <tr><td>115.28.18.83</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">北京市 万网IDC机房</div></td></tr>
+   <tr><td>120.203.214.182</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">江西省鹰潭市 移动</div></td></tr>
+   <tr><td>62.244.31.16</td><td>7808</td><td>透明</td><td>whois</td><td><div class="addr_style">乌克兰  CZ88.NET</div></td></tr>
+   <tr><td>222.83.211.30</td><td>9999</td><td>透明</td><td>whois</td><td><div class="addr_style">广西贵港市桂平市 金田镇腾龙网吧</div></td></tr>
+   <tr><td>117.174.0.104</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">四川省德阳市 移动</div></td></tr>
+   <tr><td>183.224.1.112</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">云南省昆明市 移动</div></td></tr>
+   <tr><td>86.51.26.21</td><td>443</td><td>透明</td><td>whois</td><td><div class="addr_style">沙特阿拉伯  CZ88.NET</div></td></tr>
+   <tr><td>200.96.53.10</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">巴西  CZ88.NET</div></td></tr>
+   <tr><td>81.17.208.215</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">德国  CZ88.NET</div></td></tr>
+   <tr><td>111.205.122.222</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">北京市 联通</div></td></tr>
+   <tr><td>190.184.144.78</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">哥伦比亚  CZ88.NET</div></td></tr>
+   <tr><td>183.89.67.83</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">泰国  CZ88.NET</div></td></tr>
+   <tr><td>193.233.51.98</td><td>81</td><td>透明</td><td>whois</td><td><div class="addr_style">俄罗斯 international university of </div></td></tr>
+   <tr><td>211.103.250.146</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">北京市 电信通</div></td></tr>
+   <tr><td>216.157.222.83</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">美国  CZ88.NET</div></td></tr>
+   <tr><td>183.89.154.77</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">泰国  CZ88.NET</div></td></tr>
+   <tr><td>125.164.56.155</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">印度尼西亚 PTTelekomunikasi网络</div></td></tr>
+   <tr><td>112.78.147.211</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">印度尼西亚  CZ88.NET</div></td></tr>
+   <tr><td>223.84.50.29</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">江西省景德镇市 移动</div></td></tr>
+   <tr><td>117.170.13.149</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">江西省九江市 移动</div></td></tr>
+   <tr><td>117.172.98.148</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">四川省乐山市 移动</div></td></tr>
+   <tr><td>183.223.29.110</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">四川省雅安市 移动</div></td></tr>
+   <tr><td>183.221.53.208</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">四川省攀枝花市 移动</div></td></tr>
+   <tr><td>117.164.28.61</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">江西省赣州市 移动</div></td></tr>
+   <tr><td>200.249.172.59</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">巴西 圣保罗</div></td></tr>
+   <tr><td>103.247.103.136</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">印度尼西亚  CZ88.NET</div></td></tr>
+   <tr><td>221.130.17.128</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">江苏省南京市 移动</div></td></tr>
+   <tr><td>183.221.188.244</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">四川省资阳市 移动</div></td></tr>
+   <tr><td>61.14.178.18</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">日本 亚太环通(Pacnet)有限公司</div></td></tr>
+   <tr><td>117.171.239.100</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">江西省南昌市 移动</div></td></tr>
+   <tr><td>117.170.249.66</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">江西省 移动</div></td></tr>
+   <tr><td>27.123.222.26</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">印度尼西亚  CZ88.NET</div></td></tr>
+   <tr><td>183.238.17.126</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">广东省深圳市 移动</div></td></tr>
+   <tr><td>186.235.237.140</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">巴西  CZ88.NET</div></td></tr>
+   <tr><td>27.46.20.82</td><td>9999</td><td>透明</td><td>whois</td><td><div class="addr_style">广东省深圳市 联通</div></td></tr>
+   <tr><td>117.170.177.87</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">江西省抚顺市 移动</div></td></tr>
+   <tr><td>190.73.124.200</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">委内瑞拉 加拉加斯市</div></td></tr>
+   <tr><td>212.186.222.164</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">奥地利  CZ88.NET</div></td></tr>
+   <tr><td>195.235.161.28</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">西班牙  CZ88.NET</div></td></tr>
+   <tr><td>186.233.170.126</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">巴西  CZ88.NET</div></td></tr>
+   <tr><td>77.175.133.60</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">荷兰  CZ88.NET</div></td></tr>
+   <tr><td>201.221.131.62</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">哥伦比亚  CZ88.NET</div></td></tr>
+   <tr><td>118.97.216.204</td><td>9876</td><td>透明</td><td>whois</td><td><div class="addr_style">印度尼西亚  CZ88.NET</div></td></tr>
+   <tr><td>77.175.80.57</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">荷兰  CZ88.NET</div></td></tr>
+   <tr><td>211.138.124.200</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">浙江省杭州市 移动</div></td></tr>
+   <tr><td>58.11.67.178</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">泰国 True网络</div></td></tr>
+   <tr><td>54.187.98.209</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">美国 华盛顿州西雅图市亚马逊公司数据中心</div></td></tr>
+   <tr><td>61.135.177.129</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">北京市 联通互联网数据中心</div></td></tr>
+   <tr><td>128.59.20.228</td><td>3127</td><td>透明</td><td>whois</td><td><div class="addr_style">美国 纽约州纽约市哥伦比亚大学</div></td></tr>
+   <tr><td>107.170.224.47</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">美国 纽约州纽约市Digital Ocean股份有限公司</div></td></tr>
+   <tr><td>216.239.164.98</td><td>7004</td><td>透明</td><td>whois</td><td><div class="addr_style">美国 纽约州纽约市 Cable & Wireless Ameri</div></td></tr>
+   <tr><td>123.138.68.170</td><td>9000</td><td>透明</td><td>whois</td><td><div class="addr_style">陕西省西安市 联通</div></td></tr>
+   <tr><td>202.43.188.118</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">印度尼西亚 MORA电信</div></td></tr>
+   <tr><td>218.28.96.39</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">河南省安阳市 联通</div></td></tr>
+   <tr><td>201.221.131.70</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">哥伦比亚  CZ88.NET</div></td></tr>
+   <tr><td>101.4.60.47</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">北京市 北京奇虎科技有限公司教育网</div></td></tr>
+   <tr><td>210.169.168.28</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">日本  CZ88.NET</div></td></tr>
+   <tr><td>164.138.237.178</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">伊拉克  CZ88.NET</div></td></tr>
+   <tr><td>210.61.240.160</td><td>8000</td><td>透明</td><td>whois</td><td><div class="addr_style">台湾省 中华电信</div></td></tr>
+   <tr><td>183.221.217.57</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">四川省雅安市 移动</div></td></tr>
+   <tr><td>110.211.46.75</td><td>9000</td><td>透明</td><td>whois</td><td><div class="addr_style">广东省珠海市 铁通</div></td></tr>
+   <tr><td>88.204.134.214</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">哈萨克斯坦  CZ88.NET</div></td></tr>
+   <tr><td>118.97.146.42</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">印度尼西亚  CZ88.NET</div></td></tr>
+   <tr><td>115.238.23.188</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">浙江省杭州市 电信</div></td></tr>
+   <tr><td>123.124.255.107</td><td>3127</td><td>透明</td><td>whois</td><td><div class="addr_style">北京市 联通</div></td></tr>
+   <tr><td>120.202.249.230</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">湖北省 移动</div></td></tr>
+   <tr><td>223.82.222.237</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">江西省萍乡市 移动</div></td></tr>
+   <tr><td>112.96.28.47</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">广东省广州市 联通</div></td></tr>
+   <tr><td>112.124.5.121</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">浙江省杭州市 阿里云服务器</div></td></tr>
+   <tr><td>183.91.67.53</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">印度尼西亚  CZ88.NET</div></td></tr>
+   <tr><td>117.171.249.227</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">江西省南昌市 移动</div></td></tr>
+   <tr><td>85.142.129.250</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">俄罗斯 Tula State University</div></td></tr>
+   <tr><td>221.2.98.206</td><td>808</td><td>透明</td><td>whois</td><td><div class="addr_style">山东省临沂市莒南县 联通ADSL</div></td></tr>
+   <tr><td>183.220.153.17</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">四川省南充市 移动</div></td></tr>
+   <tr><td>178.254.21.126</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">德国  CZ88.NET</div></td></tr>
+   <tr><td>177.21.227.126</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">巴西  CZ88.NET</div></td></tr>
+   <tr><td>180.92.159.210</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">巴基斯坦  CZ88.NET</div></td></tr>
+   <tr><td>114.33.130.199</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">台湾省 中华电信</div></td></tr>
+   <tr><td>183.221.187.230</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">四川省资阳市 移动</div></td></tr>
+   <tr><td>113.162.132.136</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">越南  CZ88.NET</div></td></tr>
+   <tr><td>200.46.94.170</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">巴拿马  CZ88.NET</div></td></tr>
+   <tr><td>123.138.153.21</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">陕西省西安市 联通</div></td></tr>
+   <tr><td>153.121.37.166</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">日本 东京都樱花互联网数据中心</div></td></tr>
+   <tr><td>94.124.131.70</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">法国  CZ88.NET</div></td></tr>
+   <tr><td>91.196.189.10</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">俄罗斯  CZ88.NET</div></td></tr>
+   <tr><td>162.244.31.96</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">北美地区  CZ88.NET</div></td></tr>
+   <tr><td>200.45.51.87</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">阿根廷  CZ88.NET</div></td></tr>
+   <tr><td>118.70.125.6</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">越南  CZ88.NET</div></td></tr>
+   <tr><td>117.170.214.121</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">江西省新余市 移动</div></td></tr>
+   <tr><td>82.151.120.169</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">俄罗斯  CZ88.NET</div></td></tr>
+   <tr><td>218.29.90.30</td><td>9999</td><td>透明</td><td>whois</td><td><div class="addr_style">河南省郑州市 联通</div></td></tr>
+   <tr><td>107.178.223.145</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">美国 谷歌公司云数据中心</div></td></tr>
+   <tr><td>113.108.186.138</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">广东省广州市 电信</div></td></tr>
+   <tr><td>60.166.75.35</td><td>8088</td><td>透明</td><td>whois</td><td><div class="addr_style">安徽省合肥市 电信ADSL</div></td></tr>
+   <tr><td>117.169.210.86</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">江西省吉安市 移动</div></td></tr>
+   <tr><td>115.239.210.199</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">浙江省杭州市 北京百度网讯科技有限公司电信节点</div></td></tr>
+   <tr><td>201.222.1.66</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">委内瑞拉  CZ88.NET</div></td></tr>
+   <tr><td>190.205.108.14</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">委内瑞拉  CZ88.NET</div></td></tr>
+   <tr><td>187.0.222.167</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">巴西  CZ88.NET</div></td></tr>
+   <tr><td>218.207.54.58</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">重庆市 移动</div></td></tr>
+   <tr><td>109.224.47.101</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">伊拉克  CZ88.NET</div></td></tr>
+   <tr><td>118.99.29.99</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">香港 科盈电信集团有限公司(打砖坪街49-53号华基工业大厦二座</div></td></tr>
+   <tr><td>183.221.186.135</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">四川省资阳市 移动</div></td></tr>
+   <tr><td>117.176.26.159</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">四川省资阳市 移动</div></td></tr>
+   <tr><td>36.239.193.230</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">台湾省台北市 中华电信股份有限公司</div></td></tr>
+   <tr><td>223.86.209.239</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">四川省广元市 移动</div></td></tr>
+   <tr><td>95.0.22.1</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">土耳其  CZ88.NET</div></td></tr>
+   <tr><td>188.27.153.73</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">罗马尼亚  CZ88.NET</div></td></tr>
+   <tr><td>200.41.168.2</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">阿根廷  CZ88.NET</div></td></tr>
+   <tr><td>78.133.164.42</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">波兰  CZ88.NET</div></td></tr>
+   <tr><td>204.51.174.148</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">美国 加利福尼亚州旧金山市GoGrid公司</div></td></tr>
+   <tr><td>122.232.230.76</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">浙江省嘉兴市 电信ADSL</div></td></tr>
+   <tr><td>31.13.19.206</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">俄罗斯  CZ88.NET</div></td></tr>
+   <tr><td>84.50.44.92</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">爱沙尼亚  CZ88.NET</div></td></tr>
+   <tr><td>118.163.238.160</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">台湾省 中华电信</div></td></tr>
+   <tr><td>209.62.12.130</td><td>8118</td><td>透明</td><td>whois</td><td><div class="addr_style">美国 德克萨斯州达拉斯ThePlanet互联网服务公司</div></td></tr>
+   <tr><td>221.130.18.73</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">江苏省南京市 移动</div></td></tr>
+   <tr><td>200.101.66.123</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">巴西  CZ88.NET</div></td></tr>
+   <tr><td>120.197.53.196</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">广东省广州市 移动</div></td></tr>
+   <tr><td>204.232.206.87</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">美国 德克萨斯州圣安东尼奥市Rackspace Hosting公</div></td></tr>
+   <tr><td>194.117.20.215</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">葡萄牙  CZ88.NET</div></td></tr>
+   <tr><td>110.77.229.73</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">泰国  CZ88.NET</div></td></tr>
+   <tr><td>62.162.6.11</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">马其顿  CZ88.NET</div></td></tr>
+   <tr><td>195.39.172.134</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">科威特  CZ88.NET</div></td></tr>
+   <tr><td>183.230.53.165</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">重庆市 移动</div></td></tr>
+   <tr><td>117.36.197.165</td><td>9999</td><td>透明</td><td>whois</td><td><div class="addr_style">陕西省榆林市 电信</div></td></tr>
+   <tr><td>183.221.203.222</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">四川省内江市 移动</div></td></tr>
+   <tr><td>186.88.119.49</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">委内瑞拉  CZ88.NET</div></td></tr>
+   <tr><td>113.57.252.105</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">湖北省武汉市 联通</div></td></tr>
+   <tr><td>223.82.238.98</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">江西省鹰潭市 移动</div></td></tr>
+   <tr><td>122.138.30.161</td><td>8088</td><td>透明</td><td>whois</td><td><div class="addr_style">吉林省松原市 联通</div></td></tr>
+   <tr><td>183.230.53.146</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">重庆市 移动</div></td></tr>
+   <tr><td>183.221.188.12</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">四川省资阳市 移动</div></td></tr>
+   <tr><td>211.144.81.67</td><td>18000</td><td>透明</td><td>whois</td><td><div class="addr_style">上海市 有线通</div></td></tr>
+   <tr><td>115.228.108.27</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">浙江省嘉兴市 电信</div></td></tr>
+   <tr><td>118.97.134.114</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">印度尼西亚  CZ88.NET</div></td></tr>
+   <tr><td>61.156.235.172</td><td>9999</td><td>透明</td><td>whois</td><td><div class="addr_style">山东省日照市 联通</div></td></tr>
+   <tr><td>117.171.54.127</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">江西省九江市 移动</div></td></tr>
+   <tr><td>183.230.53.208</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">重庆市 移动</div></td></tr>
+   <tr><td>119.59.105.216</td><td>808</td><td>透明</td><td>whois</td><td><div class="addr_style">泰国  CZ88.NET</div></td></tr>
+   <tr><td>117.171.237.117</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">江西省南昌市 移动</div></td></tr>
+   <tr><td>220.132.139.154</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">台湾省台北市 中华电信数据通信分公司</div></td></tr>
+   <tr><td>182.118.7.61</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">河南省郑州市 联通</div></td></tr>
+   <tr><td>213.209.115.178</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">德国  CZ88.NET</div></td></tr>
+   <tr><td>121.10.120.214</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">广东省湛江市 迅雷离线服务器</div></td></tr>
+   <tr><td>189.85.29.125</td><td>8080</td><td>透明</td><td>whois</td><td><div class="addr_style">巴西  CZ88.NET</div></td></tr>
+   <tr><td>221.130.18.50</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">江苏省南京市 移动</div></td></tr>
+   <tr><td>190.144.228.198</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">哥伦比亚  CZ88.NET</div></td></tr>
+   <tr><td>193.43.245.165</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">以色列  CZ88.NET</div></td></tr>
+   <tr><td>164.77.196.78</td><td>80</td><td>透明</td><td>whois</td><td><div class="addr_style">智利  CZ88.NET</div></td></tr>
+   <tr><td>111.67.87.21</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">印度尼西亚  CZ88.NET</div></td></tr>
+   <tr><td>183.230.53.169</td><td>8123</td><td>透明</td><td>whois</td><td><div class="addr_style">重庆市 移动</div></td></tr>
+   <tr><td>60.191.95.248</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">浙江省杭州市 电信</div></td></tr>
+   <tr><td>221.182.62.115</td><td>9999</td><td>透明</td><td>whois</td><td><div class="addr_style">四川省达州市 移动</div></td></tr>
+   <tr><td>124.109.2.130</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">泰国  CZ88.NET</div></td></tr>
+   <tr><td>60.250.144.184</td><td>3128</td><td>透明</td><td>whois</td><td><div class="addr_style">台湾省台北市 中华电信</div></td></tr>
+   
+   </table>
+   <br />
+   <p style="text-align:center;">（不同的网络状态，代理的可用性会相差很大，请多尝试并验证代理）</p>
+  </div>
+ </div>
+</div>
+</div>
+<div class="blankline"></div>
+<div class="divbox" style="border-top:1px solid #b0bec7;">
+ <div style="width:210px; text-align:right; float:left;">
+  <a href="http://www.pingpinganan.gov.cn"><img src="/images/index/pingping.gif" alt="点此进入 杭州网络警察" border="0" /></a>
+  <a href="http://www.pingpinganan.gov.cn"><img src="/images/index/police_station.gif" alt="点此进入 杭州网络警察" border="0" /></a>
+  <a href="http://www.pingpinganan.gov.cn"><img src="/images/index/anan.gif" alt="点此进入 杭州网络警察" border="0" /></a>
+ </div>
+ <div style="width:380px; text-align:left; float:left; padding: 5px 0px 0px 20px; line-height:16px; color:#999">
+ 版权所有 Copyright&nbsp;&copy;&nbsp;2003-2010&nbsp;&nbsp;<a href="http://www.cz88.net" style="color:#999">纯真网络</a><br />
+ 如有任何问题和建议，请联系我们。Email:&nbsp;cz88.net@gmail.com<br />
+ <a href="http://www.miitbeian.gov.cn" style="color:#999">粤ICP备&nbsp;05001220号</a>&nbsp;穗公网监备案证第4401040400001号
+ </div>
+ <div style="width:100px; text-align:left; float:left;">
+  <a href="http://ulic.baidu.com"><img src="http://eiv.baidu.com/unlic/4048_green.gif" /></a>
+  <img src="/images/index/ploice.gif" />
+ </div>
+</div>
+
+<script type='text/javascript'> 
+cpro_client='goldenfoxcpr';
+cpro_location=3; 
+cpro_position=1; 
+cpro_follow=1; 
+cpro_close=1; 
+cpro_template='float_xuanfusld_120_270'; 
+cpro_contw=760; 
+cpro_w=120; 
+cpro_h=270; 
+cpro_float=1; 
+cpro_cad=1;
+</script>
+<script language='JavaScript' type='text/javascript' src='http://cpro.baidu.com/cpro/ui/float.js'></script>
+<script src="http://u.1133.cc/showpage.php?pid=102951&show_t=2" language="javascript"></script>
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fcc658daf205377fb870d72f7c9f2b59f' type='text/javascript'%3E%3C/script%3E"));
+</script>
+  
+</body>
+</html>

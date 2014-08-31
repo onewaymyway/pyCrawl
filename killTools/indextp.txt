@@ -1,0 +1,170 @@
+﻿
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>杀手online-电信区</title>
+<link href="Shop/css/shop.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="Shop/script/jquery.js"></script>
+<script type="text/javascript" src="Shop/script/production.js"></script>
+<script type="text/javascript" src="Shop/script/shoppingcar.js"></script>
+<script type="text/javascript" src="swf/swfobj22.js"></script>
+<script type="text/javascript">
+var h = 0; var tt;
+function GetUserGoodsNum(){
+    $.get("usertg/getUserTgGoodsNum.aspx",{
+            dt: Math.random()
+        },
+        function(data){
+            if(data != "0"){
+                document.getElementById("tgMsg").innerHTML=data;
+                h=0;
+                document.getElementById("msgDiv").style["display"]="";
+                ShowMsg();
+            }
+        }
+    );
+}
+
+function SendLoginGift(){
+	/* $.getJSON("/User/LoginGift.ss",function(json){
+		if(json.msg != "err"){
+			document.getElementById("tgMsg").innerHTML=json.msg;
+			h=0;
+			document.getElementById("msgDiv").style["display"]="";
+			ShowMsg();
+		}
+	}); */
+	$.get("/User/LoginGift.ss");
+}
+
+function CloseMsgDiv(){
+    document.getElementById("msgDiv").style["display"]="none";
+}
+
+function addBookMark(){
+    if (document.all){//IE
+        window.external.addFavorite("http://www.ss911.cn/","杀手Online 杀人游戏");
+    }else if (window.sidebar){//ff
+        window.sidebar.addPanel("杀手Online 杀人游戏","http://www.ss911.cn/","");
+    }else{
+        alert("你的浏览器不支持此事件！");
+    }
+    $.get("/Task/ChangeGuide.ss?TaskID=1007");
+}
+</script>
+<style type="text/css">
+body{background-color:#000000;margin:0px;border:none;}
+div {margin:0; padding:0;}
+</style>
+</head>
+<body onload="GetUserGoodsNum();SendLoginGift();" onbeforeunload="fclose();" scroll="auto">
+    <div style="position: relative; vertical-align: middle;text-align:center; width: 100%; height: 100%" id="maindiv">
+        <div id="msgDiv" style="width:995px;margin:0 auto;background:#333;display:none;font-size:14px;height:28px;line-height:28px;text-align:center;color:#f90;overflow:hidden;">
+            <span onclick="CloseMsgDiv();" style="float:right;color:#fff;cursor:pointer;padding-right:6px;">×</span>
+            <span id="tgMsg"></span>
+        </div>
+        <div id="FlashPopup"><br /><a href="http://get.adobe.com/cn/flashplayer/" target=_blank>点此下载Flash Player播放器并刷新本页，才能开始游戏哟</a></div>
+    </div>
+</body>
+<script type="text/javascript">
+var fv={};
+fv.v=1;
+fv.Core=6;
+fv.ConfirmBox=2;
+fv.Hall=8;
+fv.Menu=7;
+fv.bg=1;
+fv.roomlist=1;
+fv.UserBox=1;
+fv.UserInfoBox=4;
+fv.hallChat=1;
+fv.KillerRoom=11;
+fv.killerRoomBtns=1;
+fv.KillerRoomChat=2;
+fv.KillerRoomMenu=3;
+fv.KillMall=2;
+fv.MarryList=7;
+fv.figures=5;
+fv.player=3;
+fv.photoroom=1;
+fv.photoroomlib=1;
+fv.shake=7;
+fv.SkinList=2;
+fv.Trade=1;
+fv.LinesBox=3;
+fv.logininfo=25;
+fv.roomsetinfo=5;
+fv.toollist=1;
+fv.WorldCup=2;
+fv.guess_eggs=4;
+fv.swf="/swf20140604/";
+fv.uservalues="AYaj9%2boHWbYOwkLbLyBrtfMAOynCGr9K";
+fv.userip="fNMBJyoWpYQtkj3XG10l%2Fw%3D%3D";
+try { 
+    if (external.max_language_id != undefined){  
+        fv.r=new Date();
+    }
+}catch (e){}
+var par={};
+par.allowScriptAccess="always";
+par.scaleMode="noScale";
+par.bgcolor="#000000";
+var att = {};
+att.id = "gamemain";
+swfobject.embedSWF("killonline.swf", "FlashPopup", "995", "610", "10.2.0", "swf/expressInstall.swf",fv,par,att);
+
+function fclose(){try{JsCmd(false,{cmd:'CloseClient'});}catch (e){}}
+var topShow = 0;
+var findex=null;
+function gotobuy(userid){
+    car.clearProduct();
+    if(findex==null){
+        findex=0;
+    }
+    msg_city.show('Shop/ShopIndex.aspx?userid='+userid);
+}
+function gotoface(){
+    updatehead.show("addhead3.aspx");
+    if(findex==null){ findex=1;}
+}
+function gotoguessegg(){
+    egg.show("guessegg2/index.aspx?"+Math.random());
+    if(findex==null){findex=1;}
+}
+function gotolovewall(){
+    love_wall.show("lovewall2/lovewall.htm");
+    if(findex==null){findex=1;}
+}
+//function gotoguessprice(){
+//    price.show("guessprice2/index.aspx?"+Math.random());
+//    if(findex==null){findex=1;}
+//}
+function gotonewuser(name,sex){
+    topShow = 1;
+    newuser.show("userguide/index.aspx?p1="+name+"&p2="+sex+"&"+Math.random());
+    if(findex==null){findex=1;}
+}
+function gotoboat(){
+    boat.show("guessboat2/index.aspx?dt="+Math.random());
+    if(findex==null){findex=1;}
+}
+function shareBase(a,b,c,d,e,f,g,h){
+if(d.indexOf('marry')>0)
+{	var encodeuv=encodeURIComponent('AYaj9%2boHWbYOwkLbLyBrtfMAOynCGr9K');
+	window.open("https://graph.qq.com/oauth2.0/authorize?response_type=code&client_id=100226644&redirect_uri=http%3A%2F%2F"+window.location.host+"%2FShareMarry.ss%3Fu%3D"+encodeuv+"&scope=add_share");
+}
+else
+{
+	var shareurl="http://www.ss911.cn/QQ/QQShare.ss?callback=";
+	shareurl += encodeURIComponent("http://"+window.location.host+"/ShareShake.ss?t="+g+"&g="+encodeURIComponent(h));
+	window.open(shareurl);
+}
+} 
+function JsCmd(toServer,obj){
+    var flash = document.getElementById("gamemain");
+    flash.JsCmd(toServer,obj);
+}
+</script>
+</html>

@@ -1,0 +1,30 @@
+Request URL:http://t1.ss911.cn/User/Register.ss?username=ppttest&sex=0&uv=jy4yPFDxPpBO/vjCd85zoW/UswXVCKB5&rd=8468.362554495223
+Request Method:GET
+Status Code:200 OK
+Request Headersview source
+Accept:*/*
+Accept-Encoding:gzip,deflate,sdch
+Accept-Language:zh-CN,zh;q=0.8
+Connection:keep-alive
+Cookie:lzstat_uv=5476294921685206937|264585; lzstat_ss=3300301703_0_1409158886_264585; UserId=113812880; UserName=kill009; UserPwd=627a16b1b03226b9; uservalues=jy4yPFDxPpBO%2fvjCd85zoW%2fUswXVCKB5; JSESSIONID=EE5C3332E880709C378EC9E7C6193617
+Host:t1.ss911.cn
+Referer:http://t1.ss911.cn/Index.ss
+User-Agent:Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+Query String Parametersview sourceview URL encoded
+username:ppttest
+sex:0
+uv:jy4yPFDxPpBO/vjCd85zoW/UswXVCKB5
+rd:8468.362554495223
+Response Headersview source
+Cache-Control:no-cache
+Connection:keep-alive
+Content-Length:12
+Content-Type:text/plain;charset=UTF-8
+Date:Wed, 27 Aug 2014 09:03:14 GMT
+Expires:0
+Pragma:No-cache
+Server:Microsoft-IIS/6.0
+Webluker-Edge:MISS via 41011121E10.2
+X-Powered-By:ASP.NET
+
+
