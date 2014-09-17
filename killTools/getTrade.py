@@ -36,12 +36,15 @@ def getInfo(uid):
 
 
 def getInfoR(typeUrl):
-    data = urllib.parse.urlencode(values)
-    turl=typeUrl+"?"+data;
-    req = urllib.request.Request(turl, None, headers)
-    response = urllib.request.urlopen(req)
-    the_page = response.read().decode('utf8')
-    print(the_page)
+    try:
+        data = urllib.parse.urlencode(values)
+        turl=typeUrl+"?"+data;
+        req = urllib.request.Request(turl, None, headers)
+        response = urllib.request.urlopen(req)
+        the_page = response.read().decode('utf8')
+        print(the_page)
+    except:
+        print('fail:'+typeUrl)
 ##    p=re.compile(r'<span id="bbsNickName" style="color:#f60;">(.*?)</span>')
 ##    msp=p.search(the_page)
 ##    tip=msp.group(1)
