@@ -1,0 +1,3384 @@
+[
+    {
+        "gameName": "不爱***自己",
+        "ip": "49.74.217.130",
+        "time": "2014-09-17 23:02:48",
+        "place": "中国江苏省南京市,电信",
+        "uservalues": "hqzEXU2abF56zn3TtXm+hUk2l8mIWiRR",
+        "UserName": "不爱自己",
+        "UserPwd": "0aa9362ae526895c",
+        "UserId": "112628884"
+    },
+    {
+        "gameName": "不爱***自己",
+        "ip": "49.74.217.130",
+        "time": "2014-09-17 23:02:17",
+        "place": "中国江苏省南京市,电信",
+        "uservalues": "hqzEXU2abF56zn3TtXm+hUk2l8mIWiRR",
+        "UserName": "不爱自己",
+        "UserPwd": "0aa9362ae526895c",
+        "UserId": "112628884"
+    },
+    {
+        "ip": "49.77.218.188",
+        "time": "2014-09-17 22:57:13",
+        "place": "中国江苏省南京市,电信"
+    },
+    {
+        "ip": "49.77.218.188",
+        "time": "2014-09-17 22:56:27",
+        "place": "中国江苏省南京市,电信"
+    },
+    {
+        "gameName": "可可猪",
+        "ip": "113.119.215.190",
+        "time": "2014-09-17 22:54:20",
+        "place": "中国广东省广州市,电信",
+        "uservalues": "bdXDku8FQxrfrbDW+s0VSPIvOycl71Kl",
+        "UserName": "540338981",
+        "UserPwd": "d14722841dead204",
+        "UserId": "112930825"
+    },
+    {
+        "gameName": "李雨晴",
+        "ip": "112.224.69.223",
+        "time": "2014-09-17 22:53:18",
+        "place": "中国山东省青岛市,联通",
+        "uservalues": "hqzEXU2abF7qZZo+rgdkkpg8fuSImxVM",
+        "UserName": "我只玩小号",
+        "UserPwd": "f96956469e7be39d",
+        "UserId": "112472147"
+    },
+    {
+        "gameName": "　　晴°",
+        "ip": "112.224.69.223",
+        "time": "2014-09-17 22:51:51",
+        "place": "中国山东省青岛市,联通",
+        "uservalues": "hqzEXU2abF7DfvBrq2pTKXgoL96DGp8y",
+        "UserName": "cyx777",
+        "UserPwd": "3e296b24196d5c92",
+        "UserId": "112067067"
+    },
+    {
+        "gameName": "西 北",
+        "ip": "113.89.227.121",
+        "time": "2014-09-17 22:48:11",
+        "place": "中国广东省深圳市,电信",
+        "uservalues": "hqzEXU2abF4M70nUYByXThxELoGO/ehw",
+        "UserName": "西北长安",
+        "UserPwd": "b05bdcb92c542be5",
+        "UserId": "113659949"
+    },
+    {
+        "gameName": "西 北",
+        "ip": "113.89.227.121",
+        "time": "2014-09-17 22:47:48",
+        "place": "中国广东省深圳市,电信",
+        "uservalues": "hqzEXU2abF4M70nUYByXThxELoGO/ehw",
+        "UserName": "西北长安",
+        "UserPwd": "b05bdcb92c542be5",
+        "UserId": "113659949"
+    },
+    {
+        "ip": "114.97.83.91",
+        "time": "2014-09-17 22:45:34",
+        "place": "中国安徽省合肥市,电信",
+        "uservalues": "hqzEXU2abF6q9CCJMY3mTfW8hKE9OIxM",
+        "UserName": "QQ用户",
+        "gameName": "qq:632861303",
+        "UserId": "113486859"
+    },
+    {
+        "gameName": "可可猪",
+        "ip": "113.119.215.41",
+        "time": "2014-09-17 22:43:24",
+        "place": "中国广东省广州市,电信",
+        "uservalues": "bdXDku8FQxrfrbDW+s0VSPIvOycl71Kl",
+        "UserName": "540338981",
+        "UserPwd": "d14722841dead204",
+        "UserId": "112930825"
+    },
+    {
+        "ip": "114.97.83.91",
+        "time": "2014-09-17 22:42:29",
+        "place": "中国安徽省合肥市,电信",
+        "uservalues": "hqzEXU2abF6q9CCJMY3mTfW8hKE9OIxM",
+        "UserName": "QQ用户",
+        "gameName": "qq:632861303",
+        "UserId": "113486859"
+    },
+    {
+        "gameName": "桒淼",
+        "ip": "121.192.218.80",
+        "time": "2014-09-17 22:21:24",
+        "place": "中国福建省厦门市,教育网",
+        "uservalues": "hqzEXU2abF4k34XdtpNOdRrh2kDMUhFV",
+        "UserName": "jingqing",
+        "UserPwd": "260f12ca78733dfe",
+        "UserId": "113088956"
+    },
+    {
+        "gameName": "桒淼",
+        "ip": "121.192.218.80",
+        "time": "2014-09-17 22:20:45",
+        "place": "中国福建省厦门市,教育网",
+        "uservalues": "hqzEXU2abF4k34XdtpNOdRrh2kDMUhFV",
+        "UserName": "jingqing",
+        "UserPwd": "260f12ca78733dfe",
+        "UserId": "113088956"
+    },
+    {
+        "gameName": "岛㊣",
+        "ip": "183.245.44.2",
+        "time": "2014-09-17 22:19:50",
+        "place": "中国浙江省温州市,移动",
+        "uservalues": "hqzEXU2abF7I+EeSdRkM5MBbznkRaTSP",
+        "UserName": "紫odile",
+        "UserPwd": "fab55d1d72e76aba",
+        "UserId": "113081507"
+    },
+    {
+        "gameName": "岛㊣",
+        "ip": "183.245.44.2",
+        "time": "2014-09-17 22:18:35",
+        "place": "中国浙江省温州市,移动",
+        "uservalues": "hqzEXU2abF7I+EeSdRkM5MBbznkRaTSP",
+        "UserName": "紫odile",
+        "UserPwd": "fab55d1d72e76aba",
+        "UserId": "113081507"
+    },
+    {
+        "gameName": "岛㊣",
+        "ip": "183.245.44.2",
+        "time": "2014-09-17 22:18:22",
+        "place": "中国浙江省温州市,移动",
+        "uservalues": "hqzEXU2abF7I+EeSdRkM5MBbznkRaTSP",
+        "UserName": "紫odile",
+        "UserPwd": "fab55d1d72e76aba",
+        "UserId": "113081507"
+    },
+    {
+        "gameName": "岛㊣",
+        "ip": "183.245.44.2",
+        "time": "2014-09-17 22:17:22",
+        "place": "中国浙江省温州市,移动",
+        "uservalues": "hqzEXU2abF7I+EeSdRkM5MBbznkRaTSP",
+        "UserName": "紫odile",
+        "UserPwd": "fab55d1d72e76aba",
+        "UserId": "113081507"
+    },
+    {
+        "gameName": "岛㊣",
+        "ip": "183.245.44.2",
+        "time": "2014-09-17 22:17:07",
+        "place": "中国浙江省温州市,移动",
+        "uservalues": "hqzEXU2abF7I+EeSdRkM5MBbznkRaTSP",
+        "UserName": "紫odile",
+        "UserPwd": "fab55d1d72e76aba",
+        "UserId": "113081507"
+    },
+    {
+        "gameName": "﹌花开◆若相惜丶",
+        "ip": "202.98.17.156",
+        "time": "2014-09-17 21:55:28",
+        "place": "中国吉林省长春市,电信",
+        "uservalues": "hqzEXU2abF674Xr1RLTWno2Vg2VvjNy6",
+        "UserName": "aisikuluosi",
+        "UserPwd": "1a48fa056d30bc5a",
+        "UserId": "112200378"
+    },
+    {
+        "gameName": "流风霜.",
+        "ip": "222.242.106.92",
+        "time": "2014-09-17 21:49:08",
+        "place": "中国湖南省娄底市,电信",
+        "uservalues": "hqzEXU2abF4dkRT+P2lCw6JfgVSC9/TE",
+        "UserName": "fengshuang01",
+        "UserPwd": "c7f671534b1fc9c8",
+        "UserId": "113624443"
+    },
+    {
+        "gameName": "流风霜.",
+        "ip": "222.242.106.92",
+        "time": "2014-09-17 21:49:06",
+        "place": "中国湖南省娄底市,电信",
+        "uservalues": "hqzEXU2abF4dkRT+P2lCw6JfgVSC9/TE",
+        "UserName": "fengshuang01",
+        "UserPwd": "c7f671534b1fc9c8",
+        "UserId": "113624443"
+    },
+    {
+        "gameName": "ck***86",
+        "ip": "14.118.30.159",
+        "time": "2014-09-17 21:44:26",
+        "place": "中国广东省江门市,电信",
+        "uservalues": "lhhKlciQS6MVyRfqFowYiUSL+FGyuJft",
+        "UserName": "cky886",
+        "UserPwd": "b4328a140caef066",
+        "UserId": "1486831"
+    },
+    {
+        "gameName": "ck***86",
+        "ip": "14.118.30.159",
+        "time": "2014-09-17 21:44:25",
+        "place": "中国广东省江门市,电信",
+        "uservalues": "lhhKlciQS6MVyRfqFowYiUSL+FGyuJft",
+        "UserName": "cky886",
+        "UserPwd": "b4328a140caef066",
+        "UserId": "1486831"
+    },
+    {
+        "gameName": "可可猪",
+        "ip": "113.119.215.41",
+        "time": "2014-09-17 21:42:15",
+        "place": "中国广东省广州市,电信",
+        "uservalues": "bdXDku8FQxrfrbDW+s0VSPIvOycl71Kl",
+        "UserName": "540338981",
+        "UserPwd": "d14722841dead204",
+        "UserId": "112930825"
+    },
+    {
+        "gameName": "无人之境 ",
+        "ip": "36.48.108.37",
+        "time": "2014-09-17 21:37:22",
+        "place": "中国吉林省吉林市,电信",
+        "uservalues": "hqzEXU2abF4zniQNw31Wq6SSKH8hE34r",
+        "UserName": "小熊傻逼兮兮的",
+        "UserPwd": "194c7792d3a7b241",
+        "UserId": "112941048"
+    },
+    {
+        "ip": "124.127.179.212",
+        "time": "2014-09-17 21:33:42",
+        "place": "中国北京市北京市,电信"
+    },
+    {
+        "ip": "124.127.179.212",
+        "time": "2014-09-17 21:33:13",
+        "place": "中国北京市北京市,电信"
+    },
+    {
+        "ip": "124.127.179.212",
+        "time": "2014-09-17 21:30:53",
+        "place": "中国北京市北京市,电信"
+    },
+    {
+        "gameName": "　王　",
+        "ip": "183.46.5.62",
+        "time": "2014-09-17 21:26:32",
+        "place": "中国广东省汕头市,电信",
+        "uservalues": "1+kcZLe72qV/TFyh1bfujs6dbeWLJiYD",
+        "UserName": "猴哥99",
+        "UserPwd": "986f2d0ddf0a28fb",
+        "UserId": "113491038"
+    },
+    {
+        "gameName": "　王　",
+        "ip": "183.46.5.62",
+        "time": "2014-09-17 21:23:30",
+        "place": "中国广东省汕头市,电信",
+        "uservalues": "1+kcZLe72qV/TFyh1bfujs6dbeWLJiYD",
+        "UserName": "猴哥99",
+        "UserPwd": "986f2d0ddf0a28fb",
+        "UserId": "113491038"
+    },
+    {
+        "gameName": "苏晓*** 1",
+        "ip": "118.112.234.18",
+        "time": "2014-09-17 21:21:58",
+        "place": "中国四川省成都市,电信",
+        "uservalues": "hqzEXU2abF4YmnrjCCwxmuxf5D9iP9v3",
+        "UserName": "苏晓1an 1",
+        "UserPwd": "8fe998f515a72dd7",
+        "UserId": "111600622"
+    },
+    {
+        "ip": "114.97.83.91",
+        "time": "2014-09-17 21:18:33",
+        "place": "中国安徽省合肥市,电信",
+        "uservalues": "hqzEXU2abF6q9CCJMY3mTfW8hKE9OIxM",
+        "UserName": "QQ用户",
+        "gameName": "qq:632861303",
+        "UserId": "113486859"
+    },
+    {
+        "gameName": "　Vermouth丶",
+        "ip": "223.11.63.142",
+        "time": "2014-09-17 21:15:23",
+        "place": "中国山西省太原市,电信",
+        "uservalues": "hqzEXU2abF6iHEPE41vG6ji8sI4nmqPI",
+        "UserName": "nimadebaoji",
+        "UserPwd": "7b7e6f8430db9975",
+        "UserId": "1667456"
+    },
+    {
+        "ip": "222.242.106.92",
+        "time": "2014-09-17 21:07:35",
+        "place": "中国湖南省娄底市,电信"
+    },
+    {
+        "ip": "222.242.106.92",
+        "time": "2014-09-17 21:07:19",
+        "place": "中国湖南省娄底市,电信"
+    },
+    {
+        "ip": "126.58.228.66",
+        "time": "2014-09-17 21:00:02",
+        "place": "日本,"
+    },
+    {
+        "ip": "126.58.228.66",
+        "time": "2014-09-17 20:59:55",
+        "place": "日本,"
+    },
+    {
+        "ip": "126.58.228.66",
+        "time": "2014-09-17 20:58:07",
+        "place": "日本,"
+    },
+    {
+        "gameName": "　　绊　　",
+        "ip": "120.215.230.59",
+        "time": "2014-09-17 20:57:21",
+        "place": "中国河南省,移动",
+        "uservalues": "hqzEXU2abF5JT+fiQSK6FoC/rf2q64MM",
+        "UserName": "小5的菜菜",
+        "UserPwd": "965eb72c92a549dd",
+        "UserId": "111859979"
+    },
+    {
+        "gameName": "　　绊　　",
+        "ip": "120.215.230.59",
+        "time": "2014-09-17 20:55:37",
+        "place": "中国河南省,移动",
+        "uservalues": "hqzEXU2abF5JT+fiQSK6FoC/rf2q64MM",
+        "UserName": "小5的菜菜",
+        "UserPwd": "965eb72c92a549dd",
+        "UserId": "111859979"
+    },
+    {
+        "gameName": "　　绊　　",
+        "ip": "120.215.230.59",
+        "time": "2014-09-17 20:55:06",
+        "place": "中国河南省,移动",
+        "uservalues": "hqzEXU2abF5JT+fiQSK6FoC/rf2q64MM",
+        "UserName": "小5的菜菜",
+        "UserPwd": "965eb72c92a549dd",
+        "UserId": "111859979"
+    },
+    {
+        "gameName": "　王　",
+        "ip": "183.46.5.62",
+        "time": "2014-09-17 20:53:45",
+        "place": "中国广东省汕头市,电信",
+        "uservalues": "1+kcZLe72qV/TFyh1bfujs6dbeWLJiYD",
+        "UserName": "猴哥99",
+        "UserPwd": "986f2d0ddf0a28fb",
+        "UserId": "113491038"
+    },
+    {
+        "gameName": "　王　",
+        "ip": "183.46.5.62",
+        "time": "2014-09-17 20:53:00",
+        "place": "中国广东省汕头市,电信",
+        "uservalues": "1+kcZLe72qV/TFyh1bfujs6dbeWLJiYD",
+        "UserName": "猴哥99",
+        "UserPwd": "986f2d0ddf0a28fb",
+        "UserId": "113491038"
+    },
+    {
+        "gameName": "　王　",
+        "ip": "183.46.5.62",
+        "time": "2014-09-17 20:52:43",
+        "place": "中国广东省汕头市,电信",
+        "uservalues": "1+kcZLe72qV/TFyh1bfujs6dbeWLJiYD",
+        "UserName": "猴哥99",
+        "UserPwd": "986f2d0ddf0a28fb",
+        "UserId": "113491038"
+    },
+    {
+        "gameName": "　王甜　",
+        "ip": "115.49.48.91",
+        "time": "2014-09-17 20:49:31",
+        "place": "中国河南省南阳市,联通",
+        "uservalues": "hqzEXU2abF5M36ve0WfZMpRtRiZrpA+z",
+        "UserName": "张宇申1号",
+        "UserPwd": "5436534e61d16e63",
+        "UserId": "112668016"
+    },
+    {
+        "gameName": "╰　　   婲糖糖",
+        "ip": "119.115.243.192",
+        "time": "2014-09-17 20:46:47",
+        "place": "中国辽宁省抚顺市,联通",
+        "uservalues": "hqzEXU2abF7MnLhLH3IEHooh1eRCHU25",
+        "UserName": "Empress婲糖糖",
+        "UserPwd": "d534a0daa8f20724",
+        "UserId": "112073216"
+    },
+    {
+        "gameName": "　王甜　",
+        "ip": "115.49.48.91",
+        "time": "2014-09-17 20:42:41",
+        "place": "中国河南省南阳市,联通",
+        "uservalues": "hqzEXU2abF5M36ve0WfZMpRtRiZrpA+z",
+        "UserName": "张宇申1号",
+        "UserPwd": "5436534e61d16e63",
+        "UserId": "112668016"
+    },
+    {
+        "gameName": "可可猪",
+        "ip": "113.119.215.41",
+        "time": "2014-09-17 20:35:04",
+        "place": "中国广东省广州市,电信",
+        "uservalues": "bdXDku8FQxrfrbDW+s0VSPIvOycl71Kl",
+        "UserName": "540338981",
+        "UserPwd": "d14722841dead204",
+        "UserId": "112930825"
+    },
+    {
+        "gameName": "熊老二　❀",
+        "ip": "14.18.205.98",
+        "time": "2014-09-17 20:33:45",
+        "place": "中国广东省广州市,电信",
+        "uservalues": "hqzEXU2abF6SWHijFHJxvJzawAHcG2ZJ",
+        "UserName": "很怂的女人",
+        "UserPwd": "323b453885f5181f",
+        "UserId": "1769876"
+    },
+    {
+        "gameName": "二六",
+        "ip": "14.217.134.107",
+        "time": "2014-09-17 20:29:38",
+        "place": "中国广东省东莞市,电信",
+        "uservalues": "KQ9LS/9ogI+BTvHaXqvKKZXdFJHyAzQT",
+        "UserName": "生活重启中",
+        "UserPwd": "e006dc9987b7f5e9",
+        "UserId": "112910483"
+    },
+    {
+        "ip": "222.242.106.92",
+        "time": "2014-09-17 20:29:34",
+        "place": "中国湖南省娄底市,电信"
+    },
+    {
+        "gameName": "二六",
+        "ip": "14.217.134.107",
+        "time": "2014-09-17 20:28:05",
+        "place": "中国广东省东莞市,电信",
+        "uservalues": "KQ9LS/9ogI+BTvHaXqvKKZXdFJHyAzQT",
+        "UserName": "生活重启中",
+        "UserPwd": "e006dc9987b7f5e9",
+        "UserId": "112910483"
+    },
+    {
+        "gameName": "ma***敖ζ",
+        "ip": "111.206.170.136",
+        "time": "2014-09-17 20:27:18",
+        "place": "中国北京市北京市,联通",
+        "uservalues": "hqzEXU2abF48sBnBj3/qCfe+G4VWJTYR",
+        "UserName": "maek﹑冷敖ζ",
+        "UserPwd": "b972d19088fd8800",
+        "UserId": "111485037"
+    },
+    {
+        "gameName": "岛㊣",
+        "ip": "183.245.44.2",
+        "time": "2014-09-17 20:23:12",
+        "place": "中国浙江省温州市,移动",
+        "uservalues": "hqzEXU2abF5O/CDGpNZ1EBmkcpNnfCRK",
+        "UserName": "紫odile",
+        "UserPwd": "948390b7c59dbc39",
+        "UserId": "113081507"
+    },
+    {
+        "gameName": "陪我丶唱情歌",
+        "ip": "27.18.46.255",
+        "time": "2014-09-17 20:22:43",
+        "place": "中国湖北省武汉市,电信",
+        "uservalues": "oGlUnGocljcszEjJyspPsE08pv+8+7gl",
+        "UserName": "crystalrose",
+        "UserPwd": "618ed48ebff5dd8a",
+        "UserId": "1671608"
+    },
+    {
+        "gameName": "陪我丶唱情歌",
+        "ip": "27.18.46.255",
+        "time": "2014-09-17 20:21:16",
+        "place": "中国湖北省武汉市,电信",
+        "uservalues": "oGlUnGocljcszEjJyspPsE08pv+8+7gl",
+        "UserName": "crystalrose",
+        "UserPwd": "618ed48ebff5dd8a",
+        "UserId": "1671608"
+    },
+    {
+        "gameName": "繁华落尽与君老",
+        "ip": "122.191.61.36",
+        "time": "2014-09-17 20:17:32",
+        "place": "中国湖北省武汉市,联通",
+        "uservalues": "hqzEXU2abF7ljvl+IXjWSgi9c2BGzmHd",
+        "UserName": "112777770",
+        "UserPwd": "e1f26b95f5002d81",
+        "UserId": "112777770"
+    },
+    {
+        "gameName": "❤　　　　婴ル",
+        "ip": "14.29.125.222",
+        "time": "2014-09-17 20:11:30",
+        "place": "中国广东省广州市,电信",
+        "uservalues": "hqzEXU2abF7j968jYWStY62F/qe4QU1M",
+        "UserName": "524817938",
+        "UserPwd": "5cfc39e697ee658d",
+        "UserId": "112587204"
+    },
+    {
+        "ip": "60.176.43.172",
+        "time": "2014-09-17 20:10:08",
+        "place": "中国浙江省杭州市,电信",
+        "uservalues": "hqzEXU2abF43ZPl1ar/Wr5b2ImM6Uu64",
+        "UserName": "QQ用户",
+        "gameName": "初色之皓",
+        "UserId": "111497278"
+    },
+    {
+        "gameName": "唯爱C♀",
+        "ip": "60.206.232.71",
+        "time": "2014-09-17 20:07:24",
+        "place": "中国北京市北京市,鹏博士",
+        "uservalues": "hqzEXU2abF6fX4WiFKMdtAZFKm8gehSe",
+        "UserName": "恋恋99",
+        "UserPwd": "cb8e30682b927f35",
+        "UserId": "112302618"
+    },
+    {
+        "gameName": "旧  时光。",
+        "ip": "115.231.161.209",
+        "time": "2014-09-17 20:07:02",
+        "place": "中国浙江省嘉兴市,电信",
+        "uservalues": "hqzEXU2abF77Lvi60w/ufv1t+yp5DsxO",
+        "UserName": "若不是因为爱着你",
+        "UserPwd": "568387380a098490",
+        "UserId": "112591471"
+    },
+    {
+        "ip": "120.199.104.168",
+        "time": "2014-09-17 20:04:57",
+        "place": "中国浙江省温州市乐清市,移动"
+    },
+    {
+        "ip": "124.116.245.13",
+        "time": "2014-09-17 20:03:40",
+        "place": "中国陕西省宝鸡市,电信"
+    },
+    {
+        "gameName": "旧  时光。",
+        "ip": "115.231.161.209",
+        "time": "2014-09-17 20:00:32",
+        "place": "中国浙江省嘉兴市,电信",
+        "uservalues": "hqzEXU2abF77Lvi60w/ufv1t+yp5DsxO",
+        "UserName": "若不是因为爱着你",
+        "UserPwd": "568387380a098490",
+        "UserId": "112591471"
+    },
+    {
+        "ip": "124.116.245.13",
+        "time": "2014-09-17 19:59:47",
+        "place": "中国陕西省宝鸡市,电信"
+    },
+    {
+        "gameName": "繁华落尽与君老",
+        "ip": "122.191.61.36",
+        "time": "2014-09-17 19:56:13",
+        "place": "中国湖北省武汉市,联通",
+        "uservalues": "hqzEXU2abF7ljvl+IXjWSgi9c2BGzmHd",
+        "UserName": "112777770",
+        "UserPwd": "e1f26b95f5002d81",
+        "UserId": "112777770"
+    },
+    {
+        "gameName": "繁华落尽与君老",
+        "ip": "122.191.61.36",
+        "time": "2014-09-17 19:56:00",
+        "place": "中国湖北省武汉市,联通",
+        "uservalues": "hqzEXU2abF7ljvl+IXjWSgi9c2BGzmHd",
+        "UserName": "112777770",
+        "UserPwd": "e1f26b95f5002d81",
+        "UserId": "112777770"
+    },
+    {
+        "gameName": "波兰病人　　&",
+        "ip": "180.170.33.4",
+        "time": "2014-09-17 19:50:25",
+        "place": "中国上海市上海市,电信",
+        "uservalues": "hqzEXU2abF4AhOnafGPIdjYell6zJOtX",
+        "UserName": "波兰病人",
+        "UserPwd": "e8a79b1c0b046ec7",
+        "UserId": "112428928"
+    },
+    {
+        "ip": "116.24.249.10",
+        "time": "2014-09-17 19:47:31",
+        "place": "中国广东省深圳市,电信"
+    },
+    {
+        "ip": "122.190.92.104",
+        "time": "2014-09-17 19:46:28",
+        "place": "中国湖北省武汉市,联通"
+    },
+    {
+        "ip": "49.73.95.22",
+        "time": "2014-09-17 19:45:51",
+        "place": "中国江苏省苏州市太仓市,电信"
+    },
+    {
+        "ip": "120.1.75.160",
+        "time": "2014-09-17 19:45:51",
+        "place": "中国河北省石家庄市,联通"
+    },
+    {
+        "ip": "49.73.95.22",
+        "time": "2014-09-17 19:45:25",
+        "place": "中国江苏省苏州市太仓市,电信"
+    },
+    {
+        "ip": "223.68.189.233",
+        "time": "2014-09-17 19:43:17",
+        "place": "中国江苏省,移动"
+    },
+    {
+        "ip": "58.62.26.209",
+        "time": "2014-09-17 19:39:22",
+        "place": "中国广东省广州市海珠区,电信",
+        "uservalues": "hqzEXU2abF7PDsvsTjAb4pCyTn5kOZen",
+        "UserName": "QQ用户",
+        "gameName": "QQ用户",
+        "UserId": "113820822"
+    },
+    {
+        "gameName": "傲骨天生",
+        "ip": "117.40.175.121",
+        "time": "2014-09-17 19:38:38",
+        "place": "中国江西省九江市,电信",
+        "uservalues": "hqzEXU2abF7aRcWRZH8mbhHn4rknaqAA",
+        "UserName": "喂许晓倩",
+        "UserPwd": "c2309a2eacfb431b",
+        "UserId": "113708006"
+    },
+    {
+        "gameName": "傲骨天生",
+        "ip": "117.40.175.121",
+        "time": "2014-09-17 19:38:30",
+        "place": "中国江西省九江市,电信",
+        "uservalues": "hqzEXU2abF7aRcWRZH8mbhHn4rknaqAA",
+        "UserName": "喂许晓倩",
+        "UserPwd": "c2309a2eacfb431b",
+        "UserId": "113708006"
+    },
+    {
+        "gameName": "傲骨天生",
+        "ip": "117.40.175.121",
+        "time": "2014-09-17 19:35:55",
+        "place": "中国江西省九江市,电信",
+        "uservalues": "hqzEXU2abF7aRcWRZH8mbhHn4rknaqAA",
+        "UserName": "喂许晓倩",
+        "UserPwd": "c2309a2eacfb431b",
+        "UserId": "113708006"
+    },
+    {
+        "gameName": "傲骨天生",
+        "ip": "117.40.175.121",
+        "time": "2014-09-17 19:35:43",
+        "place": "中国江西省九江市,电信",
+        "uservalues": "hqzEXU2abF7aRcWRZH8mbhHn4rknaqAA",
+        "UserName": "喂许晓倩",
+        "UserPwd": "c2309a2eacfb431b",
+        "UserId": "113708006"
+    },
+    {
+        "gameName": "谷妹",
+        "ip": "117.151.23.250",
+        "time": "2014-09-17 19:30:46",
+        "place": "中国北京市北京市,移动",
+        "uservalues": "hqzEXU2abF4gEriJeLcqw3hFnXGxviuU",
+        "UserName": "gumei",
+        "UserPwd": "bd03ad8113aa0259",
+        "UserId": "113043739"
+    },
+    {
+        "gameName": "若雨***浮华",
+        "ip": "106.32.33.144",
+        "time": "2014-09-17 19:30:04",
+        "place": "中国贵州省贵阳市,电信",
+        "uservalues": "5CXKxIN8xFl9wnwMMUk2YU0Qj9ZBVemt",
+        "UserName": "若雨浮华",
+        "UserPwd": "75b88d4ed70c07a7",
+        "UserId": "113827440"
+    },
+    {
+        "gameName": "金元宝",
+        "ip": "111.201.158.113",
+        "time": "2014-09-17 19:21:14",
+        "place": "中国北京市北京市,联通",
+        "uservalues": "hqzEXU2abF6tyKImlgG72F5zyLANX4eH",
+        "UserName": "无敌金元宝",
+        "UserPwd": "e53991e25bbddb6c",
+        "UserId": "113646536"
+    },
+    {
+        "gameName": "猫咪***乖嘞",
+        "ip": "122.191.59.55",
+        "time": "2014-09-17 19:17:37",
+        "place": "中国湖北省武汉市,联通",
+        "uservalues": "ZXlKFsjTkGtJLSRPM449qMEpDaBzcdKN",
+        "UserName": "猫咪不乖嘞",
+        "UserPwd": "40672bb65da04032",
+        "UserId": "113839877"
+    },
+    {
+        "ip": "117.12.69.249",
+        "time": "2014-09-17 19:12:16",
+        "place": "中国天津市天津市,联通"
+    },
+    {
+        "gameName": "首我就炸翻你！",
+        "ip": "61.130.20.130",
+        "time": "2014-09-17 19:12:06",
+        "place": "中国浙江省宁波市慈溪市,电信",
+        "uservalues": "hqzEXU2abF7WIxRPIySCTpEmz7/RdmMg",
+        "UserName": "假想对象",
+        "UserPwd": "21c5dcc6e2acb272",
+        "UserId": "113429090"
+    },
+    {
+        "gameName": "别再来烦我",
+        "ip": "182.18.100.223",
+        "time": "2014-09-17 19:11:41",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "hqzEXU2abF55T/LOVWmjVVPhAbU2Gh8g",
+        "UserName": "zh297462264",
+        "UserPwd": "569b987b0d3db47c",
+        "UserId": "111746092"
+    },
+    {
+        "gameName": "首我就炸翻你！",
+        "ip": "61.130.20.130",
+        "time": "2014-09-17 19:11:41",
+        "place": "中国浙江省宁波市慈溪市,电信",
+        "uservalues": "hqzEXU2abF7WIxRPIySCTpEmz7/RdmMg",
+        "UserName": "假想对象",
+        "UserPwd": "21c5dcc6e2acb272",
+        "UserId": "113429090"
+    },
+    {
+        "gameName": "首我就炸翻你！",
+        "ip": "61.130.20.130",
+        "time": "2014-09-17 19:11:41",
+        "place": "中国浙江省宁波市慈溪市,电信",
+        "uservalues": "hqzEXU2abF7WIxRPIySCTpEmz7/RdmMg",
+        "UserName": "假想对象",
+        "UserPwd": "21c5dcc6e2acb272",
+        "UserId": "113429090"
+    },
+    {
+        "gameName": "首我就炸翻你！",
+        "ip": "61.130.20.130",
+        "time": "2014-09-17 19:09:30",
+        "place": "中国浙江省宁波市慈溪市,电信",
+        "uservalues": "hqzEXU2abF7WIxRPIySCTpEmz7/RdmMg",
+        "UserName": "假想对象",
+        "UserPwd": "21c5dcc6e2acb272",
+        "UserId": "113429090"
+    },
+    {
+        "gameName": "首我就炸翻你！",
+        "ip": "61.130.20.130",
+        "time": "2014-09-17 19:09:14",
+        "place": "中国浙江省宁波市慈溪市,电信",
+        "uservalues": "hqzEXU2abF7WIxRPIySCTpEmz7/RdmMg",
+        "UserName": "假想对象",
+        "UserPwd": "21c5dcc6e2acb272",
+        "UserId": "113429090"
+    },
+    {
+        "ip": "120.210.184.66",
+        "time": "2014-09-17 19:07:01",
+        "place": "中国安徽省合肥市,移动"
+    },
+    {
+        "ip": "119.127.167.221",
+        "time": "2014-09-17 19:00:50",
+        "place": "中国广东省东莞市,电信"
+    },
+    {
+        "ip": "59.35.46.44",
+        "time": "2014-09-17 19:00:05",
+        "place": "中国广东省汕头市,电信",
+        "uservalues": "hqzEXU2abF5PO3kUNDeiVHxN2qkvnsXt",
+        "UserName": "QQ用户",
+        "gameName": "　缺口　",
+        "UserId": "112952575"
+    },
+    {
+        "ip": "59.35.46.44",
+        "time": "2014-09-17 19:00:05",
+        "place": "中国广东省汕头市,电信",
+        "uservalues": "hqzEXU2abF5PO3kUNDeiVHxN2qkvnsXt",
+        "UserName": "QQ用户",
+        "gameName": "　缺口　",
+        "UserId": "112952575"
+    },
+    {
+        "ip": "124.228.51.137",
+        "time": "2014-09-17 18:47:40",
+        "place": "中国湖南省衡阳市,电信",
+        "uservalues": "hqzEXU2abF7Br3Ifz/iPc0A894TY9uTl",
+        "UserName": "QQ用户",
+        "gameName": "　痴心就像马戏　",
+        "UserId": "112415147"
+    },
+    {
+        "ip": "124.228.51.137",
+        "time": "2014-09-17 18:47:28",
+        "place": "中国湖南省衡阳市,电信",
+        "uservalues": "hqzEXU2abF7Br3Ifz/iPc0A894TY9uTl",
+        "UserName": "QQ用户",
+        "gameName": "　痴心就像马戏　",
+        "UserId": "112415147"
+    },
+    {
+        "ip": "113.77.103.133",
+        "time": "2014-09-17 18:44:52",
+        "place": "中国广东省东莞市,电信"
+    },
+    {
+        "gameName": "㎡",
+        "ip": "222.248.80.67",
+        "time": "2014-09-17 18:44:17",
+        "place": "中国广东省深圳市福田区,天威宽带",
+        "uservalues": "hqzEXU2abF617Vg1sX0cOzG4iOCrxfvv",
+        "UserName": "alor1du",
+        "UserPwd": "a181e0b168f6aacb",
+        "UserId": "1576531"
+    },
+    {
+        "gameName": "傲骨天生",
+        "ip": "117.40.175.121",
+        "time": "2014-09-17 18:43:30",
+        "place": "中国江西省九江市,电信",
+        "uservalues": "hqzEXU2abF7aRcWRZH8mbhHn4rknaqAA",
+        "UserName": "喂许晓倩",
+        "UserPwd": "c2309a2eacfb431b",
+        "UserId": "113708006"
+    },
+    {
+        "gameName": "傲骨天生",
+        "ip": "117.40.175.121",
+        "time": "2014-09-17 18:43:18",
+        "place": "中国江西省九江市,电信",
+        "uservalues": "hqzEXU2abF7aRcWRZH8mbhHn4rknaqAA",
+        "UserName": "喂许晓倩",
+        "UserPwd": "c2309a2eacfb431b",
+        "UserId": "113708006"
+    },
+    {
+        "gameName": "傲骨天生",
+        "ip": "117.40.175.121",
+        "time": "2014-09-17 18:42:23",
+        "place": "中国江西省九江市,电信",
+        "uservalues": "hqzEXU2abF7aRcWRZH8mbhHn4rknaqAA",
+        "UserName": "喂许晓倩",
+        "UserPwd": "c2309a2eacfb431b",
+        "UserId": "113708006"
+    },
+    {
+        "gameName": "傲骨天生",
+        "ip": "117.40.175.121",
+        "time": "2014-09-17 18:42:13",
+        "place": "中国江西省九江市,电信",
+        "uservalues": "hqzEXU2abF7aRcWRZH8mbhHn4rknaqAA",
+        "UserName": "喂许晓倩",
+        "UserPwd": "c2309a2eacfb431b",
+        "UserId": "113708006"
+    },
+    {
+        "gameName": "叮叮噹",
+        "ip": "183.9.166.77",
+        "time": "2014-09-17 18:41:57",
+        "place": "中国广东省揭阳市,电信",
+        "uservalues": "hqzEXU2abF4dBqZHXtCw5ZntRQPiSS7K",
+        "UserName": "叮儿铃叮咚",
+        "UserPwd": "36354f1ccef709fc",
+        "UserId": "113606276"
+    },
+    {
+        "gameName": "七里香",
+        "ip": "120.4.181.150",
+        "time": "2014-09-17 18:41:29",
+        "place": "中国河北省唐山市,联通",
+        "uservalues": "hqzEXU2abF5GvMO4Cm2iX/qEM0MIVmvQ",
+        "UserName": "灼眼的悲伤",
+        "UserPwd": "acae57ea77682458",
+        "UserId": "113202653"
+    },
+    {
+        "gameName": "我的杀手世界",
+        "ip": "60.223.138.251",
+        "time": "2014-09-17 18:40:09",
+        "place": "中国山西省晋中市,联通",
+        "uservalues": "bdXDku8FQxpsKmnHPtjWqrdG1Q/M3Zdv",
+        "UserName": "gyc321",
+        "UserPwd": "37de55af279d5f72",
+        "UserId": "113816823"
+    },
+    {
+        "gameName": "我的杀手世界",
+        "ip": "60.223.138.251",
+        "time": "2014-09-17 18:38:20",
+        "place": "中国山西省晋中市,联通",
+        "uservalues": "bdXDku8FQxpsKmnHPtjWqrdG1Q/M3Zdv",
+        "UserName": "gyc321",
+        "UserPwd": "37de55af279d5f72",
+        "UserId": "113816823"
+    },
+    {
+        "gameName": "我的杀手世界",
+        "ip": "60.223.138.251",
+        "time": "2014-09-17 18:37:49",
+        "place": "中国山西省晋中市,联通",
+        "uservalues": "bdXDku8FQxpsKmnHPtjWqrdG1Q/M3Zdv",
+        "UserName": "gyc321",
+        "UserPwd": "37de55af279d5f72",
+        "UserId": "113816823"
+    },
+    {
+        "gameName": "蒹葭#",
+        "ip": "123.139.106.230",
+        "time": "2014-09-17 18:34:21",
+        "place": "中国陕西省西安市,联通",
+        "uservalues": "hqzEXU2abF7+yXWq6hSGILlzkp+yzQeY",
+        "UserName": "jianjia",
+        "UserPwd": "15702e03b7fc4c53",
+        "UserId": "112328868"
+    },
+    {
+        "ip": "111.37.16.86",
+        "time": "2014-09-17 18:33:54",
+        "place": "中国山东省烟台市,移动"
+    },
+    {
+        "ip": "111.37.16.86",
+        "time": "2014-09-17 18:33:54",
+        "place": "中国山东省烟台市,移动"
+    },
+    {
+        "gameName": "蒹葭#",
+        "ip": "123.139.106.230",
+        "time": "2014-09-17 18:31:31",
+        "place": "中国陕西省西安市,联通",
+        "uservalues": "hqzEXU2abF7+yXWq6hSGILlzkp+yzQeY",
+        "UserName": "jianjia",
+        "UserPwd": "15702e03b7fc4c53",
+        "UserId": "112328868"
+    },
+    {
+        "gameName": "蒹葭#",
+        "ip": "123.139.106.230",
+        "time": "2014-09-17 18:31:04",
+        "place": "中国陕西省西安市,联通",
+        "uservalues": "hqzEXU2abF7+yXWq6hSGILlzkp+yzQeY",
+        "UserName": "jianjia",
+        "UserPwd": "15702e03b7fc4c53",
+        "UserId": "112328868"
+    },
+    {
+        "gameName": "七里香",
+        "ip": "120.4.181.150",
+        "time": "2014-09-17 18:27:24",
+        "place": "中国河北省唐山市,联通",
+        "uservalues": "hqzEXU2abF5GvMO4Cm2iX/qEM0MIVmvQ",
+        "UserName": "灼眼的悲伤",
+        "UserPwd": "acae57ea77682458",
+        "UserId": "113202653"
+    },
+    {
+        "gameName": "　　　　葵烟　　",
+        "ip": "111.201.158.113",
+        "time": "2014-09-17 18:25:14",
+        "place": "中国北京市北京市,联通",
+        "uservalues": "hqzEXU2abF7nkIF1A+nH6OjgoU6Nii23",
+        "UserName": "宿海宿海",
+        "UserPwd": "965eb72c92a549dd",
+        "UserId": "112766525"
+    },
+    {
+        "gameName": "ma***敖ζ",
+        "ip": "111.206.170.140",
+        "time": "2014-09-17 18:18:24",
+        "place": "中国北京市北京市,联通",
+        "uservalues": "hqzEXU2abF6ZNWDKeyJ4FdJAVC+q5OE0",
+        "UserName": "maek﹑冷敖ζ",
+        "UserPwd": "b972d19088fd8800",
+        "UserId": "111485037"
+    },
+    {
+        "ip": "223.73.16.121",
+        "time": "2014-09-17 18:17:25",
+        "place": "中国广东省揭阳市,移动",
+        "uservalues": "hqzEXU2abF5gnJ5oo0czBJIpC6Aj69ZU",
+        "UserName": "QQ用户",
+        "gameName": "八百标兵蹦擦擦",
+        "UserId": "113698828"
+    },
+    {
+        "ip": "223.73.16.121",
+        "time": "2014-09-17 18:16:59",
+        "place": "中国广东省揭阳市,移动",
+        "uservalues": "hqzEXU2abF5gnJ5oo0czBJIpC6Aj69ZU",
+        "UserName": "QQ用户",
+        "gameName": "八百标兵蹦擦擦",
+        "UserId": "113698828"
+    },
+    {
+        "ip": "58.19.43.9",
+        "time": "2014-09-17 18:15:40",
+        "place": "中国湖北省武汉市,联通",
+        "uservalues": "hqzEXU2abF7IzfrGerfxTwfrNapFxN1h",
+        "UserName": "QQ用户",
+        "gameName": "熊店",
+        "UserId": "113304815"
+    },
+    {
+        "ip": "58.19.43.9",
+        "time": "2014-09-17 18:15:36",
+        "place": "中国湖北省武汉市,联通",
+        "uservalues": "hqzEXU2abF7IzfrGerfxTwfrNapFxN1h",
+        "UserName": "QQ用户",
+        "gameName": "熊店",
+        "UserId": "113304815"
+    },
+    {
+        "gameName": "想梦你梦的画面",
+        "ip": "60.168.30.220",
+        "time": "2014-09-17 18:13:57",
+        "place": "中国安徽省合肥市,电信",
+        "uservalues": "hqzEXU2abF7nPloDYyrY2LIbyvWCLj1y",
+        "UserName": "奈小浅27",
+        "UserPwd": "cc3facacfa0049d8",
+        "UserId": "111818565"
+    },
+    {
+        "gameName": "　秋天　",
+        "ip": "111.8.2.136",
+        "time": "2014-09-17 18:12:20",
+        "place": "中国湖南省长沙市,移动",
+        "uservalues": "VeRNmPET1jcVuqGjheshJ7yy4Mxkselx",
+        "UserName": "秋天的颜色15",
+        "UserPwd": "b09c24ef7558abc5",
+        "UserId": "113440223"
+    },
+    {
+        "ip": "223.73.16.121",
+        "time": "2014-09-17 18:10:20",
+        "place": "中国广东省揭阳市,移动",
+        "uservalues": "hqzEXU2abF5gnJ5oo0czBJIpC6Aj69ZU",
+        "UserName": "QQ用户",
+        "gameName": "八百标兵蹦擦擦",
+        "UserId": "113698828"
+    },
+    {
+        "gameName": "淫神",
+        "ip": "219.82.10.12",
+        "time": "2014-09-17 18:07:58",
+        "place": "中国浙江省杭州市,华数",
+        "uservalues": "hqzEXU2abF4/N8LmOtJ9sCc3LusZacLA",
+        "UserName": "qq125586174",
+        "UserPwd": "7e5c8dc43083e85a",
+        "UserId": "1269668"
+    },
+    {
+        "gameName": "刷钱***23",
+        "ip": "223.68.189.233",
+        "time": "2014-09-17 18:03:00",
+        "place": "中国江苏省,移动",
+        "uservalues": "hqzEXU2abF427Ka9NmVPeV9wdxm75fvD",
+        "UserName": "刷钱号123",
+        "UserPwd": "020caef069e753c6",
+        "UserId": "113765676"
+    },
+    {
+        "gameName": "程宝宝",
+        "ip": "117.42.142.61",
+        "time": "2014-09-17 17:57:55",
+        "place": "中国江西省南昌市,电信",
+        "uservalues": "hqzEXU2abF7H1nqhUxogJr+v/IHq+94J",
+        "UserName": "{［侒栤瞳}",
+        "UserPwd": "4186291eb4425bec",
+        "UserId": "413296"
+    },
+    {
+        "ip": "59.108.222.173",
+        "time": "2014-09-17 17:54:12",
+        "place": "中国北京市北京市,"
+    },
+    {
+        "gameName": "就想票你",
+        "ip": "119.85.108.16",
+        "time": "2014-09-17 17:53:35",
+        "place": "中国重庆市重庆市,电信",
+        "uservalues": "hqzEXU2abF4HGQd5UC27ux5cqaeB4kDw",
+        "UserName": "laishuade",
+        "UserPwd": "75c7b152f450bb15",
+        "UserId": "1648303"
+    },
+    {
+        "gameName": "就想票你",
+        "ip": "119.85.108.16",
+        "time": "2014-09-17 17:53:29",
+        "place": "中国重庆市重庆市,电信",
+        "uservalues": "hqzEXU2abF4HGQd5UC27ux5cqaeB4kDw",
+        "UserName": "laishuade",
+        "UserPwd": "75c7b152f450bb15",
+        "UserId": "1648303"
+    },
+    {
+        "gameName": "　挚爱她　",
+        "ip": "61.149.47.222",
+        "time": "2014-09-17 17:52:26",
+        "place": "中国北京市北京市宣武区,联通",
+        "uservalues": "hqzEXU2abF7W8ofVmTmB2gGpIjct//mr",
+        "UserName": "沉沦的木偶",
+        "UserPwd": "ffaef7425182754d",
+        "UserId": "111613229"
+    },
+    {
+        "gameName": "离岸",
+        "ip": "121.35.130.69",
+        "time": "2014-09-17 17:51:27",
+        "place": "中国广东省深圳市,电信",
+        "uservalues": "hqzEXU2abF6AlaYEj8iE36Z9P0bE5WCw",
+        "UserName": "未完成的梦想",
+        "UserPwd": "fe6e11431ef3260b",
+        "UserId": "113058727"
+    },
+    {
+        "gameName": "就想票你",
+        "ip": "119.85.108.16",
+        "time": "2014-09-17 17:50:29",
+        "place": "中国重庆市重庆市,电信",
+        "uservalues": "hqzEXU2abF4HGQd5UC27ux5cqaeB4kDw",
+        "UserName": "laishuade",
+        "UserPwd": "75c7b152f450bb15",
+        "UserId": "1648303"
+    },
+    {
+        "ip": "58.253.105.109",
+        "time": "2014-09-17 17:49:29",
+        "place": "中国广东省东莞市,联通",
+        "uservalues": "hqzEXU2abF50usL2zYrc1SPrv5PS+U+u",
+        "UserName": "QQ用户",
+        "gameName": "我爱月中倒影",
+        "UserId": "113041813"
+    },
+    {
+        "ip": "117.25.116.101",
+        "time": "2014-09-17 17:46:49",
+        "place": "中国福建省福州市,电信"
+    },
+    {
+        "ip": "103.19.233.68",
+        "time": "2014-09-17 17:46:10",
+        "place": "中国北京市北京市,"
+    },
+    {
+        "gameName": "　挚爱他　",
+        "ip": "218.75.145.56",
+        "time": "2014-09-17 17:45:57",
+        "place": "中国湖南省常德市汉寿县,电信",
+        "uservalues": "hqzEXU2abF55buZpKiVB/SknVjj2LO0j",
+        "UserName": "挚爱他520",
+        "UserPwd": "d2f4e59bc5c8a7fb",
+        "UserId": "113810696"
+    },
+    {
+        "ip": "103.19.233.68",
+        "time": "2014-09-17 17:45:50",
+        "place": "中国北京市北京市,"
+    },
+    {
+        "gameName": "　挚爱她　",
+        "ip": "61.149.47.222",
+        "time": "2014-09-17 17:45:49",
+        "place": "中国北京市北京市宣武区,联通",
+        "uservalues": "hqzEXU2abF7W8ofVmTmB2gGpIjct//mr",
+        "UserName": "沉沦的木偶",
+        "UserPwd": "ffaef7425182754d",
+        "UserId": "111613229"
+    },
+    {
+        "ip": "183.164.68.213",
+        "time": "2014-09-17 17:45:41",
+        "place": "中国安徽省宿州市,电信"
+    },
+    {
+        "gameName": "　挚爱他　",
+        "ip": "218.75.145.56",
+        "time": "2014-09-17 17:45:26",
+        "place": "中国湖南省常德市汉寿县,电信",
+        "uservalues": "hqzEXU2abF55buZpKiVB/SknVjj2LO0j",
+        "UserName": "挚爱他520",
+        "UserPwd": "d2f4e59bc5c8a7fb",
+        "UserId": "113810696"
+    },
+    {
+        "gameName": "　挚爱她　",
+        "ip": "61.149.47.222",
+        "time": "2014-09-17 17:45:24",
+        "place": "中国北京市北京市宣武区,联通",
+        "uservalues": "hqzEXU2abF7W8ofVmTmB2gGpIjct//mr",
+        "UserName": "沉沦的木偶",
+        "UserPwd": "ffaef7425182754d",
+        "UserId": "111613229"
+    },
+    {
+        "gameName": "　挚爱他　",
+        "ip": "218.75.145.56",
+        "time": "2014-09-17 17:41:57",
+        "place": "中国湖南省常德市汉寿县,电信",
+        "uservalues": "hqzEXU2abF55buZpKiVB/SknVjj2LO0j",
+        "UserName": "挚爱他520",
+        "UserPwd": "d2f4e59bc5c8a7fb",
+        "UserId": "113810696"
+    },
+    {
+        "gameName": "鞋带",
+        "ip": "116.10.17.4",
+        "time": "2014-09-17 17:41:16",
+        "place": "中国广西壮族自治区河池市,电信",
+        "uservalues": "hqzEXU2abF5woJTQK55eYSUSt981Zi4o",
+        "UserName": "199338",
+        "UserPwd": "40cc924354614c72",
+        "UserId": "112731088"
+    },
+    {
+        "ip": "114.101.172.202",
+        "time": "2014-09-17 17:38:27",
+        "place": "中国安徽省淮南市,电信",
+        "uservalues": "hqzEXU2abF7Tv8AkhJvm0GHVCYiHLpZz",
+        "UserName": "QQ用户",
+        "gameName": "薇薇老公",
+        "UserId": "112750100"
+    },
+    {
+        "gameName": "微微***21",
+        "ip": "119.4.0.7",
+        "time": "2014-09-17 17:37:55",
+        "place": "中国四川省成都市,联通",
+        "uservalues": "oGlUnGocljfrtaSv0UgdSS3SkUckADj/",
+        "UserName": "微微123321",
+        "UserPwd": "83aa400af464c76d",
+        "UserId": "113600783"
+    },
+    {
+        "gameName": "麻仓叶sama",
+        "ip": "182.18.4.94",
+        "time": "2014-09-17 17:36:06",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "hqzEXU2abF457+PN/U++p1AxtbN4A4e0",
+        "UserName": "pika001",
+        "UserPwd": "627a16b1b03226b9",
+        "UserId": "113808106"
+    },
+    {
+        "gameName": "麻仓叶sama",
+        "ip": "182.18.4.94",
+        "time": "2014-09-17 17:35:29",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "hqzEXU2abF457+PN/U++p1AxtbN4A4e0",
+        "UserName": "pika001",
+        "UserPwd": "627a16b1b03226b9",
+        "UserId": "113808106"
+    },
+    {
+        "gameName": "",
+        "ip": "113.105.139.185",
+        "time": "2014-09-17 17:32:37",
+        "place": "中国广东省东莞市,电信",
+        "uservalues": "hqzEXU2abF4ZSEdFJi1JyqHPozAeXFF4",
+        "UserName": "那一道希望之光",
+        "UserPwd": "48b5dcf5ff6dbe15",
+        "UserId": "113332303"
+    },
+    {
+        "gameName": "",
+        "ip": "113.105.139.185",
+        "time": "2014-09-17 17:32:25",
+        "place": "中国广东省东莞市,电信",
+        "uservalues": "hqzEXU2abF4ZSEdFJi1JyqHPozAeXFF4",
+        "UserName": "那一道希望之光",
+        "UserPwd": "48b5dcf5ff6dbe15",
+        "UserId": "113332303"
+    },
+    {
+        "gameName": "❤　　　　婴ル",
+        "ip": "113.105.139.185",
+        "time": "2014-09-17 17:32:15",
+        "place": "中国广东省东莞市,电信",
+        "uservalues": "hqzEXU2abF7j968jYWStY62F/qe4QU1M",
+        "UserName": "524817938",
+        "UserPwd": "5cfc39e697ee658d",
+        "UserId": "112587204"
+    },
+    {
+        "gameName": "❤　　　　婴ル",
+        "ip": "113.105.139.185",
+        "time": "2014-09-17 17:32:10",
+        "place": "中国广东省东莞市,电信",
+        "uservalues": "hqzEXU2abF7j968jYWStY62F/qe4QU1M",
+        "UserName": "524817938",
+        "UserPwd": "5cfc39e697ee658d",
+        "UserId": "112587204"
+    },
+    {
+        "gameName": "❤　　　　婴ル",
+        "ip": "113.105.139.185",
+        "time": "2014-09-17 17:31:34",
+        "place": "中国广东省东莞市,电信",
+        "uservalues": "hqzEXU2abF7j968jYWStY62F/qe4QU1M",
+        "UserName": "524817938",
+        "UserPwd": "5cfc39e697ee658d",
+        "UserId": "112587204"
+    },
+    {
+        "gameName": "麻仓叶sama",
+        "ip": "182.18.4.94",
+        "time": "2014-09-17 17:30:12",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "hqzEXU2abF457+PN/U++p1AxtbN4A4e0",
+        "UserName": "pika001",
+        "UserPwd": "627a16b1b03226b9",
+        "UserId": "113808106"
+    },
+    {
+        "gameName": "载我回家",
+        "ip": "36.48.108.37",
+        "time": "2014-09-17 17:26:09",
+        "place": "中国吉林省吉林市,电信",
+        "uservalues": "hqzEXU2abF40dkNUJdZkqecSbkB2S15r",
+        "UserName": "cjh2005",
+        "UserPwd": "757783e6cf17b26f",
+        "UserId": "111593547"
+    },
+    {
+        "gameName": "",
+        "ip": "113.105.139.189",
+        "time": "2014-09-17 17:24:23",
+        "place": "中国广东省东莞市,电信",
+        "uservalues": "hqzEXU2abF4ZSEdFJi1JyqHPozAeXFF4",
+        "UserName": "那一道希望之光",
+        "UserPwd": "48b5dcf5ff6dbe15",
+        "UserId": "113332303"
+    },
+    {
+        "gameName": "你不是非我不可",
+        "ip": "157.61.161.20",
+        "time": "2014-09-17 17:24:16",
+        "place": "中国广东省广州市,联通",
+        "uservalues": "hqzEXU2abF5+JJ2ftB3sDh5rICbpIxVP",
+        "UserName": "你又不是非我不可",
+        "UserPwd": "0543eca135ea2d67",
+        "UserId": "112834439"
+    },
+    {
+        "gameName": "蛋花儿L1",
+        "ip": "111.174.206.128",
+        "time": "2014-09-17 17:21:58",
+        "place": "中国湖北省武汉市,电信",
+        "uservalues": "hqzEXU2abF5u0Uq2gJT3xIUxr4NObgiJ",
+        "UserName": "蛋花儿l1",
+        "UserPwd": "215bfca35aa2e944",
+        "UserId": "113380808"
+    },
+    {
+        "gameName": "别再来烦我",
+        "ip": "182.18.100.223",
+        "time": "2014-09-17 17:21:55",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "hqzEXU2abF4jfpt4aoj22V333kQA746m",
+        "UserName": "zh297462264",
+        "UserPwd": "569b987b0d3db47c",
+        "UserId": "111746092"
+    },
+    {
+        "gameName": "Posion   /",
+        "ip": "123.121.26.212",
+        "time": "2014-09-17 17:17:21",
+        "place": "中国北京市北京市,联通",
+        "uservalues": "hqzEXU2abF4cBSQNrzEEB+44mk5HuMRO",
+        "UserName": "jingxuedi1",
+        "UserPwd": "08bdbbeed946fc96",
+        "UserId": "113828067"
+    },
+    {
+        "ip": "124.164.68.24",
+        "time": "2014-09-17 17:13:04",
+        "place": "中国山西省晋城市,联通",
+        "uservalues": "hqzEXU2abF4GDQgYPzbBQK6z0KSBc4lO",
+        "UserName": "QQ用户",
+        "gameName": "QQ用户",
+        "UserId": "113651402"
+    },
+    {
+        "gameName": "可可猪",
+        "ip": "113.119.215.41",
+        "time": "2014-09-17 17:09:11",
+        "place": "中国广东省广州市,电信",
+        "uservalues": "bdXDku8FQxrfrbDW+s0VSPIvOycl71Kl",
+        "UserName": "540338981",
+        "UserPwd": "d14722841dead204",
+        "UserId": "112930825"
+    },
+    {
+        "gameName": "离岸",
+        "ip": "183.15.3.253",
+        "time": "2014-09-17 17:08:40",
+        "place": "中国广东省深圳市,电信",
+        "uservalues": "hqzEXU2abF6AlaYEj8iE36Z9P0bE5WCw",
+        "UserName": "未完成的梦想",
+        "UserPwd": "fe6e11431ef3260b",
+        "UserId": "113058727"
+    },
+    {
+        "gameName": "可可猪",
+        "ip": "113.119.215.41",
+        "time": "2014-09-17 17:07:27",
+        "place": "中国广东省广州市,电信",
+        "uservalues": "bdXDku8FQxrfrbDW+s0VSPIvOycl71Kl",
+        "UserName": "540338981",
+        "UserPwd": "d14722841dead204",
+        "UserId": "112930825"
+    },
+    {
+        "gameName": "墨晨。",
+        "ip": "124.118.253.133",
+        "time": "2014-09-17 17:05:48",
+        "place": "中国新疆维吾尔自治区昌吉回族自治州,电信",
+        "uservalues": "hqzEXU2abF56zh4vTffvlQ1XOLWJQuDF",
+        "UserName": "add150",
+        "UserPwd": "9578240a0cdc93f7",
+        "UserId": "113743776"
+    },
+    {
+        "gameName": "可可猪",
+        "ip": "113.119.215.41",
+        "time": "2014-09-17 17:01:01",
+        "place": "中国广东省广州市,电信",
+        "uservalues": "bdXDku8FQxrfrbDW+s0VSPIvOycl71Kl",
+        "UserName": "540338981",
+        "UserPwd": "d14722841dead204",
+        "UserId": "112930825"
+    },
+    {
+        "ip": "61.149.72.89",
+        "time": "2014-09-17 17:00:18",
+        "place": "中国北京市北京市朝阳区,联通",
+        "uservalues": "hqzEXU2abF7LBd/vLQZsxkcEoof/CPvF",
+        "UserName": "QQ用户",
+        "gameName": "傅傅の",
+        "UserId": "113489078"
+    },
+    {
+        "gameName": "一诺",
+        "ip": "183.17.55.172",
+        "time": "2014-09-17 16:59:28",
+        "place": "中国广东省深圳市,电信",
+        "uservalues": "hqzEXU2abF4K0PQ44WAKUfXBJlGPk9It",
+        "UserName": "扮猪老吃虎",
+        "UserPwd": "26e44796a6325666",
+        "UserId": "111787812"
+    },
+    {
+        "ip": "61.149.72.89",
+        "time": "2014-09-17 16:57:49",
+        "place": "中国北京市北京市朝阳区,联通",
+        "uservalues": "hqzEXU2abF7LBd/vLQZsxkcEoof/CPvF",
+        "UserName": "QQ用户",
+        "gameName": "傅傅の",
+        "UserId": "113489078"
+    },
+    {
+        "gameName": "你不是非我不可",
+        "ip": "157.61.161.20",
+        "time": "2014-09-17 16:56:20",
+        "place": "中国广东省广州市,联通",
+        "uservalues": "hqzEXU2abF5+JJ2ftB3sDh5rICbpIxVP",
+        "UserName": "你又不是非我不可",
+        "UserPwd": "0543eca135ea2d67",
+        "UserId": "112834439"
+    },
+    {
+        "gameName": "别再来烦我",
+        "ip": "182.18.100.223",
+        "time": "2014-09-17 16:55:59",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "hqzEXU2abF4jfpt4aoj22V333kQA746m",
+        "UserName": "zh297462264",
+        "UserPwd": "569b987b0d3db47c",
+        "UserId": "111746092"
+    },
+    {
+        "gameName": "Echo。",
+        "ip": "60.55.43.128",
+        "time": "2014-09-17 16:54:15",
+        "place": "中国浙江省宁波市,",
+        "uservalues": "hqzEXU2abF625hSwZgtlCQ1puccaRjGa",
+        "UserName": "小白兔他嫂",
+        "UserPwd": "13b8df6b5a013eba",
+        "UserId": "112594100"
+    },
+    {
+        "gameName": "Echo。",
+        "ip": "60.55.43.128",
+        "time": "2014-09-17 16:54:07",
+        "place": "中国浙江省宁波市,",
+        "uservalues": "hqzEXU2abF625hSwZgtlCQ1puccaRjGa",
+        "UserName": "小白兔他嫂",
+        "UserPwd": "13b8df6b5a013eba",
+        "UserId": "112594100"
+    },
+    {
+        "gameName": "别再来烦我",
+        "ip": "182.18.100.223",
+        "time": "2014-09-17 16:52:39",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "hqzEXU2abF4jfpt4aoj22V333kQA746m",
+        "UserName": "zh297462264",
+        "UserPwd": "569b987b0d3db47c",
+        "UserId": "111746092"
+    },
+    {
+        "gameName": "难舍",
+        "ip": "115.215.115.208",
+        "time": "2014-09-17 16:51:07",
+        "place": "中国浙江省宁波市海曙区,电信",
+        "uservalues": "hqzEXU2abF6B39vzJJkqNg5aiAHwBS8S",
+        "UserName": "qq173032619",
+        "UserPwd": "5c369a969a4f64cb",
+        "UserId": "1465039"
+    },
+    {
+        "gameName": "就想票你",
+        "ip": "119.85.108.16",
+        "time": "2014-09-17 16:49:05",
+        "place": "中国重庆市重庆市,电信",
+        "uservalues": "hqzEXU2abF4HGQd5UC27ux5cqaeB4kDw",
+        "UserName": "laishuade",
+        "UserPwd": "75c7b152f450bb15",
+        "UserId": "1648303"
+    },
+    {
+        "gameName": "麻仓叶sama",
+        "ip": "182.18.4.94",
+        "time": "2014-09-17 16:48:41",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "hqzEXU2abF457+PN/U++p1AxtbN4A4e0",
+        "UserName": "pika001",
+        "UserPwd": "627a16b1b03226b9",
+        "UserId": "113808106"
+    },
+    {
+        "gameName": "我想粘着你",
+        "ip": "112.66.185.237",
+        "time": "2014-09-17 16:48:18",
+        "place": "中国海南省海口市,电信",
+        "uservalues": "hqzEXU2abF4GU8biGPuXr7rxVQsh/Cgg",
+        "UserName": "n小甜心",
+        "UserPwd": "b6a7809d3f58198a",
+        "UserId": "113643955"
+    },
+    {
+        "gameName": "我想粘着你",
+        "ip": "112.66.185.237",
+        "time": "2014-09-17 16:48:05",
+        "place": "中国海南省海口市,电信",
+        "uservalues": "hqzEXU2abF4GU8biGPuXr7rxVQsh/Cgg",
+        "UserName": "n小甜心",
+        "UserPwd": "b6a7809d3f58198a",
+        "UserId": "113643955"
+    },
+    {
+        "gameName": "我想粘着你",
+        "ip": "112.66.185.237",
+        "time": "2014-09-17 16:47:12",
+        "place": "中国海南省海口市,电信",
+        "uservalues": "hqzEXU2abF4GU8biGPuXr7rxVQsh/Cgg",
+        "UserName": "n小甜心",
+        "UserPwd": "b6a7809d3f58198a",
+        "UserId": "113643955"
+    },
+    {
+        "gameName": "别再来烦我",
+        "ip": "182.18.100.223",
+        "time": "2014-09-17 16:46:08",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "hqzEXU2abF4jfpt4aoj22V333kQA746m",
+        "UserName": "zh297462264",
+        "UserPwd": "569b987b0d3db47c",
+        "UserId": "111746092"
+    },
+    {
+        "gameName": "就想票你",
+        "ip": "119.85.108.16",
+        "time": "2014-09-17 16:45:40",
+        "place": "中国重庆市重庆市,电信",
+        "uservalues": "hqzEXU2abF4HGQd5UC27ux5cqaeB4kDw",
+        "UserName": "laishuade",
+        "UserPwd": "75c7b152f450bb15",
+        "UserId": "1648303"
+    },
+    {
+        "gameName": "别再来烦我",
+        "ip": "182.18.100.223",
+        "time": "2014-09-17 16:45:34",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "hqzEXU2abF4jfpt4aoj22V333kQA746m",
+        "UserName": "zh297462264",
+        "UserPwd": "569b987b0d3db47c",
+        "UserId": "111746092"
+    },
+    {
+        "gameName": "别再来烦我",
+        "ip": "182.18.100.223",
+        "time": "2014-09-17 16:43:59",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "hqzEXU2abF4jfpt4aoj22V333kQA746m",
+        "UserName": "zh297462264",
+        "UserPwd": "569b987b0d3db47c",
+        "UserId": "111746092"
+    },
+    {
+        "gameName": "可可猪",
+        "ip": "113.119.215.41",
+        "time": "2014-09-17 16:43:53",
+        "place": "中国广东省广州市,电信",
+        "uservalues": "bdXDku8FQxrfrbDW+s0VSPIvOycl71Kl",
+        "UserName": "540338981",
+        "UserPwd": "d14722841dead204",
+        "UserId": "112930825"
+    },
+    {
+        "ip": "117.12.69.249",
+        "time": "2014-09-17 16:37:48",
+        "place": "中国天津市天津市,联通"
+    },
+    {
+        "ip": "117.12.69.249",
+        "time": "2014-09-17 16:37:39",
+        "place": "中国天津市天津市,联通"
+    },
+    {
+        "gameName": "载我回家",
+        "ip": "36.48.108.37",
+        "time": "2014-09-17 16:37:13",
+        "place": "中国吉林省吉林市,电信",
+        "uservalues": "hqzEXU2abF40dkNUJdZkqecSbkB2S15r",
+        "UserName": "cjh2005",
+        "UserPwd": "757783e6cf17b26f",
+        "UserId": "111593547"
+    },
+    {
+        "gameName": "遥不及",
+        "ip": "117.25.116.101",
+        "time": "2014-09-17 16:36:48",
+        "place": "中国福建省福州市,电信",
+        "uservalues": "hqzEXU2abF7zTs3i5ZVZTrbuGCREBf0v",
+        "UserName": "dyingembers",
+        "UserPwd": "821e878286225b08",
+        "UserId": "112705807"
+    },
+    {
+        "gameName": "遥不及",
+        "ip": "117.25.116.101",
+        "time": "2014-09-17 16:36:20",
+        "place": "中国福建省福州市,电信",
+        "uservalues": "hqzEXU2abF7zTs3i5ZVZTrbuGCREBf0v",
+        "UserName": "dyingembers",
+        "UserPwd": "821e878286225b08",
+        "UserId": "112705807"
+    },
+    {
+        "gameName": "就想票你",
+        "ip": "119.85.108.16",
+        "time": "2014-09-17 16:36:19",
+        "place": "中国重庆市重庆市,电信",
+        "uservalues": "hqzEXU2abF4HGQd5UC27ux5cqaeB4kDw",
+        "UserName": "laishuade",
+        "UserPwd": "75c7b152f450bb15",
+        "UserId": "1648303"
+    },
+    {
+        "gameName": "就想票你",
+        "ip": "119.85.108.16",
+        "time": "2014-09-17 16:36:08",
+        "place": "中国重庆市重庆市,电信",
+        "uservalues": "hqzEXU2abF4HGQd5UC27ux5cqaeB4kDw",
+        "UserName": "laishuade",
+        "UserPwd": "75c7b152f450bb15",
+        "UserId": "1648303"
+    },
+    {
+        "ip": "117.12.69.249",
+        "time": "2014-09-17 16:36:02",
+        "place": "中国天津市天津市,联通"
+    },
+    {
+        "gameName": ".       亏 盈#",
+        "ip": "49.74.133.35",
+        "time": "2014-09-17 16:33:45",
+        "place": "中国江苏省南京市,电信",
+        "uservalues": "hqzEXU2abF54QBPKD2LAfzRHfxUHL6Jp",
+        "UserName": "盈盈333",
+        "UserPwd": "5d6d0cb4384363ed",
+        "UserId": "112369969"
+    },
+    {
+        "gameName": "偷东西的小矮人",
+        "ip": "113.118.22.89",
+        "time": "2014-09-17 16:32:16",
+        "place": "中国广东省深圳市,电信",
+        "uservalues": "hqzEXU2abF7Ek+N8f/IQYR1x6jdz9I/e",
+        "UserName": "邓甜甜6",
+        "UserPwd": "63ad052a3cae8e6e",
+        "UserId": "113635973"
+    },
+    {
+        "ip": "125.85.24.167",
+        "time": "2014-09-17 16:32:01",
+        "place": "中国重庆市重庆市,电信"
+    },
+    {
+        "gameName": "别再来烦我",
+        "ip": "182.18.100.223",
+        "time": "2014-09-17 16:31:21",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "hqzEXU2abF4jfpt4aoj22V333kQA746m",
+        "UserName": "zh297462264",
+        "UserPwd": "569b987b0d3db47c",
+        "UserId": "111746092"
+    },
+    {
+        "gameName": "载我回家",
+        "ip": "36.48.108.37",
+        "time": "2014-09-17 16:29:43",
+        "place": "中国吉林省吉林市,电信",
+        "uservalues": "hqzEXU2abF40dkNUJdZkqecSbkB2S15r",
+        "UserName": "cjh2005",
+        "UserPwd": "757783e6cf17b26f",
+        "UserId": "111593547"
+    },
+    {
+        "gameName": "别再来烦我",
+        "ip": "182.18.100.223",
+        "time": "2014-09-17 16:29:39",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "hqzEXU2abF4jfpt4aoj22V333kQA746m",
+        "UserName": "zh297462264",
+        "UserPwd": "569b987b0d3db47c",
+        "UserId": "111746092"
+    },
+    {
+        "gameName": "别再来烦我",
+        "ip": "182.18.100.223",
+        "time": "2014-09-17 16:29:31",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "hqzEXU2abF4jfpt4aoj22V333kQA746m",
+        "UserName": "zh297462264",
+        "UserPwd": "569b987b0d3db47c",
+        "UserId": "111746092"
+    },
+    {
+        "ip": "121.33.165.179",
+        "time": "2014-09-17 16:23:42",
+        "place": "中国广东省广州市,电信"
+    },
+    {
+        "gameName": "意散",
+        "ip": "183.15.3.253",
+        "time": "2014-09-17 16:21:18",
+        "place": "中国广东省深圳市,电信",
+        "uservalues": "hqzEXU2abF7kcCeBeYvtu5m4xNZz8jtT",
+        "UserName": "我想我会痛",
+        "UserPwd": "9f276fcb17c5e00a",
+        "UserId": "113394703"
+    },
+    {
+        "gameName": "zx***06",
+        "ip": "111.206.170.142",
+        "time": "2014-09-17 16:19:10",
+        "place": "中国北京市北京市,联通",
+        "uservalues": "hqzEXU2abF7zPAqScwspCTK7xdYPrCVW",
+        "UserName": "zx105306",
+        "UserPwd": "b972d19088fd8800",
+        "UserId": "113845017"
+    },
+    {
+        "ip": "14.209.227.33",
+        "time": "2014-09-17 16:16:54",
+        "place": "中国广东省云浮市,电信",
+        "uservalues": "hqzEXU2abF5OfvpJ9G6BkhC0qCEszQeJ",
+        "UserName": "QQ用户",
+        "gameName": "❧     橙熟°",
+        "UserId": "113417348"
+    },
+    {
+        "gameName": "别再来烦我",
+        "ip": "182.18.100.223",
+        "time": "2014-09-17 16:09:31",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "hqzEXU2abF4jfpt4aoj22V333kQA746m",
+        "UserName": "zh297462264",
+        "UserPwd": "569b987b0d3db47c",
+        "UserId": "111746092"
+    },
+    {
+        "gameName": "载我回家",
+        "ip": "36.48.108.37",
+        "time": "2014-09-17 16:09:02",
+        "place": "中国吉林省吉林市,电信",
+        "uservalues": "hqzEXU2abF40dkNUJdZkqecSbkB2S15r",
+        "UserName": "cjh2005",
+        "UserPwd": "757783e6cf17b26f",
+        "UserId": "111593547"
+    },
+    {
+        "gameName": "载我回家",
+        "ip": "36.48.108.37",
+        "time": "2014-09-17 16:08:20",
+        "place": "中国吉林省吉林市,电信",
+        "uservalues": "hqzEXU2abF40dkNUJdZkqecSbkB2S15r",
+        "UserName": "cjh2005",
+        "UserPwd": "757783e6cf17b26f",
+        "UserId": "111593547"
+    },
+    {
+        "gameName": "* 法国兰蔻.",
+        "ip": "61.180.150.184",
+        "time": "2014-09-17 16:06:59",
+        "place": "中国黑龙江省哈尔滨市,联通",
+        "uservalues": "hqzEXU2abF6HHDlernOkSY35K0YWLbxS",
+        "UserName": "147qwer",
+        "UserPwd": "13955235245b2497",
+        "UserId": "112439673"
+    },
+    {
+        "gameName": "* 法国兰蔻.",
+        "ip": "61.180.150.184",
+        "time": "2014-09-17 16:06:40",
+        "place": "中国黑龙江省哈尔滨市,联通",
+        "uservalues": "hqzEXU2abF6HHDlernOkSY35K0YWLbxS",
+        "UserName": "147qwer",
+        "UserPwd": "13955235245b2497",
+        "UserId": "112439673"
+    },
+    {
+        "gameName": "别再来烦我",
+        "ip": "182.18.100.223",
+        "time": "2014-09-17 16:05:45",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "hqzEXU2abF4jfpt4aoj22V333kQA746m",
+        "UserName": "zh297462264",
+        "UserPwd": "569b987b0d3db47c",
+        "UserId": "111746092"
+    },
+    {
+        "gameName": "胡闹闹。",
+        "ip": "183.141.217.217",
+        "time": "2014-09-17 16:03:13",
+        "place": "中国浙江省嘉兴市,电信",
+        "uservalues": "hqzEXU2abF6rFs/ZbEf7SAoDbc0EdoDl",
+        "UserName": "nibaichi00",
+        "UserPwd": "e86f33c959a1594a",
+        "UserId": "112030865"
+    },
+    {
+        "gameName": "胡闹闹。",
+        "ip": "183.141.217.217",
+        "time": "2014-09-17 16:02:55",
+        "place": "中国浙江省嘉兴市,电信",
+        "uservalues": "hqzEXU2abF6rFs/ZbEf7SAoDbc0EdoDl",
+        "UserName": "nibaichi00",
+        "UserPwd": "e86f33c959a1594a",
+        "UserId": "112030865"
+    },
+    {
+        "gameName": "别再来烦我",
+        "ip": "182.18.100.223",
+        "time": "2014-09-17 16:02:49",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "hqzEXU2abF4jfpt4aoj22V333kQA746m",
+        "UserName": "zh297462264",
+        "UserPwd": "569b987b0d3db47c",
+        "UserId": "111746092"
+    },
+    {
+        "gameName": "胡闹闹。",
+        "ip": "183.141.217.217",
+        "time": "2014-09-17 16:02:34",
+        "place": "中国浙江省嘉兴市,电信",
+        "uservalues": "hqzEXU2abF6rFs/ZbEf7SAoDbc0EdoDl",
+        "UserName": "nibaichi00",
+        "UserPwd": "e86f33c959a1594a",
+        "UserId": "112030865"
+    },
+    {
+        "gameName": "别再来烦我",
+        "ip": "182.18.100.223",
+        "time": "2014-09-17 16:01:38",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "hqzEXU2abF4jfpt4aoj22V333kQA746m",
+        "UserName": "zh297462264",
+        "UserPwd": "569b987b0d3db47c",
+        "UserId": "111746092"
+    },
+    {
+        "gameName": "别再来烦我",
+        "ip": "182.18.100.223",
+        "time": "2014-09-17 16:00:15",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "hqzEXU2abF4jfpt4aoj22V333kQA746m",
+        "UserName": "zh297462264",
+        "UserPwd": "569b987b0d3db47c",
+        "UserId": "111746092"
+    },
+    {
+        "gameName": "别再来烦我",
+        "ip": "182.18.100.223",
+        "time": "2014-09-17 15:59:42",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "hqzEXU2abF4jfpt4aoj22V333kQA746m",
+        "UserName": "zh297462264",
+        "UserPwd": "569b987b0d3db47c",
+        "UserId": "111746092"
+    },
+    {
+        "gameName": "胡闹闹。",
+        "ip": "183.141.217.217",
+        "time": "2014-09-17 15:57:59",
+        "place": "中国浙江省嘉兴市,电信",
+        "uservalues": "hqzEXU2abF6rFs/ZbEf7SAoDbc0EdoDl",
+        "UserName": "nibaichi00",
+        "UserPwd": "e86f33c959a1594a",
+        "UserId": "112030865"
+    },
+    {
+        "gameName": "* 法国兰蔻.",
+        "ip": "113.7.95.117",
+        "time": "2014-09-17 15:56:59",
+        "place": "中国黑龙江省牡丹江市,联通",
+        "uservalues": "hqzEXU2abF6HHDlernOkSY35K0YWLbxS",
+        "UserName": "147qwer",
+        "UserPwd": "13955235245b2497",
+        "UserId": "112439673"
+    },
+    {
+        "gameName": "* 法国兰蔻.",
+        "ip": "113.7.95.117",
+        "time": "2014-09-17 15:56:36",
+        "place": "中国黑龙江省牡丹江市,联通",
+        "uservalues": "hqzEXU2abF6HHDlernOkSY35K0YWLbxS",
+        "UserName": "147qwer",
+        "UserPwd": "13955235245b2497",
+        "UserId": "112439673"
+    },
+    {
+        "gameName": "胡闹闹。",
+        "ip": "183.141.217.217",
+        "time": "2014-09-17 15:53:09",
+        "place": "中国浙江省嘉兴市,电信",
+        "uservalues": "hqzEXU2abF6rFs/ZbEf7SAoDbc0EdoDl",
+        "UserName": "nibaichi00",
+        "UserPwd": "e86f33c959a1594a",
+        "UserId": "112030865"
+    },
+    {
+        "ip": "123.9.209.142",
+        "time": "2014-09-17 15:51:55",
+        "place": "中国河南省洛阳市涧西区,联通"
+    },
+    {
+        "gameName": "难舍",
+        "ip": "115.215.115.208",
+        "time": "2014-09-17 15:50:36",
+        "place": "中国浙江省宁波市海曙区,电信",
+        "uservalues": "hqzEXU2abF6B39vzJJkqNg5aiAHwBS8S",
+        "UserName": "qq173032619",
+        "UserPwd": "5c369a969a4f64cb",
+        "UserId": "1465039"
+    },
+    {
+        "gameName": "Parano1d",
+        "ip": "223.21.135.232",
+        "time": "2014-09-17 15:47:38",
+        "place": "中国北京市北京市,鹏博士",
+        "uservalues": "hqzEXU2abF5Ar2KCpuhV2XyweRqoIqsK",
+        "UserName": "parano1d",
+        "UserPwd": "7e515eed33ef19d0",
+        "UserId": "111919130"
+    },
+    {
+        "ip": "123.9.209.142",
+        "time": "2014-09-17 15:46:10",
+        "place": "中国河南省洛阳市涧西区,联通"
+    },
+    {
+        "gameName": "最北之北",
+        "ip": "117.25.116.101",
+        "time": "2014-09-17 15:45:36",
+        "place": "中国福建省福州市,电信",
+        "uservalues": "hqzEXU2abF4y5F20JXxR3Y5NkaMiBvAL",
+        "UserName": "没有忘记你",
+        "UserPwd": "821e878286225b08",
+        "UserId": "113000333"
+    },
+    {
+        "ip": "123.9.209.142",
+        "time": "2014-09-17 15:44:44",
+        "place": "中国河南省洛阳市涧西区,联通"
+    },
+    {
+        "ip": "123.9.209.142",
+        "time": "2014-09-17 15:44:36",
+        "place": "中国河南省洛阳市涧西区,联通"
+    },
+    {
+        "gameName": "Parano1d",
+        "ip": "223.21.135.232",
+        "time": "2014-09-17 15:42:14",
+        "place": "中国北京市北京市,鹏博士",
+        "uservalues": "hqzEXU2abF5Ar2KCpuhV2XyweRqoIqsK",
+        "UserName": "parano1d",
+        "UserPwd": "7e515eed33ef19d0",
+        "UserId": "111919130"
+    },
+    {
+        "gameName": "麻仓叶sama",
+        "ip": "182.18.4.94",
+        "time": "2014-09-17 15:38:50",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "hqzEXU2abF457+PN/U++p1AxtbN4A4e0",
+        "UserName": "pika001",
+        "UserPwd": "627a16b1b03226b9",
+        "UserId": "113808106"
+    },
+    {
+        "gameName": "小变态❤",
+        "ip": "116.21.0.147",
+        "time": "2014-09-17 15:30:51",
+        "place": "中国广东省广州市,电信",
+        "uservalues": "ZXlKFsjTkGtyq8G8RZh5wkaZSV7vKTLV",
+        "UserName": "若世恍然若隔世",
+        "UserPwd": "277e072751f934f6",
+        "UserId": "112693952"
+    },
+    {
+        "gameName": "小变态❤",
+        "ip": "116.21.0.147",
+        "time": "2014-09-17 15:27:13",
+        "place": "中国广东省广州市,电信",
+        "uservalues": "ZXlKFsjTkGtyq8G8RZh5wkaZSV7vKTLV",
+        "UserName": "若世恍然若隔世",
+        "UserPwd": "277e072751f934f6",
+        "UserId": "112693952"
+    },
+    {
+        "gameName": "告诉你一个秘密",
+        "ip": "171.83.181.41",
+        "time": "2014-09-17 15:15:14",
+        "place": "中国湖北省武汉市,电信",
+        "uservalues": "hqzEXU2abF55+pmXUTHe8N0z+2Ju53il",
+        "UserName": "此女倾国倾城",
+        "UserPwd": "64f058754304cba5",
+        "UserId": "112350588"
+    },
+    {
+        "gameName": "留念***华梦",
+        "ip": "111.205.112.3",
+        "time": "2014-09-17 15:05:43",
+        "place": "中国北京市北京市,联通",
+        "uservalues": "hqzEXU2abF7MYwkDRuvwhBZTCshoeBaz",
+        "UserName": "留念繁华梦",
+        "UserPwd": "ff8aaa8a2dde9154",
+        "UserId": "111625585"
+    },
+    {
+        "ip": "58.253.105.109",
+        "time": "2014-09-17 14:59:40",
+        "place": "中国广东省东莞市,联通",
+        "uservalues": "hqzEXU2abF5SkUCF+WH1nWv5e33UJAfj",
+        "UserName": "QQ用户",
+        "gameName": "我爱月中倒影",
+        "UserId": "113041813"
+    },
+    {
+        "gameName": "墨晨。",
+        "ip": "124.118.253.133",
+        "time": "2014-09-17 14:57:07",
+        "place": "中国新疆维吾尔自治区昌吉回族自治州,电信",
+        "uservalues": "hqzEXU2abF7JbgoeVXT0EC+xNB+9ZLGo",
+        "UserName": "add150",
+        "UserPwd": "9578240a0cdc93f7",
+        "UserId": "113743776"
+    },
+    {
+        "ip": "218.67.57.2",
+        "time": "2014-09-17 14:50:06",
+        "place": "中国福建省三明市,电信"
+    },
+    {
+        "ip": "106.7.110.15",
+        "time": "2014-09-17 14:45:16",
+        "place": "中国江西省南昌市,电信"
+    },
+    {
+        "gameName": "难舍",
+        "ip": "115.215.115.208",
+        "time": "2014-09-17 14:38:36",
+        "place": "中国浙江省宁波市海曙区,电信",
+        "uservalues": "hqzEXU2abF6B39vzJJkqNg5aiAHwBS8S",
+        "UserName": "qq173032619",
+        "UserPwd": "5c369a969a4f64cb",
+        "UserId": "1465039"
+    },
+    {
+        "gameName": "意散",
+        "ip": "121.35.130.69",
+        "time": "2014-09-17 14:26:05",
+        "place": "中国广东省深圳市,电信",
+        "uservalues": "hqzEXU2abF7F/LvnLNtTq+ZoM39/tZC2",
+        "UserName": "我想我会痛",
+        "UserPwd": "5c369a969a4f64cb",
+        "UserId": "113394703"
+    },
+    {
+        "gameName": "可可猪",
+        "ip": "113.119.215.41",
+        "time": "2014-09-17 14:23:30",
+        "place": "中国广东省广州市,电信",
+        "uservalues": "bdXDku8FQxrfrbDW+s0VSPIvOycl71Kl",
+        "UserName": "540338981",
+        "UserPwd": "d14722841dead204",
+        "UserId": "112930825"
+    },
+    {
+        "gameName": "与迩相伴ミ",
+        "ip": "116.231.7.17",
+        "time": "2014-09-17 14:22:17",
+        "place": "中国上海市上海市,电信",
+        "uservalues": "ZXlKFsjTkGsGVL87Ct7JcKpkGHSvQfLT",
+        "UserName": "jiaoje",
+        "UserPwd": "d529354a3c4c5107",
+        "UserId": "113636155"
+    },
+    {
+        "gameName": "ޓ 念旧°",
+        "ip": "123.55.245.221",
+        "time": "2014-09-17 14:17:18",
+        "place": "中国河南省漯河市,电信",
+        "uservalues": "hqzEXU2abF5q56sugXVfdDZfrjxmeFHE",
+        "UserName": "我又不是非你不可",
+        "UserPwd": "5fec2e681908da68",
+        "UserId": "112509332"
+    },
+    {
+        "gameName": "麻仓叶sama",
+        "ip": "182.18.4.94",
+        "time": "2014-09-17 14:16:48",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "hqzEXU2abF457+PN/U++p1AxtbN4A4e0",
+        "UserName": "pika001",
+        "UserPwd": "627a16b1b03226b9",
+        "UserId": "113808106"
+    },
+    {
+        "gameName": "意散",
+        "ip": "121.35.130.69",
+        "time": "2014-09-17 14:12:49",
+        "place": "中国广东省深圳市,电信",
+        "uservalues": "hqzEXU2abF7F/LvnLNtTq+ZoM39/tZC2",
+        "UserName": "我想我会痛",
+        "UserPwd": "5c369a969a4f64cb",
+        "UserId": "113394703"
+    },
+    {
+        "gameName": "　旧事　",
+        "ip": "121.35.130.69",
+        "time": "2014-09-17 14:12:31",
+        "place": "中国广东省深圳市,电信",
+        "uservalues": "hqzEXU2abF5hsdWhtH1XAz3HrBHt6Fov",
+        "UserName": "lmfssb",
+        "UserPwd": "857e25cbb863e9af",
+        "UserId": "113568520"
+    },
+    {
+        "gameName": "　旧事　",
+        "ip": "121.35.130.69",
+        "time": "2014-09-17 14:10:47",
+        "place": "中国广东省深圳市,电信",
+        "uservalues": "hqzEXU2abF5hsdWhtH1XAz3HrBHt6Fov",
+        "UserName": "lmfssb",
+        "UserPwd": "857e25cbb863e9af",
+        "UserId": "113568520"
+    },
+    {
+        "ip": "221.234.18.214",
+        "time": "2014-09-17 14:07:43",
+        "place": "中国湖北省恩施土家族苗族自治州,电信"
+    },
+    {
+        "ip": "221.234.18.214",
+        "time": "2014-09-17 14:07:28",
+        "place": "中国湖北省恩施土家族苗族自治州,电信"
+    },
+    {
+        "gameName": "mr***y1",
+        "ip": "119.85.108.16",
+        "time": "2014-09-17 14:07:16",
+        "place": "中国重庆市重庆市,电信",
+        "uservalues": "hqzEXU2abF5KMaYsl6rlCPz1du3qcTzq",
+        "UserName": "mrey1",
+        "UserPwd": "0428536059ad3a67",
+        "UserId": "113530495"
+    },
+    {
+        "gameName": "程宝宝",
+        "ip": "117.42.142.61",
+        "time": "2014-09-17 14:05:56",
+        "place": "中国江西省南昌市,电信",
+        "uservalues": "hqzEXU2abF7H1nqhUxogJr+v/IHq+94J",
+        "UserName": "{［侒栤瞳}",
+        "UserPwd": "4186291eb4425bec",
+        "UserId": "413296"
+    },
+    {
+        "gameName": "　李蕾蕾　",
+        "ip": "210.22.143.195",
+        "time": "2014-09-17 14:04:58",
+        "place": "中国上海市上海市静安区,联通",
+        "uservalues": "hqzEXU2abF4vDY6w2LoQY/PsjpgRnvAv",
+        "UserName": "李蕾蕾卖的号",
+        "UserPwd": "559fbc5ca05beeb5",
+        "UserId": "112753863"
+    },
+    {
+        "gameName": "　Sweet　",
+        "ip": "175.160.57.40",
+        "time": "2014-09-17 14:03:13",
+        "place": "中国辽宁省沈阳市,联通",
+        "uservalues": "hqzEXU2abF6/j5AFsWWneBG1lh+1nh7R",
+        "UserName": "kissmeiling",
+        "UserPwd": "71f244526d244626",
+        "UserId": "112622869"
+    },
+    {
+        "gameName": "墨晨。",
+        "ip": "124.118.253.133",
+        "time": "2014-09-17 14:01:11",
+        "place": "中国新疆维吾尔自治区昌吉回族自治州,电信",
+        "uservalues": "hqzEXU2abF7JbgoeVXT0EC+xNB+9ZLGo",
+        "UserName": "add150",
+        "UserPwd": "9578240a0cdc93f7",
+        "UserId": "113743776"
+    },
+    {
+        "gameName": "墨晨。",
+        "ip": "124.118.253.133",
+        "time": "2014-09-17 14:00:39",
+        "place": "中国新疆维吾尔自治区昌吉回族自治州,电信",
+        "uservalues": "hqzEXU2abF7JbgoeVXT0EC+xNB+9ZLGo",
+        "UserName": "add150",
+        "UserPwd": "9578240a0cdc93f7",
+        "UserId": "113743776"
+    },
+    {
+        "ip": "108.184.165.18",
+        "time": "2014-09-17 14:00:03",
+        "place": "美国,"
+    },
+    {
+        "ip": "108.184.165.18",
+        "time": "2014-09-17 13:59:38",
+        "place": "美国,"
+    },
+    {
+        "gameName": "墨晨。",
+        "ip": "124.118.253.133",
+        "time": "2014-09-17 13:56:29",
+        "place": "中国新疆维吾尔自治区昌吉回族自治州,电信",
+        "uservalues": "hqzEXU2abF7JbgoeVXT0EC+xNB+9ZLGo",
+        "UserName": "add150",
+        "UserPwd": "9578240a0cdc93f7",
+        "UserId": "113743776"
+    },
+    {
+        "gameName": "程宝宝",
+        "ip": "117.42.142.61",
+        "time": "2014-09-17 13:55:32",
+        "place": "中国江西省南昌市,电信",
+        "uservalues": "hqzEXU2abF7H1nqhUxogJr+v/IHq+94J",
+        "UserName": "{［侒栤瞳}",
+        "UserPwd": "4186291eb4425bec",
+        "UserId": "413296"
+    },
+    {
+        "gameName": "难舍",
+        "ip": "115.215.115.208",
+        "time": "2014-09-17 13:54:12",
+        "place": "中国浙江省宁波市海曙区,电信",
+        "uservalues": "hqzEXU2abF6B39vzJJkqNg5aiAHwBS8S",
+        "UserName": "qq173032619",
+        "UserPwd": "5c369a969a4f64cb",
+        "UserId": "1465039"
+    },
+    {
+        "gameName": "墨晨。",
+        "ip": "124.118.253.133",
+        "time": "2014-09-17 13:53:43",
+        "place": "中国新疆维吾尔自治区昌吉回族自治州,电信",
+        "uservalues": "hqzEXU2abF7JbgoeVXT0EC+xNB+9ZLGo",
+        "UserName": "add150",
+        "UserPwd": "9578240a0cdc93f7",
+        "UserId": "113743776"
+    },
+    {
+        "gameName": "墨晨。",
+        "ip": "124.118.253.133",
+        "time": "2014-09-17 13:53:00",
+        "place": "中国新疆维吾尔自治区昌吉回族自治州,电信",
+        "uservalues": "hqzEXU2abF7JbgoeVXT0EC+xNB+9ZLGo",
+        "UserName": "add150",
+        "UserPwd": "9578240a0cdc93f7",
+        "UserId": "113743776"
+    },
+    {
+        "gameName": "难舍",
+        "ip": "115.215.115.208",
+        "time": "2014-09-17 13:52:49",
+        "place": "中国浙江省宁波市海曙区,电信",
+        "uservalues": "hqzEXU2abF6B39vzJJkqNg5aiAHwBS8S",
+        "UserName": "qq173032619",
+        "UserPwd": "5c369a969a4f64cb",
+        "UserId": "1465039"
+    },
+    {
+        "gameName": "难舍",
+        "ip": "115.215.115.208",
+        "time": "2014-09-17 13:51:40",
+        "place": "中国浙江省宁波市海曙区,电信",
+        "uservalues": "hqzEXU2abF6B39vzJJkqNg5aiAHwBS8S",
+        "UserName": "qq173032619",
+        "UserPwd": "5c369a969a4f64cb",
+        "UserId": "1465039"
+    },
+    {
+        "gameName": "程宝宝",
+        "ip": "117.42.142.61",
+        "time": "2014-09-17 13:51:35",
+        "place": "中国江西省南昌市,电信",
+        "uservalues": "hqzEXU2abF7H1nqhUxogJr+v/IHq+94J",
+        "UserName": "{［侒栤瞳}",
+        "UserPwd": "4186291eb4425bec",
+        "UserId": "413296"
+    },
+    {
+        "gameName": "程宝宝",
+        "ip": "117.42.142.61",
+        "time": "2014-09-17 13:50:59",
+        "place": "中国江西省南昌市,电信",
+        "uservalues": "hqzEXU2abF7H1nqhUxogJr+v/IHq+94J",
+        "UserName": "{［侒栤瞳}",
+        "UserPwd": "4186291eb4425bec",
+        "UserId": "413296"
+    },
+    {
+        "gameName": "相笙佑子",
+        "ip": "124.118.253.133",
+        "time": "2014-09-17 13:50:32",
+        "place": "中国新疆维吾尔自治区昌吉回族自治州,电信",
+        "uservalues": "hqzEXU2abF5abVxKXXGX+Z8p5FQOPGbb",
+        "UserName": "ass150",
+        "UserPwd": "9578240a0cdc93f7",
+        "UserId": "113836579"
+    },
+    {
+        "gameName": "Posion   /",
+        "ip": "123.121.26.212",
+        "time": "2014-09-17 13:48:24",
+        "place": "中国北京市北京市,联通",
+        "uservalues": "hqzEXU2abF5m5//fLCMNzLW2gGgXY2Ya",
+        "UserName": "jingxuedi1",
+        "UserPwd": "08bdbbeed946fc96",
+        "UserId": "113828067"
+    },
+    {
+        "gameName": "Posion   /",
+        "ip": "123.121.26.212",
+        "time": "2014-09-17 13:48:24",
+        "place": "中国北京市北京市,联通",
+        "uservalues": "hqzEXU2abF5m5//fLCMNzLW2gGgXY2Ya",
+        "UserName": "jingxuedi1",
+        "UserPwd": "08bdbbeed946fc96",
+        "UserId": "113828067"
+    },
+    {
+        "gameName": "桒淼",
+        "ip": "121.192.218.80",
+        "time": "2014-09-17 13:44:35",
+        "place": "中国福建省厦门市,教育网",
+        "uservalues": "hqzEXU2abF6GfpI8byef5VRKT7LE8BBp",
+        "UserName": "jingqing",
+        "UserPwd": "260f12ca78733dfe",
+        "UserId": "113088956"
+    },
+    {
+        "gameName": "桒淼",
+        "ip": "121.192.218.80",
+        "time": "2014-09-17 13:44:00",
+        "place": "中国福建省厦门市,教育网",
+        "uservalues": "hqzEXU2abF6GfpI8byef5VRKT7LE8BBp",
+        "UserName": "jingqing",
+        "UserPwd": "260f12ca78733dfe",
+        "UserId": "113088956"
+    },
+    {
+        "gameName": "可可猪",
+        "ip": "113.119.215.41",
+        "time": "2014-09-17 13:43:35",
+        "place": "中国广东省广州市,电信",
+        "uservalues": "bdXDku8FQxrfrbDW+s0VSPIvOycl71Kl",
+        "UserName": "540338981",
+        "UserPwd": "d14722841dead204",
+        "UserId": "112930825"
+    },
+    {
+        "ip": "223.73.16.120",
+        "time": "2014-09-17 13:40:40",
+        "place": "中国广东省揭阳市,移动",
+        "uservalues": "hqzEXU2abF7CMTNbED9T82TqwdBABlwR",
+        "UserName": "QQ用户",
+        "gameName": "八百标兵蹦擦擦",
+        "UserId": "113698828"
+    },
+    {
+        "ip": "223.73.16.120",
+        "time": "2014-09-17 13:40:07",
+        "place": "中国广东省揭阳市,移动",
+        "uservalues": "hqzEXU2abF7CMTNbED9T82TqwdBABlwR",
+        "UserName": "QQ用户",
+        "gameName": "八百标兵蹦擦擦",
+        "UserId": "113698828"
+    },
+    {
+        "ip": "223.73.16.120",
+        "time": "2014-09-17 13:39:30",
+        "place": "中国广东省揭阳市,移动",
+        "uservalues": "hqzEXU2abF7CMTNbED9T82TqwdBABlwR",
+        "UserName": "QQ用户",
+        "gameName": "八百标兵蹦擦擦",
+        "UserId": "113698828"
+    },
+    {
+        "ip": "223.73.16.120",
+        "time": "2014-09-17 13:38:42",
+        "place": "中国广东省揭阳市,移动",
+        "uservalues": "hqzEXU2abF7CMTNbED9T82TqwdBABlwR",
+        "UserName": "QQ用户",
+        "gameName": "八百标兵蹦擦擦",
+        "UserId": "113698828"
+    },
+    {
+        "ip": "223.73.16.120",
+        "time": "2014-09-17 13:38:27",
+        "place": "中国广东省揭阳市,移动",
+        "uservalues": "hqzEXU2abF7CMTNbED9T82TqwdBABlwR",
+        "UserName": "QQ用户",
+        "gameName": "八百标兵蹦擦擦",
+        "UserId": "113698828"
+    },
+    {
+        "ip": "223.73.16.120",
+        "time": "2014-09-17 13:38:20",
+        "place": "中国广东省揭阳市,移动",
+        "uservalues": "hqzEXU2abF7CMTNbED9T82TqwdBABlwR",
+        "UserName": "QQ用户",
+        "gameName": "八百标兵蹦擦擦",
+        "UserId": "113698828"
+    },
+    {
+        "ip": "223.73.16.120",
+        "time": "2014-09-17 13:37:58",
+        "place": "中国广东省揭阳市,移动",
+        "uservalues": "hqzEXU2abF7CMTNbED9T82TqwdBABlwR",
+        "UserName": "QQ用户",
+        "gameName": "八百标兵蹦擦擦",
+        "UserId": "113698828"
+    },
+    {
+        "gameName": "桒淼",
+        "ip": "121.192.218.80",
+        "time": "2014-09-17 13:34:29",
+        "place": "中国福建省厦门市,教育网",
+        "uservalues": "hqzEXU2abF6GfpI8byef5VRKT7LE8BBp",
+        "UserName": "jingqing",
+        "UserPwd": "260f12ca78733dfe",
+        "UserId": "113088956"
+    },
+    {
+        "gameName": "桒淼",
+        "ip": "121.192.218.80",
+        "time": "2014-09-17 13:34:12",
+        "place": "中国福建省厦门市,教育网",
+        "uservalues": "hqzEXU2abF6GfpI8byef5VRKT7LE8BBp",
+        "UserName": "jingqing",
+        "UserPwd": "260f12ca78733dfe",
+        "UserId": "113088956"
+    },
+    {
+        "gameName": "桒淼",
+        "ip": "121.192.218.80",
+        "time": "2014-09-17 13:33:28",
+        "place": "中国福建省厦门市,教育网",
+        "uservalues": "hqzEXU2abF6GfpI8byef5VRKT7LE8BBp",
+        "UserName": "jingqing",
+        "UserPwd": "260f12ca78733dfe",
+        "UserId": "113088956"
+    },
+    {
+        "gameName": "桒淼",
+        "ip": "121.192.218.80",
+        "time": "2014-09-17 13:30:47",
+        "place": "中国福建省厦门市,教育网",
+        "uservalues": "hqzEXU2abF6GfpI8byef5VRKT7LE8BBp",
+        "UserName": "jingqing",
+        "UserPwd": "260f12ca78733dfe",
+        "UserId": "113088956"
+    },
+    {
+        "gameName": "莞尔",
+        "ip": "108.184.165.18",
+        "time": "2014-09-17 13:27:36",
+        "place": "美国,",
+        "uservalues": "hqzEXU2abF4+HJXER9zIwfSps1ihp0te",
+        "UserName": "你才是猪头",
+        "UserPwd": "7eb35716910be8da",
+        "UserId": "112675420"
+    },
+    {
+        "gameName": "莞尔",
+        "ip": "108.184.165.18",
+        "time": "2014-09-17 13:26:38",
+        "place": "美国,",
+        "uservalues": "hqzEXU2abF4+HJXER9zIwfSps1ihp0te",
+        "UserName": "你才是猪头",
+        "UserPwd": "7eb35716910be8da",
+        "UserId": "112675420"
+    },
+    {
+        "gameName": "莞尔",
+        "ip": "108.184.165.18",
+        "time": "2014-09-17 13:25:51",
+        "place": "美国,",
+        "uservalues": "hqzEXU2abF4+HJXER9zIwfSps1ihp0te",
+        "UserName": "你才是猪头",
+        "UserPwd": "7eb35716910be8da",
+        "UserId": "112675420"
+    },
+    {
+        "gameName": "麻仓叶sama",
+        "ip": "182.18.4.94",
+        "time": "2014-09-17 13:23:43",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "hqzEXU2abF457+PN/U++p1AxtbN4A4e0",
+        "UserName": "pika001",
+        "UserPwd": "627a16b1b03226b9",
+        "UserId": "113808106"
+    },
+    {
+        "gameName": "麻仓叶sama",
+        "ip": "182.18.4.94",
+        "time": "2014-09-17 13:22:38",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "hqzEXU2abF457+PN/U++p1AxtbN4A4e0",
+        "UserName": "pika001",
+        "UserPwd": "627a16b1b03226b9",
+        "UserId": "113808106"
+    },
+    {
+        "gameName": "京城***糖糖",
+        "ip": "124.237.82.183",
+        "time": "2014-09-17 13:18:04",
+        "place": "中国河北省秦皇岛市,电信",
+        "uservalues": "hqzEXU2abF5qsUyBvsWsnL4w31Jbde5t",
+        "UserName": "京城糖糖",
+        "UserPwd": "49ba59abbe56e057",
+        "UserId": "113242136"
+    },
+    {
+        "gameName": "京城***糖糖",
+        "ip": "124.237.82.183",
+        "time": "2014-09-17 13:17:53",
+        "place": "中国河北省秦皇岛市,电信",
+        "uservalues": "hqzEXU2abF5qsUyBvsWsnL4w31Jbde5t",
+        "UserName": "京城糖糖",
+        "UserPwd": "49ba59abbe56e057",
+        "UserId": "113242136"
+    },
+    {
+        "gameName": "相笙佑子",
+        "ip": "124.118.253.133",
+        "time": "2014-09-17 13:17:29",
+        "place": "中国新疆维吾尔自治区昌吉回族自治州,电信",
+        "uservalues": "hqzEXU2abF5abVxKXXGX+Z8p5FQOPGbb",
+        "UserName": "ass150",
+        "UserPwd": "9578240a0cdc93f7",
+        "UserId": "113836579"
+    },
+    {
+        "gameName": "相笙佑子",
+        "ip": "124.118.253.133",
+        "time": "2014-09-17 13:17:17",
+        "place": "中国新疆维吾尔自治区昌吉回族自治州,电信",
+        "uservalues": "hqzEXU2abF5abVxKXXGX+Z8p5FQOPGbb",
+        "UserName": "ass150",
+        "UserPwd": "9578240a0cdc93f7",
+        "UserId": "113836579"
+    },
+    {
+        "ip": "124.156.68.21",
+        "time": "2014-09-17 13:17:08",
+        "place": "中国广西壮族自治区南宁市,铁通"
+    },
+    {
+        "gameName": "京城***糖糖",
+        "ip": "124.237.82.183",
+        "time": "2014-09-17 13:17:07",
+        "place": "中国河北省秦皇岛市,电信",
+        "uservalues": "hqzEXU2abF5qsUyBvsWsnL4w31Jbde5t",
+        "UserName": "京城糖糖",
+        "UserPwd": "49ba59abbe56e057",
+        "UserId": "113242136"
+    },
+    {
+        "ip": "124.156.68.21",
+        "time": "2014-09-17 13:16:57",
+        "place": "中国广西壮族自治区南宁市,铁通"
+    },
+    {
+        "gameName": "很美味",
+        "ip": "122.87.166.179",
+        "time": "2014-09-17 13:15:06",
+        "place": "中国浙江省嘉兴市,铁通",
+        "uservalues": "IvGo06BQ/QMla+aR+L5VcmRhjx9dLXYM",
+        "UserName": "1993很美味",
+        "UserPwd": "0bf5da8bf667100d",
+        "UserId": "112003479"
+    },
+    {
+        "gameName": "　柏晚晚　",
+        "ip": "180.109.172.53",
+        "time": "2014-09-17 13:11:58",
+        "place": "中国江苏省南京市,电信",
+        "uservalues": "hqzEXU2abF5ZxGNSzr6ofz7McDO8zA8/",
+        "UserName": "arenda",
+        "UserPwd": "0fba8ad521e47d25",
+        "UserId": "1837681"
+    },
+    {
+        "ip": "119.147.146.189",
+        "time": "2014-09-17 13:09:56",
+        "place": "中国广东省东莞市,电信"
+    },
+    {
+        "gameName": "最北之北",
+        "ip": "117.25.116.101",
+        "time": "2014-09-17 13:09:53",
+        "place": "中国福建省福州市,电信",
+        "uservalues": "hqzEXU2abF50BYpjLhP+FOaeuEGA/xgH",
+        "UserName": "没有忘记你",
+        "UserPwd": "821e878286225b08",
+        "UserId": "113000333"
+    },
+    {
+        "gameName": "麻仓叶sama",
+        "ip": "182.18.4.94",
+        "time": "2014-09-17 13:07:57",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "hqzEXU2abF457+PN/U++p1AxtbN4A4e0",
+        "UserName": "pika001",
+        "UserPwd": "627a16b1b03226b9",
+        "UserId": "113808106"
+    },
+    {
+        "gameName": "偷东西的小矮人",
+        "ip": "113.118.22.89",
+        "time": "2014-09-17 13:07:48",
+        "place": "中国广东省深圳市,电信",
+        "uservalues": "hqzEXU2abF5YOQFYzt0F1ksKUN5ouZy3",
+        "UserName": "邓甜甜6",
+        "UserPwd": "63ad052a3cae8e6e",
+        "UserId": "113635973"
+    },
+    {
+        "gameName": "二六",
+        "ip": "14.217.114.129",
+        "time": "2014-09-17 13:04:05",
+        "place": "中国广东省东莞市,电信",
+        "uservalues": "KQ9LS/9ogI+BTvHaXqvKKZXdFJHyAzQT",
+        "UserName": "生活重启中",
+        "UserPwd": "e006dc9987b7f5e9",
+        "UserId": "112910483"
+    },
+    {
+        "gameName": "二六",
+        "ip": "14.217.114.129",
+        "time": "2014-09-17 13:03:26",
+        "place": "中国广东省东莞市,电信",
+        "uservalues": "KQ9LS/9ogI+BTvHaXqvKKZXdFJHyAzQT",
+        "UserName": "生活重启中",
+        "UserPwd": "e006dc9987b7f5e9",
+        "UserId": "112910483"
+    },
+    {
+        "gameName": "二六",
+        "ip": "14.217.114.129",
+        "time": "2014-09-17 13:03:18",
+        "place": "中国广东省东莞市,电信",
+        "uservalues": "KQ9LS/9ogI+BTvHaXqvKKZXdFJHyAzQT",
+        "UserName": "生活重启中",
+        "UserPwd": "e006dc9987b7f5e9",
+        "UserId": "112910483"
+    },
+    {
+        "gameName": "二六",
+        "ip": "14.217.114.129",
+        "time": "2014-09-17 13:03:11",
+        "place": "中国广东省东莞市,电信",
+        "uservalues": "KQ9LS/9ogI+BTvHaXqvKKZXdFJHyAzQT",
+        "UserName": "生活重启中",
+        "UserPwd": "e006dc9987b7f5e9",
+        "UserId": "112910483"
+    },
+    {
+        "gameName": "　王　",
+        "ip": "113.84.159.113",
+        "time": "2014-09-17 13:02:07",
+        "place": "中国广东省汕头市,电信",
+        "uservalues": "1+kcZLe72qV/TFyh1bfujs6dbeWLJiYD",
+        "UserName": "猴哥99",
+        "UserPwd": "986f2d0ddf0a28fb",
+        "UserId": "113491038"
+    },
+    {
+        "gameName": "偷东西的小矮人",
+        "ip": "113.118.22.89",
+        "time": "2014-09-17 13:01:45",
+        "place": "中国广东省深圳市,电信",
+        "uservalues": "hqzEXU2abF5YOQFYzt0F1ksKUN5ouZy3",
+        "UserName": "邓甜甜6",
+        "UserPwd": "63ad052a3cae8e6e",
+        "UserId": "113635973"
+    },
+    {
+        "gameName": "　　　Couvrir　",
+        "ip": "114.229.230.59",
+        "time": "2014-09-17 12:51:30",
+        "place": "中国江苏省镇江市,电信",
+        "uservalues": "hqzEXU2abF7un5C4WT7Ol4Yx6yniDvZ8",
+        "UserName": "a87223507",
+        "UserPwd": "bc5cae85d30a44a4",
+        "UserId": "112489665"
+    },
+    {
+        "gameName": "ai***05",
+        "ip": "218.75.145.56",
+        "time": "2014-09-17 12:50:57",
+        "place": "中国湖南省常德市汉寿县,电信",
+        "uservalues": "hqzEXU2abF7jAanEtv1gDS0Nd+gjmI3j",
+        "UserName": "aizh891105",
+        "UserPwd": "417befd4c0d8ad9a",
+        "UserId": "113675988"
+    },
+    {
+        "gameName": "　挚爱她　",
+        "ip": "61.149.47.222",
+        "time": "2014-09-17 12:47:40",
+        "place": "中国北京市北京市宣武区,联通",
+        "uservalues": "hqzEXU2abF7W8ofVmTmB2gGpIjct//mr",
+        "UserName": "沉沦的木偶",
+        "UserPwd": "ffaef7425182754d",
+        "UserId": "111613229"
+    },
+    {
+        "gameName": "你死吗",
+        "ip": "60.55.43.128",
+        "time": "2014-09-17 12:41:56",
+        "place": "中国浙江省宁波市,",
+        "uservalues": "hqzEXU2abF78IDO173YuJI00fGO6tcxy",
+        "UserName": "小徐狗儿",
+        "UserPwd": "d65544b8d373c144",
+        "UserId": "113766771"
+    },
+    {
+        "gameName": "ai***05",
+        "ip": "218.75.145.56",
+        "time": "2014-09-17 12:36:36",
+        "place": "中国湖南省常德市汉寿县,电信",
+        "uservalues": "hqzEXU2abF7jAanEtv1gDS0Nd+gjmI3j",
+        "UserName": "aizh891105",
+        "UserPwd": "417befd4c0d8ad9a",
+        "UserId": "113675988"
+    },
+    {
+        "gameName": "　璨璨　",
+        "ip": "60.55.43.128",
+        "time": "2014-09-17 12:33:47",
+        "place": "中国浙江省宁波市,",
+        "uservalues": "hqzEXU2abF74C2dlzNnsCmoolq7TCr2k",
+        "UserName": "东京丶热",
+        "UserPwd": "86cda925cdc146bd",
+        "UserId": "111716419"
+    },
+    {
+        "gameName": "　上心　",
+        "ip": "218.5.22.126",
+        "time": "2014-09-17 12:33:29",
+        "place": "中国福建省福州市,电信",
+        "uservalues": "hqzEXU2abF6kmCc2LlPp9YWSulTPZI+W",
+        "UserName": "15876669919",
+        "UserPwd": "1f4c92e52260e691",
+        "UserId": "113617418"
+    },
+    {
+        "gameName": "　上心　",
+        "ip": "218.5.22.126",
+        "time": "2014-09-17 12:33:29",
+        "place": "中国福建省福州市,电信",
+        "uservalues": "hqzEXU2abF6kmCc2LlPp9YWSulTPZI+W",
+        "UserName": "15876669919",
+        "UserPwd": "1f4c92e52260e691",
+        "UserId": "113617418"
+    },
+    {
+        "ip": "124.207.71.154",
+        "time": "2014-09-17 12:09:00",
+        "place": "中国北京市北京市,鹏博士",
+        "uservalues": "hqzEXU2abF7DrRjcLfPUVDX51VudbAfC",
+        "UserName": "QQ用户",
+        "gameName": "♀唯爱C",
+        "UserId": "113397597"
+    },
+    {
+        "gameName": "Frederica",
+        "ip": "124.234.110.226",
+        "time": "2014-09-17 12:03:59",
+        "place": "中国吉林省延边朝鲜族自治州延吉市,电信",
+        "uservalues": "ZXlKFsjTkGv8vk+AQ/8fxqEMxV4tXNWf",
+        "UserName": "wj927088488",
+        "UserPwd": "619ad9e8bb649fc6",
+        "UserId": "111672747"
+    },
+    {
+        "gameName": "杀手Online客服",
+        "ip": "183.228.29.194",
+        "time": "2014-09-17 12:02:18",
+        "place": "中国重庆市重庆市,移动",
+        "uservalues": "hqzEXU2abF5VIdxbM3/hyXtQxz8xd9Us",
+        "UserName": "杀手Online客服",
+        "UserPwd": "349cde431e6e4fd7",
+        "UserId": "1232791"
+    },
+    {
+        "gameName": "　李蕾蕾　",
+        "ip": "210.22.143.195",
+        "time": "2014-09-17 12:01:57",
+        "place": "中国上海市上海市静安区,联通",
+        "uservalues": "hqzEXU2abF4vDY6w2LoQY/PsjpgRnvAv",
+        "UserName": "李蕾蕾卖的号",
+        "UserPwd": "559fbc5ca05beeb5",
+        "UserId": "112753863"
+    },
+    {
+        "ip": "112.66.185.237",
+        "time": "2014-09-17 12:01:29",
+        "place": "中国海南省海口市,电信"
+    },
+    {
+        "gameName": "药店碧莲好吗",
+        "ip": "113.118.98.111",
+        "time": "2014-09-17 11:49:09",
+        "place": "中国广东省深圳市,电信",
+        "uservalues": "hqzEXU2abF4zOHeGNrK3CV7fCE4YVh3O",
+        "UserName": "ydblhm",
+        "UserPwd": "8d73a2456c83fa73",
+        "UserId": "113155489"
+    },
+    {
+        "gameName": "蛋花儿L1",
+        "ip": "111.174.206.128",
+        "time": "2014-09-17 11:45:02",
+        "place": "中国湖北省武汉市,电信",
+        "uservalues": "hqzEXU2abF4EGwiPN9n4fJgucwdgE7Qg",
+        "UserName": "蛋花儿l1",
+        "UserPwd": "215bfca35aa2e944",
+        "UserId": "113380808"
+    },
+    {
+        "gameName": "终念",
+        "ip": "68.9.93.213",
+        "time": "2014-09-17 11:41:19",
+        "place": "美国,",
+        "uservalues": "hqzEXU2abF46vF21+eX4yUh7lfvrxAiJ",
+        "UserName": "mlp7614",
+        "UserPwd": "b372afdb85d0917d",
+        "UserId": "113493659"
+    },
+    {
+        "ip": "111.205.112.3",
+        "time": "2014-09-17 11:37:57",
+        "place": "中国北京市北京市,联通"
+    },
+    {
+        "gameName": "麻仓叶sama",
+        "ip": "182.18.4.94",
+        "time": "2014-09-17 11:32:01",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "hqzEXU2abF457+PN/U++p1AxtbN4A4e0",
+        "UserName": "pika001",
+        "UserPwd": "627a16b1b03226b9",
+        "UserId": "113808106"
+    },
+    {
+        "ip": "61.149.72.89",
+        "time": "2014-09-17 11:28:24",
+        "place": "中国北京市北京市朝阳区,联通",
+        "uservalues": "hqzEXU2abF7LBd/vLQZsxkcEoof/CPvF",
+        "UserName": "QQ用户",
+        "gameName": "傅傅の",
+        "UserId": "113489078"
+    },
+    {
+        "ip": "221.217.20.72",
+        "time": "2014-09-17 11:27:41",
+        "place": "中国北京市北京市,联通",
+        "uservalues": "hqzEXU2abF489esfWcgSxrxs6o+blCX+",
+        "UserName": "QQ用户",
+        "gameName": "如是观",
+        "UserId": "112306638"
+    },
+    {
+        "ip": "221.217.20.72",
+        "time": "2014-09-17 11:27:12",
+        "place": "中国北京市北京市,联通",
+        "uservalues": "hqzEXU2abF489esfWcgSxrxs6o+blCX+",
+        "UserName": "QQ用户",
+        "gameName": "如是观",
+        "UserId": "112306638"
+    },
+    {
+        "ip": "221.217.20.72",
+        "time": "2014-09-17 11:27:06",
+        "place": "中国北京市北京市,联通",
+        "uservalues": "hqzEXU2abF489esfWcgSxrxs6o+blCX+",
+        "UserName": "QQ用户",
+        "gameName": "如是观",
+        "UserId": "112306638"
+    },
+    {
+        "ip": "60.166.246.106",
+        "time": "2014-09-17 11:18:20",
+        "place": "中国安徽省合肥市,电信",
+        "uservalues": "hqzEXU2abF6q9CCJMY3mTfW8hKE9OIxM",
+        "UserName": "QQ用户",
+        "gameName": "qq:632861303",
+        "UserId": "113486859"
+    },
+    {
+        "gameName": "Cy***ic",
+        "ip": "108.236.16.249",
+        "time": "2014-09-17 11:12:21",
+        "place": "美国,",
+        "uservalues": "hqzEXU2abF4rWaQTE9nfxMnRu2FNt5Mc",
+        "UserName": "Cynric",
+        "UserPwd": "d0591c801398a8dc",
+        "UserId": "111997317"
+    },
+    {
+        "gameName": "Cy***ic",
+        "ip": "108.236.16.249",
+        "time": "2014-09-17 11:12:00",
+        "place": "美国,",
+        "uservalues": "hqzEXU2abF4rWaQTE9nfxMnRu2FNt5Mc",
+        "UserName": "Cynric",
+        "UserPwd": "d0591c801398a8dc",
+        "UserId": "111997317"
+    },
+    {
+        "gameName": "　王甜　",
+        "ip": "115.49.48.91",
+        "time": "2014-09-17 11:06:37",
+        "place": "中国河南省南阳市,联通",
+        "uservalues": "hqzEXU2abF5M36ve0WfZMpRtRiZrpA+z",
+        "UserName": "张宇申1号",
+        "UserPwd": "5436534e61d16e63",
+        "UserId": "112668016"
+    },
+    {
+        "gameName": "　王甜　",
+        "ip": "115.49.48.91",
+        "time": "2014-09-17 11:04:25",
+        "place": "中国河南省南阳市,联通",
+        "uservalues": "hqzEXU2abF5M36ve0WfZMpRtRiZrpA+z",
+        "UserName": "张宇申1号",
+        "UserPwd": "5436534e61d16e63",
+        "UserId": "112668016"
+    },
+    {
+        "gameName": "　王甜　",
+        "ip": "115.49.48.91",
+        "time": "2014-09-17 11:04:04",
+        "place": "中国河南省南阳市,联通",
+        "uservalues": "hqzEXU2abF5M36ve0WfZMpRtRiZrpA+z",
+        "UserName": "张宇申1号",
+        "UserPwd": "5436534e61d16e63",
+        "UserId": "112668016"
+    },
+    {
+        "ip": "175.166.78.131",
+        "time": "2014-09-17 11:04:01",
+        "place": "中国辽宁省本溪市,联通",
+        "uservalues": "hqzEXU2abF5j5F8yYtKUUzuO1pHuj3No",
+        "UserName": "QQ用户",
+        "gameName": "谎°",
+        "UserId": "112900690"
+    },
+    {
+        "gameName": "无人***愉快",
+        "ip": "115.231.161.223",
+        "time": "2014-09-17 11:03:38",
+        "place": "中国浙江省嘉兴市,电信",
+        "uservalues": "hqzEXU2abF5Xtm2U+vJHKxTg8TeKoiQF",
+        "UserName": "无人及我更愉快",
+        "UserPwd": "a078e255298afccf",
+        "UserId": "112608563"
+    },
+    {
+        "gameName": "无人***愉快",
+        "ip": "183.61.21.34",
+        "time": "2014-09-17 11:02:31",
+        "place": "中国广东省广州市,电信",
+        "uservalues": "hqzEXU2abF5Xtm2U+vJHKxTg8TeKoiQF",
+        "UserName": "无人及我更愉快",
+        "UserPwd": "a078e255298afccf",
+        "UserId": "112608563"
+    },
+    {
+        "ip": "24.177.215.67",
+        "time": "2014-09-17 10:56:41",
+        "place": "美国,"
+    },
+    {
+        "gameName": "　王　",
+        "ip": "113.84.159.113",
+        "time": "2014-09-17 10:49:44",
+        "place": "中国广东省汕头市,电信",
+        "uservalues": "1+kcZLe72qV/TFyh1bfujs6dbeWLJiYD",
+        "UserName": "猴哥99",
+        "UserPwd": "986f2d0ddf0a28fb",
+        "UserId": "113491038"
+    },
+    {
+        "gameName": "麻仓叶sama",
+        "ip": "182.18.4.94",
+        "time": "2014-09-17 10:41:49",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "hqzEXU2abF457+PN/U++p1AxtbN4A4e0",
+        "UserName": "pika001",
+        "UserPwd": "627a16b1b03226b9",
+        "UserId": "113808106"
+    },
+    {
+        "gameName": "pa***09",
+        "ip": "182.18.4.94",
+        "time": "2014-09-17 10:31:09",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "vbN9PTlhekI6tQI7WDKKWVNl9NuV3/+A",
+        "UserName": "pace909",
+        "UserPwd": "2e6e20c65153a176",
+        "UserId": "113819771"
+    },
+    {
+        "gameName": "pa***09",
+        "ip": "182.18.4.94",
+        "time": "2014-09-17 10:30:27",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "vbN9PTlhekI6tQI7WDKKWVNl9NuV3/+A",
+        "UserName": "pace909",
+        "UserPwd": "2e6e20c65153a176",
+        "UserId": "113819771"
+    },
+    {
+        "gameName": "pa***09",
+        "ip": "182.18.4.94",
+        "time": "2014-09-17 10:30:04",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "vbN9PTlhekI6tQI7WDKKWVNl9NuV3/+A",
+        "UserName": "pace909",
+        "UserPwd": "2e6e20c65153a176",
+        "UserId": "113819771"
+    },
+    {
+        "gameName": "nightcutmare",
+        "ip": "182.18.4.94",
+        "time": "2014-09-17 10:29:39",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "Q1yJzNtV6iNruZfdeXKtFTyiAq3c9xY7",
+        "UserName": "onewaymyway",
+        "UserPwd": "6ed776dfb917e4fa",
+        "UserId": "111700964"
+    },
+    {
+        "gameName": "ad***00",
+        "ip": "124.118.253.133",
+        "time": "2014-09-17 10:15:10",
+        "place": "中国新疆维吾尔自治区昌吉回族自治州,电信",
+        "uservalues": "hqzEXU2abF7UymGSRkohanuRWLEmxYX+",
+        "UserName": "add1500",
+        "UserPwd": "9578240a0cdc93f7",
+        "UserId": "113779675"
+    },
+    {
+        "gameName": "麻仓叶sama",
+        "ip": "182.18.4.94",
+        "time": "2014-09-17 10:13:46",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "hqzEXU2abF457+PN/U++p1AxtbN4A4e0",
+        "UserName": "pika001",
+        "UserPwd": "627a16b1b03226b9",
+        "UserId": "113808106"
+    },
+    {
+        "gameName": "我，没关系的",
+        "ip": "115.228.254.201",
+        "time": "2014-09-17 08:55:37",
+        "place": "中国浙江省嘉兴市,电信",
+        "uservalues": "hqzEXU2abF5BfKZ7fd+pP4lQOOBOKdg2",
+        "UserName": "qbaoa",
+        "UserPwd": "8ad9902aecba32e2",
+        "UserId": "111746189"
+    },
+    {
+        "gameName": "　秋天　",
+        "ip": "118.239.197.33",
+        "time": "2014-09-17 08:53:32",
+        "place": "中国湖南省常德市,电信",
+        "uservalues": "hqzEXU2abF6YDXFhN5VSXQy/Dc8dq9+S",
+        "UserName": "秋天的颜色15",
+        "UserPwd": "74731335b14ed011",
+        "UserId": "113440223"
+    },
+    {
+        "gameName": "麻仓叶sama",
+        "ip": "182.18.4.94",
+        "time": "2014-09-17 08:31:14",
+        "place": "中国北京市北京市,零色沸点网络",
+        "uservalues": "hqzEXU2abF457+PN/U++p1AxtbN4A4e0",
+        "UserName": "pika001",
+        "UserPwd": "627a16b1b03226b9",
+        "UserId": "113808106"
+    },
+    {
+        "ip": "121.224.123.172",
+        "time": "2014-09-17 07:42:17",
+        "place": "中国江苏省苏州市常熟市,电信"
+    },
+    {
+        "ip": "188.86.26.128",
+        "time": "2014-09-17 01:10:12",
+        "place": "西班牙,"
+    },
+    {
+        "ip": "188.86.26.128",
+        "time": "2014-09-17 01:09:55",
+        "place": "西班牙,"
+    },
+    {
+        "ip": "188.86.26.128",
+        "time": "2014-09-17 01:09:36",
+        "place": "西班牙,"
+    },
+    {
+        "ip": "126.58.228.66",
+        "time": "2014-09-17 00:52:11",
+        "place": "日本,",
+        "uservalues": "ZXlKFsjTkGuVttsZjNJ9zCcKQjw56o6h",
+        "UserName": "QQ用户",
+        "gameName": "雪螢",
+        "UserId": "113514173"
+    },
+    {
+        "ip": "188.86.26.128",
+        "time": "2014-09-17 00:48:53",
+        "place": "西班牙,",
+        "uservalues": "hqzEXU2abF5Kyyqd9BkS93lE+VOAzGgi",
+        "UserName": "QQ用户",
+        "gameName": "　　白痴　　",
+        "UserId": "112508829"
+    },
+    {
+        "ip": "188.86.26.128",
+        "time": "2014-09-17 00:48:27",
+        "place": "西班牙,",
+        "uservalues": "hqzEXU2abF5Kyyqd9BkS93lE+VOAzGgi",
+        "UserName": "QQ用户",
+        "gameName": "　　白痴　　",
+        "UserId": "112508829"
+    },
+    {
+        "gameName": "莞尔",
+        "ip": "108.184.165.18",
+        "time": "2014-09-17 00:46:38",
+        "place": "美国,",
+        "uservalues": "hqzEXU2abF6IjAgFcsuphd6Fj3aNgsrv",
+        "UserName": "你才是猪头",
+        "UserPwd": "7eb35716910be8da",
+        "UserId": "112675420"
+    },
+    {
+        "gameName": "六世花",
+        "ip": "49.77.189.196",
+        "time": "2014-09-17 00:46:06",
+        "place": "中国江苏省南京市,电信",
+        "uservalues": "ZXlKFsjTkGtHoapPfFHl9vdjb4t0uysG",
+        "UserName": "hn0612",
+        "UserPwd": "f68885f82c3e7fc1",
+        "UserId": "113404790"
+    },
+    {
+        "gameName": "　旧事　",
+        "ip": "183.39.230.162",
+        "time": "2014-09-17 00:17:59",
+        "place": "中国广东省深圳市,电信",
+        "uservalues": "hqzEXU2abF5odMPhqOTDe8VFFhXg5nPq",
+        "UserName": "lmfssb",
+        "UserPwd": "857e25cbb863e9af",
+        "UserId": "113568520"
+    },
+    {
+        "gameName": "lo***yh",
+        "ip": "108.184.165.18",
+        "time": "2014-09-17 00:10:42",
+        "place": "美国,",
+        "uservalues": "hqzEXU2abF4SMzW8zGAPauKW5MWZzsEU",
+        "UserName": "lovemyh",
+        "UserPwd": "7eb35716910be8da",
+        "UserId": "113665129"
+    },
+    {
+        "gameName": "　嘛　",
+        "ip": "222.129.107.1",
+        "time": "2014-09-16 23:42:45",
+        "place": "中国北京市北京市朝阳区,联通",
+        "uservalues": "ZXlKFsjTkGvSYUvikdx+OHFsAxffisrY",
+        "UserName": "ccnnwl1",
+        "UserPwd": "400844f72870650b",
+        "UserId": "113668762"
+    },
+    {
+        "gameName": "夜行灯火",
+        "ip": "123.122.129.81",
+        "time": "2014-09-16 23:38:48",
+        "place": "中国北京市北京市,联通",
+        "uservalues": "ZXlKFsjTkGs4vI15EowJYlnkiSZ3XyPB",
+        "UserName": "g1567875002",
+        "UserPwd": "3005fa16442c06c1",
+        "UserId": "112337090"
+    },
+    {
+        "gameName": "　掉线女王　",
+        "ip": "183.248.169.160",
+        "time": "2014-09-16 23:37:38",
+        "place": "中国浙江省温州市,移动",
+        "uservalues": "ZXlKFsjTkGv3vcTw4rFBbsqr5YLHZ9vN",
+        "UserName": "ptt930320",
+        "UserPwd": "3c1107d63d93d25e",
+        "UserId": "113041881"
+    },
+    {
+        "ip": "126.58.228.66",
+        "time": "2014-09-16 23:30:33",
+        "place": "日本,"
+    },
+    {
+        "gameName": "　戏时　",
+        "ip": "113.56.240.79",
+        "time": "2014-09-16 23:29:36",
+        "place": "中国湖北省荆州市,联通",
+        "uservalues": "ZXlKFsjTkGtLi0TXoUQiYb7iqcCOo5tL",
+        "UserName": "徐若茵太丑",
+        "UserPwd": "e1f26b95f5002d81",
+        "UserId": "112010404"
+    },
+    {
+        "gameName": "pa***09",
+        "ip": "119.145.148.215",
+        "time": "2014-09-16 23:28:59",
+        "place": "中国广东省佛山市,电信",
+        "uservalues": "ZXlKFsjTkGviPrh3B1sacFqVC2lw6Z9a",
+        "UserName": "pace909",
+        "UserPwd": "2e6e20c65153a176",
+        "UserId": "113819771"
+    },
+    {
+        "gameName": "麻仓叶sama",
+        "ip": "124.205.205.248",
+        "time": "2014-09-16 23:27:24",
+        "place": "中国北京市北京市,鹏博士",
+        "uservalues": "ZXlKFsjTkGsEikg4fInvPJo5P3RcQS+q",
+        "UserName": "pika001",
+        "UserPwd": "627a16b1b03226b9",
+        "UserId": "113808106"
+    },
+    {
+        "gameName": "麻仓叶sama",
+        "ip": "124.205.205.248",
+        "time": "2014-09-16 23:22:20",
+        "place": "中国北京市北京市,鹏博士",
+        "uservalues": "ZXlKFsjTkGsEikg4fInvPJo5P3RcQS+q",
+        "UserName": "pika001",
+        "UserPwd": "627a16b1b03226b9",
+        "UserId": "113808106"
+    },
+    {
+        "gameName": "麻仓叶sama",
+        "ip": "124.205.205.248",
+        "time": "2014-09-16 23:19:18",
+        "place": "中国北京市北京市,鹏博士",
+        "uservalues": "ZXlKFsjTkGsEikg4fInvPJo5P3RcQS+q",
+        "UserName": "pika001",
+        "UserPwd": "627a16b1b03226b9",
+        "UserId": "113808106"
+    },
+    {
+        "gameName": "从良未遂",
+        "ip": "124.205.205.248",
+        "time": "2014-09-16 23:15:19",
+        "place": "中国北京市北京市,鹏博士",
+        "uservalues": "ZXlKFsjTkGs4tX7b3I9Kgl/OYI/JyOyR",
+        "UserName": "deathnotekk",
+        "UserPwd": "627a16b1b03226b9",
+        "UserId": "113264864"
+    },
+    {
+        "ip": "124.205.205.248",
+        "time": "2014-09-16 23:12:38",
+        "place": "中国北京市北京市,鹏博士"
+    }
+]
