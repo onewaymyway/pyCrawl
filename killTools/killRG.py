@@ -24,8 +24,9 @@ values = {
           #'cb' : 'jQuery110209612188022583723_1405057078072',
           '__EVENTTARGET' : '',
           '__EVENTARGUMENT' : '',
-          '__VIEWSTATE' : '/wEPDwUJMTI5NzM2MzEyZGTJPT63mQRdkB1lF1rIOYc827SVEw==',
-          '__EVENTVALIDATION' : '/wEWBwLS2pi9BwLEhISACwLKw/ZKAsrDurkGAoTz/f8JApL76rYEAoznisYGfZmBFjtVdOiQx0MaX2wNedGs+4k=',
+          '__VIEWSTATEGENERATOR':'BAE963F9',
+          '__VIEWSTATE' : '/wEPDwUJMTI5NzM2MzEyZGQtK89ZN0vZ8S3X+JMEdRXK0D+GdA==',
+          '__EVENTVALIDATION' : '/wEWBwLjoKOoCgLEhISACwLKw/ZKAsrDurkGAoTz/f8JApL76rYEAoznisYGiFIqlKd3My1jS4ZtTKrb9MFd9us=',
           'txtname' : 'kill011',
           'txtpass1' : 'deathnote123',
           'txtpass2' : 'deathnote123',
@@ -52,7 +53,7 @@ headers = {
     'X-Requested-With' : 'XMLHttpRequest'
             }
 cj = http.cookiejar.CookieJar()
-tProxy="222.66.115.233:80"
+tProxy="218.108.168.69:80"
 #tProxy="127.0.0.1:8080"
 iprecord=0
 proxy_handler = urllib.request.ProxyHandler({'http':tProxy})
