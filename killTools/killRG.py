@@ -8,13 +8,14 @@ import socket
 import http.cookiejar
 import random
 import re
+from yzm import checkYZM
 #from bs4 import BeautifulSoup
 
 #url = 'http://api.open.baidu.com/pae/channel/data/asyncqury?cb=jQuery110209612188022583723_1405057078072&appid=4001&com=shentong&nu=768936885065&_=1405057078095'
 url = 'http://api.open.baidu.com/pae/channel/data/asyncqury'
 url="http://www.ss911.cn/pages/reg/regUser.aspx";
 
-socket.setdefaulttimeout(19.0)
+socket.setdefaulttimeout(10.0)
 
 tNum=50003251804803;
 
@@ -52,25 +53,98 @@ headers = {
     'User-Agent' : 'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153',
     'X-Requested-With' : 'XMLHttpRequest'
             }
-cj = http.cookiejar.CookieJar()
-tProxy="218.108.168.69:80"
+
+
+#tProxy="117.21.192.10:80"
 #tProxy="127.0.0.1:8080"
 iprecord=0
-proxy_handler = urllib.request.ProxyHandler({'http':tProxy})
-proxy_auth_handler = urllib.request.ProxyBasicAuthHandler()
-opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj), proxy_handler)
 displayed={};
 ISOTIMEFORMAT='%Y-%m-%d %X'
+hidenget=0
+
+def getAProxy():
+    
+    f=open('regProxy.txt',"r",encoding="utf-8");
+    proxys=[]
+    for line in f.readlines():
+        line=line.strip()
+        if len(line)>1:
+            proxys.append(line)
+    f.close()
+    rst=proxys.pop()
+    print('setProxy:'+rst)
+    lStr='\n'.join(proxys)
+    f=open('regProxy.txt',"w",encoding="utf-8");
+    f.write(lStr)
+    f.close()
+    return rst
+
+
+    
+def changeIP():
+    global hidenget
+    hidenget=0
+    global texpt
+    texpt=0
+    global tProxy
+    tProxy=getAProxy()
+    #tProxy="127.0.0.1:8080"
+    global iprecord
+    iprecord=0
+    global cj
+    cj = http.cookiejar.CookieJar()
+    proxy_handler = urllib.request.ProxyHandler({'http':tProxy})
+    proxy_auth_handler = urllib.request.ProxyBasicAuthHandler()
+    global opener
+    opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cj), proxy_handler)
+
+def getWeb():
+    url='http://www.ss911.cn/pages/reg/regUser.aspx'
+    req=urllib.request.Request(url)
+    global opener
+    response=opener.open(req)
+    data=response.read().decode('utf-8')
+    #print(data)
+    return data
+
+def getValues(txt):
+    p=re.compile(r'input type="hidden" name="(.*?)" id="(.*?)" value="(.*?)" ')
+    msp=p.findall(txt)
+    global values
+    #data={}
+    for kk in msp:
+        #print(kk)
+        key=kk[0]
+        value=kk[2]
+        values[key]=value
+
+    #print(data)
+    
+def getHidden():
+    print('try get Hidden')
+    txt=getWeb()
+    getValues(txt)
+    global hidenget
+    hidenget=1
+    
 def regCount():
     uname=getARandomEName()
+    global hidenget
+    if hidenget<1:
+        getHidden()
     getYzm()
+    time.sleep(1)
     print('keyword:',uname)
     values["txtname"]=uname;
     print('uname:',uname,'-')
     values["txtemail"]=uname+"@126.com";
     values["txtpass1"]=uname;
     values["txtpass2"]=values["txtpass1"]
-    yzm = input('Enter yzm: ')
+    #yzm = input('Enter yzm: ')
+    yzm=checkYZM.checkAndSave('yzma.png')
+    
+    print(yzm)
+    
     values["txtyzm"]=yzm
     data = urllib.parse.urlencode(values)
     data = data.encode('utf-8')
@@ -98,6 +172,7 @@ def regCount():
         getUIP()
     elif rstTxt.find('IP超过了注册上限，不能注册！')>=0:
         print('IP超过了注册上限')
+        changeIP()
     elif rstTxt.find('该用户名已经被注册了')>=0:
         print('该用户名已经被注册了')
     elif rstTxt.find('验证码输入不正确！')>=0:
@@ -106,12 +181,14 @@ def regCount():
     else:
         print(rstTxt)
         print('注册失败')
-    regCount()
+    #regCount()
 
 
 
 def getYzm():
+    print('try get Yzm')
     value={"dt":"Wed Aug 27 2014 16:33:02 GMT 0800 (中国标准时间)"}
+    value['qt']=time.ctime()+' GMT 0800 (中国标准时间)'
     purl="http://www.ss911.cn/pages/yzm.aspx?"+urllib.parse.urlencode(value)
     req=urllib.request.Request(purl,None,headers)
 
@@ -143,7 +220,8 @@ def setName(uvalue):
         print('改名成功')
         return tname
     else:
-        yzm = input('Enter cName: ')
+        print('名字重复，尝试新名字')
+        time.sleep(1)
         return setName(uvalue)
 
 def getUIP():
@@ -158,10 +236,17 @@ def getNewName(oname):
     return oname+"s"
 
 def initNamedic():
-    f=open("names.txt","r",encoding="utf-8");
-    namets=f.readline();
+    namefiles=['netNameList','netNameListfuhao','netNameListgaoxiao','netNameListshanggan','netNameListxiaoqingxin']
+    for filename in namefiles:
+        addNameDic('nameTools/'+filename+'.txt')
+
+def addNameDic(fileName):
+    f=open(fileName,"r",encoding="utf-8");
     global namedic
-    namedic=namets.split(',')
+    for line in f.readlines():
+        line=line.strip()
+        if len(line)>1:
+            namedic.append(line)
     print('len:',len(namedic))
     f.close()
 
@@ -224,8 +309,19 @@ initNamedic();
 print(getARandomName())
 initEnames();
 print(getARandomEName())
-
-regCount()
+texpt=0
+changeIP()
+while(1):
+    try:
+        regCount()
+    
+    except Exception as e:
+        print(e)
+        texpt=texpt+1
+        if(texpt>3):
+            texpt=0
+            changeIP()
+#regCount()
 
 ##while(1):
 ##    try:
