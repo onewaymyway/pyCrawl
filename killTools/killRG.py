@@ -15,7 +15,7 @@ from yzm import checkYZM
 url = 'http://api.open.baidu.com/pae/channel/data/asyncqury'
 url="http://www.ss911.cn/pages/reg/regUser.aspx";
 
-socket.setdefaulttimeout(10.0)
+socket.setdefaulttimeout(8.0)
 
 tNum=50003251804803;
 
