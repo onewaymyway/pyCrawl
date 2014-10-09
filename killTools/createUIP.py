@@ -12,7 +12,7 @@ for line in f.readlines():
         ipList.append(tip)
 f.close()
 ttxt=','.join(ipList)
-
+print(ipList)
 f=open("ipsForK.txt","w",encoding="utf-8");
 f.write(ttxt)
 f.close()

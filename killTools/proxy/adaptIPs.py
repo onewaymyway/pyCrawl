@@ -1,8 +1,8 @@
 
 
 
-def getProxys():
-    f=open("ips.txt","r",encoding="utf-8")
+def getProxys(of):
+    f=open(of,"r",encoding="utf-8")
     nips=[]
     for line in f.readlines():
         tline=line.strip()
@@ -12,9 +12,17 @@ def getProxys():
     f.close()
     return nips
 
-proxys=getProxys()
-print('proxyCount:',len(proxys))
-f=open("ipadt.txt","w",encoding="utf-8")
-ct='\n'.join(proxys)
-f.write(ct)
-f.close()
+def adptProxy(of,tf):
+    proxys=getProxys(of)
+    print('proxyCount:',len(proxys))
+    f=open(tf,"w",encoding="utf-8")
+    ct='\n'.join(proxys)
+    f.write(ct)
+    f.close()
+
+#adptProxy('ipsn.txt','ipadt1.txt')
+#adptProxy('proxyTotal.txt','proxyLib.txt')
+adptProxy('apiProxy1.txt','apiproxyLib.txt')
+    
+    
+

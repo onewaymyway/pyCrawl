@@ -116,6 +116,11 @@ def work(start,end):
     saveAll(datas)
         
 
-work(30,400)
+#work(30,400)
+##work(400,600)
+##work(600,900)
+##work(900,1100)
+#work(1100,1300)
+work(1300,1500)
 
 

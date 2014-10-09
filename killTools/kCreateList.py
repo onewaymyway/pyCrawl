@@ -32,10 +32,22 @@ def createArmy(pList):
     print('arms:\n','num:',len(armyList),'\n',armyList)
     return armyList
 
+def createNewArmy(pList):
+    armyO={}
+    armyO['leades']=pList[0:5]
+    armyO['solders']=pList[5:len(pList)]
+    armyO['aname']='卫队'
+    armyO['roomName']='禁首房主'
+    return armyO
+    
 print('goodPlayers:\n',tList)
 print('badPlayers:\n',tLList)
 armo=createArmy(tLList[1:21])
+armo=createNewArmy(tLList)
 f=open("myArmy.txt","w",encoding="utf-8")
 f.write(json.dumps(armo))
 #f.write(str(armo))
 f.close()
+
+print(tLList[1:2])
+print(tLList[2:3])

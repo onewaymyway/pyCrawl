@@ -8,11 +8,11 @@ for line in f.readlines():
         tip=tline
     else:
         tip=tline.split(',')[0]
-    if len(tip)>1:
+    if (len(tip)>1) and (not tip in ipList):
         ipList.append(tip)
 f.close()
 ttxt=','.join(ipList)
-
+print(len(ipList))
 f=open("ipsForK.txt","w",encoding="utf-8");
 f.write(ttxt)
 f.close()

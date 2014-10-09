@@ -31,4 +31,4 @@ def getInfo(uid):
     print(tip)
 
 
-getInfo("113394703")
+getInfo("112594100")

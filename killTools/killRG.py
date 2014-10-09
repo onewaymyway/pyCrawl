@@ -236,7 +236,18 @@ def getNewName(oname):
     return oname+"s"
 
 def initNamedic():
-    namefiles=['netNameList','netNameListfuhao','netNameListgaoxiao','netNameListshanggan','netNameListxiaoqingxin']
+    namefiles=[
+        'netNameList',
+        'netNameListfuhao',
+        'netNameListgaoxiao',
+        'netNameListshanggan',
+        'netNameListkongjian',
+        'netNameListaiqing',
+        'netNameListtuifei',
+        'netNameListbaqi',
+        'netNameListchaozhuai',
+        'netNameListxiaoqingxin'
+        ]
     for filename in namefiles:
         addNameDic('nameTools/'+filename+'.txt')
 

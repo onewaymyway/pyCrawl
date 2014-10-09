@@ -71,13 +71,15 @@ class IPGetter:
         self.login()
         self.getUIP()
         mylock.acquire()
-        f=open("goodProxyn.txt","a",encoding="utf-8")
+        f=open("goodProxyn4.txt","a",encoding="utf-8")
         f.write(proxy+"\n")
         f.close()
         mylock.release()
 
-def getProxys():
-    f=open("pList.txt","r",encoding="utf-8")
+def getProxys(proxyfile):
+    #f=open("pList.txt","r",encoding="utf-8")
+    f=open(proxyfile,"r",encoding="utf-8")
+    #f=open("ttproxy.txt","r",encoding="utf-8")
     proxyList=[]
     for line in f.readlines():
         line=line.strip()
@@ -114,9 +116,9 @@ def sprint(*args):
     mylock.release()
 def beginWork():
     global proxys
-    proxys=getProxys()
+    proxys=getProxys('pList.txt')
     print('proxys:',len(proxys))
-    tCount=180;
+    tCount=200;
     threads=[]
     for i in range(0,tCount):
         t=threading.Thread(target=runAwork)
