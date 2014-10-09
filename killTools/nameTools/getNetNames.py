@@ -65,13 +65,13 @@ def getProxyByUrl(url):
         print("fail:"+url)
     
 def saveProxyFile(pList):
-    f=open("netNameListshanggan.txt","w",encoding="utf-8");
+    f=open("netNameListchaozhuai.txt","w",encoding="utf-8");
     data="\n".join(pList)
     txt=f.write(data);
     f.close()
 
 #getProxyByUrl('http://www.oicq88.com/feizhuliu/15.htm')
 
-for i in range(1,12):
-    getProxyByUrl('http://www.oicq88.com/shanggan/'+str(i)+'.htm')
+for i in range(1,37):
+    getProxyByUrl('http://www.oicq88.com/chaozhuai/'+str(i)+'.htm')
 saveProxyFile(proxyList)
