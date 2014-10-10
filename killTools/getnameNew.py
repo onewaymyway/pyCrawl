@@ -31,4 +31,8 @@ def getInfo(uid):
     print(tip)
 
 
+<<<<<<< .mine
+getInfo("113491719")
+=======
 getInfo("112594100")
+>>>>>>> .r35

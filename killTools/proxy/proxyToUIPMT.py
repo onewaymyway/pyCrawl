@@ -116,7 +116,7 @@ def sprint(*args):
     mylock.release()
 def beginWork():
     global proxys
-    proxys=getProxys('pList.txt')
+    proxys=getProxys('proxy.txt')
     print('proxys:',len(proxys))
     tCount=200;
     threads=[]
