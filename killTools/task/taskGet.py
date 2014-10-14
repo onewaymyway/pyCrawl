@@ -106,7 +106,7 @@ class IPGetter:
             if self.user==None:
                 return
             tProxy=getAProxy()
-            sprint('proxy:',tProxy)
+            #sprint('proxy:',tProxy)
             if tProxy==None:
                 return
             else:
@@ -195,7 +195,7 @@ def initProxy():
 def beginWork():
     initUsers()
     initProxy()
-    tCount=200;
+    tCount=100;
     threads=[]
     for i in range(0,tCount):
         t=threading.Thread(target=runAwork)
