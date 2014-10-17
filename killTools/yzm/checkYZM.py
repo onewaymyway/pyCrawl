@@ -51,6 +51,7 @@ def simpleTest():
     
 if __name__=='__main__':
     print('hello yzm')
+    checkAndSave('yzma.png')
 else:
     pass
 
