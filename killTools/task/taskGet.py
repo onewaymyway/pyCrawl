@@ -104,10 +104,12 @@ class IPGetter:
         while 1:
             sprint('user:',self.user)
             if self.user==None:
+                sprint("self.user==None:",self.user)
                 return
             tProxy=getAProxy()
             #sprint('proxy:',tProxy)
             if tProxy==None:
+                sprint("tProxy==None:",self.user)
                 return
             else:
                 self.setProxy(tProxy)
