@@ -237,16 +237,8 @@ def getNewName(oname):
 
 def initNamedic():
     namefiles=[
-        'netNameList',
-        'netNameListfuhao',
-        'netNameListgaoxiao',
-        'netNameListshanggan',
-        'netNameListkongjian',
-        'netNameListaiqing',
-        'netNameListtuifei',
-        'netNameListbaqi',
-        'netNameListchaozhuai',
-        'netNameListxiaoqingxin'
+        'newNameDic',
+        'tbName'
         ]
     for filename in namefiles:
         addNameDic('nameTools/'+filename+'.txt')
